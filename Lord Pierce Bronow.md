@@ -243,6 +243,7 @@
 ---
 
 ## 🗒️LLM TODO
+- Update Tactical Guide to account for Sentinel feat.
 
 ## Session Notes
 
