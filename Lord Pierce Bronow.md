@@ -217,5 +217,23 @@
 
 ---
 
-## 🗒️ TODO
-* ```
+## 🗒️LLM TODO
+* Purchase 5x Potion of Cold Resistance at sale price 10gp each.
+* Looted boots of the winterland. Add to inventory. Note value and characteristics
+* Looted Staff of the Adder. Add to inventory. Note value and characteristics
+* Add 500gp.
+* Level up to 4.
+* Buy Scroll of Lesser Restoration
+
+## Session Notes
+
+### 2026 Jan 29
+- Used Lay on Hands
+- Used Scroll of Lesser Restoration
+- Used Healing Word
+- take 7 dmg, 14 dmg, +10 heal
+- used divine smite
+- add boots of the winterland
+- staff of the adder
+- +500gp
+- level 4
