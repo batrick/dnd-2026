@@ -247,6 +247,14 @@
 
 ## Session Notes
 
+### 2026 Feb 11
+- Hunters Mark; d20 -> 18 + 5 ; +5 dmg + 3 + 2 (hunters mark)
+- 11 dmg
+- used 20 lay-on hands
+- 5 piercing
+- +500 gp
+
+
 ### 2026 Jan 29
 - Used Lay on Hands
 - Used Scroll of Lesser Restoration
