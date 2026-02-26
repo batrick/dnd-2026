@@ -1,6 +1,6 @@
-# Lord Pierce Bronow - Level 4 Paladin (Oath of Vengeance)
+# Lord Pierce Brosnow - Level 4 Paladin (Oath of Vengeance)
 
-![Lord Pierce Bronow](lord-pierce-bronow.jpg)
+![Lord Pierce Brosnow](lord-pierce-brosnow.jpg)
 
 **Player:** Patrick Donnelly
 
