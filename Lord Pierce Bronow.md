@@ -7,7 +7,7 @@
 **Class:** Paladin (Oath of Vengeance) | **Level:** 4
 
 **Race:** Orc | **Background:** Noble
-**Experience Points:** Milestone | **Gold:** 527.5 Gold Pieces | **Language:** Common, Orc
+**Experience Points:** Milestone | **Gold:** 1027.5 Gold Pieces | **Language:** Common, Orc
 
 ---
 
@@ -125,7 +125,7 @@
 
 ## 🎒 Inventory & Equipment
 
-**Current Gold:** 527.5 Gold Pieces
+**Current Gold:** 1027.5 Gold Pieces
 
 ### 🧪 Consumable Slots (Tier 1 Limit: 5 per Session)
 1. **Potion of Healing** (2d4+2)
@@ -163,6 +163,7 @@
 
 * **Preferred Action:** **Attack** with Pike (Reach 10 feet).
 * **Preferred Bonus Action:** **Vow of Enmity** (Channel Divinity) for Advantage.
+* **Sentinel Reaction:** If the Boss attacks an ally within 5 feet of you, you get a free reaction attack. This is an excellent opportunity to trigger **Divine Smite** off-turn.
 * **Key Spells:**
     * **Hunter's Mark (Bonus Action):** Cast this immediately. *Benefit:* Adds +1d6 damage per hit. **Note:** Due to House Rules, this does *not* require Concentration, allowing you to stack it with Bless.
     * **Divine Smite (Bonus Action):** Use after you land a critical hit or when you need burst damage.
@@ -174,6 +175,7 @@
 * **Preferred Action:** **Cast Bless**.
     * *Effect:* You and 2 allies add +1d4 to Attacks and Saving Throws. This is mathematically huge for the party's success rate.
 * **Preferred Bonus Action:** **Shout Instruction** or **Lay on Hands**.
+* **Sentinel Defense:** Position yourself adjacent to squishy allies (Wizard/Rogue). If an enemy attacks them, **Sentinel** grants you a retaliatory strike, punishing the enemy for ignoring you.
 * **Key Spells:**
     * **Bless (Action):** The best mathematically defensive and offensive buff for the group.
     * **Healing Word (Bonus Action - Item):** Use this from your Enspelled Symbol to revive a downed ally from 60 feet away.
@@ -186,6 +188,7 @@
     * *Effect:* 3 Enemies take -1d4 penalty to Attacks and Saves. Good against mobs with low Charisma.
 * **Preferred Bonus Action:** **Abjure Enemy** (Channel Divinity).
     * *Effect:* Frightens one enemy and reduces their speed to 0. Great for stopping a "runner" or a brute trying to reach your wizard.
+* **Sentinel Lockdown:** If an enemy tries to run past you to get to your backline, your Opportunity Attack reduces their speed to **0** for the rest of the turn, effectively rooting them in place.
 * **Key Spells:**
     * **Bane (Action):** Makes enemies miss more often.
     * **Toll the Dead (Action):** Use against enemies with High Armor Class or at range. Deals 1d12 Necrotic damage if they are injured.
@@ -211,6 +214,10 @@
 * **Stealth (+0):** Move quietly or hide from view (Note: You have Disadvantage on these checks while wearing Splint Armor).
 
 ---
+
+## 📝 Change Log (Feb 2026 Updates)
+* **Financials:** Added +500 Gold Pieces from Feb 11 session (New Total: 1027.5 Gold Pieces).
+* **Tactical Guide:** Updated all scenarios to include **Sentinel** feat strategies (Reaction attacks, defensive positioning, and speed reduction).
 
 ## 📝 Change Log (Level 3 → 4)
 * **Feat:** Selected **Sentinel** (2024 Version).
@@ -243,7 +250,6 @@
 ---
 
 ## 🗒️LLM TODO
-- Update Tactical Guide to account for Sentinel feat.
 
 ## Session Notes
 
