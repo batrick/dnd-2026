@@ -7,7 +7,7 @@
 **Class:** Paladin (Oath of Vengeance) | **Level:** 4
 
 **Race:** Orc | **Background:** Noble
-**Experience Points:** Milestone | **Gold:** 1027.5 Gold Pieces | **Language:** Common, Orc
+**Experience Points:** Milestone | **Gold:** 1502.5 Gold Pieces | **Language:** Common, Orc
 
 ---
 
@@ -70,7 +70,7 @@
 * **Adrenaline Rush (Orc Trait):** Dash action + Gain 2 Temporary Hit Points. (Proficiency Bonus uses/Long Rest).
 * **Lay on Hands:** Heal creature in touch range. Pool: **20 Hit Points**.
 * **Potion:** Drink a potion.
-* **Healing Word (Item):** Cast *Healing Word* (Heals 1d4 + Modifier). Range 60 feet.
+* **Healing Word (Item):** Cast *Healing Word* (Heals 1d4 + 3 Charisma Modifier). Range 60 feet.
 * **Spot a Foe:** Perception check vs Stealth.
 * **Shout Instruction:** Issue 5-word instruction to allies.
 * **Monster Knowledge:** Skill check (Difficulty Class 10 + ½ CR) to recall stats.
@@ -93,7 +93,7 @@
 -   **[Oath] Bane:** (Concentration) 3 targets, subtract 1d4 from Attack/Save.
 -   **[Oath] Hunter's Mark:** +1d6 Force damage on hit. **House Rule:** 1 minute duration, **NO Concentration**.
 -   **Bless:** (Concentration) 3 targets, add +1d4 to Attack/Save.
--   **Cure Wounds:** Heal 2d8 + Modifier (Touch).
+-   **Cure Wounds:** Heal 2d8 + 3 Charisma Modifier (Touch).
 -   **Shield of Faith:** (Concentration) +2 Armor Class (Bonus Action).
 
 ---
@@ -125,7 +125,7 @@
 
 ## 🎒 Inventory & Equipment
 
-**Current Gold:** 1027.5 Gold Pieces
+**Current Gold:** 1502.5 Gold Pieces
 
 ### 🧪 Consumable Slots (Tier 1 Limit: 5 per Session)
 1. **Potion of Healing** (2d4+2)
@@ -179,7 +179,7 @@
 * **Key Spells:**
     * **Bless (Action):** The best mathematically defensive and offensive buff for the group.
     * **Healing Word (Bonus Action - Item):** Use this from your Enspelled Symbol to revive a downed ally from 60 feet away.
-    * **Cure Wounds (Action):** Use only if an ally is critical and you are next to them; heals significantly more than Healing Word (2d8+Modifier).
+    * **Cure Wounds (Action):** Use only if an ally is critical and you are next to them; heals significantly more than Healing Word (2d8+3).
 
 ### 🌪️ Scenario C: Crowd Control (Many Weak Enemies)
 *Goal: Debuff enemies and manage the battlefield.*
@@ -216,6 +216,11 @@
 ---
 
 ## 📝 Change Log (Feb 2026 Updates)
+### Feb 25 2026
+* **Financials**: Added +475 Gold Pieces (New Total: 1502.5 Gold Pieces).
+* **Mechanics**: Updated *Cure Wounds* and *Healing Word* descriptions to specify the Charisma Modifier value (+3).
+
+### Feb 11 2026
 * **Financials:** Added +500 Gold Pieces from Feb 11 session (New Total: 1027.5 Gold Pieces).
 * **Tactical Guide:** Updated all scenarios to include **Sentinel** feat strategies (Reaction attacks, defensive positioning, and speed reduction).
 
@@ -250,8 +255,6 @@
 ---
 
 ## 🗒️LLM TODO
-- update cure wounds and anywhere else that says +modifier to specify the type of modifier and what the value is.
-- add 475 gp
 
 ## Session Notes
 
