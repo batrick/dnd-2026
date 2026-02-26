@@ -250,8 +250,20 @@
 ---
 
 ## 🗒️LLM TODO
+- update cure wounds and anywhere else that says +modifier to specify the type of modifier and what the value is.
+- add 475 gp
 
 ## Session Notes
+
+### 2026 Feb 25
+- Start session with Heroic Inspiration.
+- Red Wizard Dazann burned. 
+- Fireball scroll or bag of tricks from Captain Imdra Arlagath.
+- Wet trout inn. N'metra dragonborn. Cython tiefling ferryman coiling rope. 
+  + song over the lake, cython heariing it
+- level of exhaustion (-2 to all rolls)
+- use potion of frost resistance at ice giant cave
+- add 475g
 
 ### 2026 Feb 11
 - Hunters Mark; d20 -> 18 + 5 ; +5 dmg + 3 + 2 (hunters mark)
