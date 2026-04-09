@@ -294,6 +294,10 @@
 
 ## Session Notes
 
+### 2026 Apr 08
+- add snowflake
+
+
 ### 2026 Feb 25
 - Start session with Heroic Inspiration.
 - Red Wizard Dazann burned. 
