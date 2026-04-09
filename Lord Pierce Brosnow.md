@@ -7,7 +7,7 @@
 **Class:** Paladin (Oath of Vengeance) | **Level:** 6
 
 **Race:** Orc | **Background:** Noble
-**Experience Points:** Milestone | **Gold:** 6602.5 Gold Pieces | **Language:** Common, Orc
+**Experience Points:** Milestone | **Gold:** 3902.5 Gold Pieces | **Language:** Common, Orc
 
 ---
 
@@ -15,9 +15,9 @@
 
 | Armor Class | Hit Points | Speed | Initiative | Proficiency Bonus | Spell Save Difficulty Class | Spell Attack Modifier |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **17** | **52** | 30 feet | +0 | +3 | **14** | **+6** |
+| **18** | **52** | 30 feet (Fly 30 feet) | +0 | +3 | **14** | **+6** |
 
-> **Armor Class Source:** Splint Armor (17)
+> **Armor Class Source:** Plate Armor (18)
 > **Senses:** Darkvision 120 feet, Blind Fighting 10 feet, Passive Perception 12
 
 ## 🛡️ Ability Scores
@@ -27,11 +27,11 @@
 | **Strength** | **17** | +3 | +6 |
 | **Dexterity** | 10 | +0 | +3 |
 | **Constitution** | 14 | +2 | +5 |
-| **Intelligence** | 9 | -1 | +2 |
+| **Intelligence** | **19** | **+4** | **+7** |
 | **Wisdom** | 8 | -1 | +5 |
 | **Charisma** | **16** | +3 | **+9** |
 
-*Note: All saving throws include the +3 bonus from Aura of Protection.*
+*Note: Intelligence is set to 19 by the Headband of Intellect. All saving throws include the +3 bonus from Aura of Protection.*
 
 ## 🎭 Skills
 
@@ -39,19 +39,19 @@
 | :--- | :---: | :---: |
 | **Acrobatics (Dexterity)** | +0 | |
 | **Animal Handling (Wisdom)** | -1 | |
-| **Arcana (Intelligence)** | -1 | |
+| **Arcana (Intelligence)** | **+4** | |
 | **Athletics (Strength)** | **+6** | **✓** |
 | **Deception (Charisma)** | **+6** | **✓** |
-| **History (Intelligence)** | **+2** | **✓** |
+| **History (Intelligence)** | **+7** | **✓** |
 | **Insight (Wisdom)** | **+2** | **✓** |
 | **Intimidation (Charisma)** | **+6** | **✓** |
-| **Investigation (Intelligence)** | -1 | |
+| **Investigation (Intelligence)** | **+4** | |
 | **Medicine (Wisdom)** | -1 | |
-| **Nature (Intelligence)** | -1 | |
+| **Nature (Intelligence)** | **+4** | |
 | **Perception (Wisdom)** | **+2** | **✓** |
 | **Performance (Charisma)** | +3 | |
 | **Persuasion (Charisma)** | **+6** | **✓** |
-| **Religion (Intelligence)** | -1 | |
+| **Religion (Intelligence)** | **+4** | |
 | **Sleight of Hand (Dexterity)** | +0 | |
 | **Stealth (Dexterity)** | +0 | |
 | **Survival (Wisdom)** | -1 | |
@@ -61,7 +61,7 @@
 ### Weapon Attacks
 | Weapon | Attack Bonus | Damage | Notes |
 | :--- | :---: | :--- | :--- |
-| **Pike** | **+6** | **1d10 + 3** (Piercing) | Heavy, Reach (10 feet), Two-Handed, Push (10 feet) |
+| **+1 Pike** | **+7** | **1d10 + 4** (Piercing) | Heavy, Reach (10 feet), Two-Handed, Push (10 feet), Magical |
 
 > **Extra Attack:** You can attack twice, instead of once, whenever you take the Attack action on your turn.
 > **House Rule (Flanking):** +2 to hit while flanking.
@@ -74,7 +74,6 @@
 * **Adrenaline Rush (Orc Trait):** Dash action + Gain 2 Temporary Hit Points. (Proficiency Bonus uses per Long Rest).
 * **Lay on Hands:** Heal creature in touch range. Pool: **30 Hit Points**.
 * **Potion:** Drink a potion.
-* **Healing Word (Item):** Cast *Healing Word* (Heals 1d4 + 3 Charisma Modifier). Range 60 feet.
 * **Spot a Foe:** Perception check vs Stealth (You have Advantage on this via Blessing of Lathander).
 * **Shout Instruction:** Issue 5-word instruction to allies.
 * **Monster Knowledge:** Skill check (Difficulty Class 10 + ½ Challenge Rating) to recall stats.
@@ -138,7 +137,7 @@
 
 ## 🎒 Inventory & Equipment
 
-**Current Gold:** 6602.5 Gold Pieces
+**Current Gold:** 3902.5 Gold Pieces
 
 ### 🧪 Consumable Slots (Tier 2 Limit: 10 per Session)
 1. **Potion of Healing** (2d4+2)
@@ -152,17 +151,21 @@
 ### Magic Items (Tier 2 Limit: 3 Uncommon+ per Session)
 | Item | Rarity | Effect |
 | :--- | :--- | :--- |
-| **Enspelled Holy Symbol** | Uncommon | Casts *Healing Word* (Bonus Action). |
+| **Winged Boots** | Uncommon | Grants a flying speed equal to your walking speed for up to 4 hours. |
+| **Headband of Intellect** | Uncommon | Sets Intelligence score to 19. |
+| **+1 Pike** | Uncommon | +1 bonus to attack and damage rolls. |
 | **Boots of False Tracks** | Common | Change footprints (Polar Bear). |
 | **Ersatz Eye** | Common | Artificial eye. |
 | **Smoldering Armor** | Common | Cosmetic smoke. |
 | **Unbreakable Arrow** | Common | Cannot break. |
 
 ### Gear (Stored / Unequipped)
+-   *Uncommon Magic Item:* **Enspelled Holy Symbol** (Casts Healing Word).
 -   *Uncommon Magic Item:* **Boots of the Winterland** (Cold Resist, ignore ice terrain).
 -   *Uncommon Magic Item:* **Staff of the Adder** (Requires Cleric/Druid/Warlock).
 -   *Stored Potions:* 1x Potion of Healing, 4x Potion of Cold Resistance.
--   Splint Armor (Armor Class 17)
+-   Plate Armor (Armor Class 18)
+-   Splint Armor (Stored)
 -   Priest's Pack
 -   Holy Symbol
 -   Dice, Fine Clothes, Perfume
@@ -176,26 +179,25 @@
 ### 🎯 Scenario A: The Boss Killer (Single Strong Enemy)
 *Goal: Maximize single-target damage and accuracy.*
 
-* **Preferred Action:** **Attack** with Pike (Reach 10 feet). Thanks to Extra Attack, you swing twice!
+* **Preferred Action:** **Attack** with +1 Pike (Reach 10 feet). Thanks to Extra Attack, you swing twice! Use your **Winged Boots** to fly directly over the frontline and engage the boss (especially Mind Flayers) while avoiding ground hazards.
 * **Preferred Bonus Action 1:** **Vow of Enmity** (Channel Divinity) for Advantage.
 * **Preferred Bonus Action 2 (Via Move Downgrade):** **Blessing of Lathander** to deal an automatic 6 Radiant damage after hitting, and getting a free Perception check with Advantage to spot any hidden minions.
 * **Sentinel Reaction:** If the Boss attacks an ally within 5 feet of you, you get a free reaction attack. This is an excellent opportunity to trigger **Divine Smite** off-turn.
 * **Key Spells:**
     * **Hunter's Mark (Bonus Action):** Cast this immediately. *Benefit:* Adds +1d6 damage per hit. **Note:** Due to House Rules, this does *not* require Concentration, allowing you to stack it with Bless.
     * **Divine Smite (Bonus Action):** Use after you land a critical hit or when you need burst damage.
-    * **Shield of Faith (Bonus Action):** If the boss hits hard, boost your Armor Class to 19.
+    * **Shield of Faith (Bonus Action):** If the boss hits hard, boost your Armor Class to 20.
 
 ### 🛡️ Scenario B: The Party Leader (Buff & Support)
 *Goal: Improve ally accuracy and keep them alive.*
 
 * **Preferred Action:** **Cast Bless**.
-    * *Effect:* You and 2 allies add +1d4 to Attacks and Saving Throws. This stacks with your Aura of Protection for massive defensive capabilities.
+    * *Effect:* You and 2 allies add +1d4 to Attacks and Saving Throws. This stacks with your Aura of Protection for massive defensive capabilities. Stay hovering nearby allies to ensure they remain within your Aura.
 * **Preferred Bonus Action:** **Shout Instruction** or **Lay on Hands**.
 * **Sentinel Defense:** Position yourself adjacent to squishy allies (Wizard/Rogue). If an enemy attacks them, **Sentinel** grants you a retaliatory strike, punishing the enemy for ignoring you.
 * **Key Spells:**
     * **Bless (Action):** The best mathematically defensive and offensive buff for the group.
-    * **Healing Word (Bonus Action - Item):** Use this from your Enspelled Symbol to revive a downed ally from 60 feet away.
-    * **Cure Wounds (Action):** Use only if an ally is critical and you are next to them; heals significantly more than Healing Word (2d8+3).
+    * **Cure Wounds (Action):** Use only if an ally is critical and you are next to them; heals 2d8+3. *Note: With the Enspelled Holy Symbol stored, you must rely on this action or Lay on Hands for healing.*
 
 ### 🌪️ Scenario C: Crowd Control (Many Weak Enemies)
 *Goal: Debuff enemies and manage the battlefield.*
@@ -204,7 +206,7 @@
     * *Effect:* 3 Enemies take -1d4 penalty to Attacks and Saves. Good against mobs with low Charisma.
 * **Preferred Bonus Action:** **Abjure Enemy** (Channel Divinity).
     * *Effect:* Frightens one enemy and reduces their speed to 0. Great for stopping a "runner" or a brute trying to reach your wizard.
-* **Sentinel Lockdown:** If an enemy tries to run past you to get to your backline, your Opportunity Attack reduces their speed to **0** for the rest of the turn, effectively rooting them in place.
+* **Sentinel Lockdown:** If an enemy tries to run past you to get to your backline, your Opportunity Attack reduces their speed to **0** for the rest of the turn, effectively rooting them in place. Use your aerial mobility to position yourself directly in choke points.
 * **Key Spells:**
     * **Bane (Action):** Makes enemies miss more often.
     * **Toll the Dead (Action):** Use against enemies with High Armor Class or at range. Deals 1d12 Necrotic damage if they are injured.
@@ -221,15 +223,24 @@
 
 ### 🕵️ Investigation & Knowledge
 * **Spot (Perception +2):** Use your senses to notice hidden details, hear faint noises, or detect an ambush.
-* **Historical Lore (History +2):** Recall information about noble families, ancient kingdoms, or past wars.
+* **Historical Lore (History +7):** Recall information about noble families, ancient kingdoms, or past wars.
 * **Noble Standing (Feature):** As a **Noble**, you can secure an audience with local nobles and people assume you have the right to be where you are.
 
 ### 🧗 Physicality & Utility
-* **Power Through (Athletics +6):** Climb difficult surfaces, jump long distances, or swim through rough water.
+* **Power Through (Athletics +6):** Climb difficult surfaces, jump long distances, or swim through rough water. With Winged Boots, you can simply bypass most physical obstacles entirely.
 * **Animal Handling (-1):** Calm a domesticated animal or intuit an animal’s intentions.
-* **Stealth (+0):** Move quietly or hide from view (Note: You have Disadvantage on these checks while wearing Splint Armor).
+* **Stealth (+0):** Move quietly or hide from view (Note: You have Disadvantage on these checks while wearing Plate Armor).
 
 ---
+
+## 📝 Change Log (Inventory Update & Winged Boots)
+* **Equipment Purchased:** Winged Boots (-400 Gold Pieces), +1 Pike (-400 Gold Pieces), Headband of Intellect (-400 Gold Pieces), Plate Armor (-1,500 Gold Pieces).
+* **Equipment Stored:** Enspelled Holy Symbol. Lost *Healing Word* Bonus Action.
+* **Financials:** Remaining Gold decreased to 3902.5 Gold Pieces.
+* **Vitals Updated:** Armor Class increased to 18 (Plate). Added Flying Speed of 30 feet.
+* **Attacks Updated:** Pike Attack Bonus increased to +7, Damage increased to 1d10+4.
+* **Attributes Updated:** Intelligence set to 19 (+4 modifier). Intelligence Saving Throw increased to +7. Intelligence-based skills updated.
+* **Tactical Guide Updated:** Incorporated Winged Boots mobility across all scenarios and removed *Healing Word* references.
 
 ## 📝 Change Log (Blessing of Lathander Update)
 * **Features Added:** Blessing of Lathander. Added to features list and Bonus Actions. 
