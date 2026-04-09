@@ -256,6 +256,9 @@
 
 ## 🗒️LLM TODO
 
+- I've missed two sessions. Please update character to level 6. Add blessing of lathander (or choose it) as directed by DM.
+- I've been told we are curerntly dealing with psyhic illithids. Appropriate potions or gear advice would be helpful.
+
 ## Session Notes
 
 ### 2026 Feb 25
