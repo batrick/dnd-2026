@@ -68,13 +68,14 @@
 > **House Rule (Skill Crits):** Beat Difficulty Class by 10 for critical success.
 
 ### ⚡ Bonus Actions
+* **Blessing of Lathander:** Choose one creature you damaged this turn. It takes 6 Radiant damage (twice your Proficiency Bonus). You may simultaneously "Spot a Foe" with Advantage. Only one blessing effect active at a time.
 * **Vow of Enmity (Channel Divinity):** Advantage on attack rolls against one creature (10 feet range) for 1 minute.
 * **Divine Smite (Spell):** Expend a spell slot immediately after hitting to deal 2d8 Radiant damage (+1d8 per slot level above 1st). +1d8 if target is Fiend/Undead.
 * **Adrenaline Rush (Orc Trait):** Dash action + Gain 2 Temporary Hit Points. (Proficiency Bonus uses per Long Rest).
 * **Lay on Hands:** Heal creature in touch range. Pool: **30 Hit Points**.
 * **Potion:** Drink a potion.
 * **Healing Word (Item):** Cast *Healing Word* (Heals 1d4 + 3 Charisma Modifier). Range 60 feet.
-* **Spot a Foe:** Perception check vs Stealth.
+* **Spot a Foe:** Perception check vs Stealth (You have Advantage on this via Blessing of Lathander).
 * **Shout Instruction:** Issue 5-word instruction to allies.
 * **Monster Knowledge:** Skill check (Difficulty Class 10 + ½ Challenge Rating) to recall stats.
 
@@ -106,6 +107,9 @@
 ---
 
 ## 🧬 Features & Traits
+
+### Supernatural Gifts
+-   **Blessing of Lathander:** The Morninglord curses the unclean with the light of dawn. As a Bonus Action, choose one creature you damaged this turn. It takes Radiant damage equal to twice your Proficiency Bonus. Your Spot a Foe Bonus Actions have Advantage. You may Spot a Foe. Only one blessing at a time.
 
 ### Feats
 -   **Sentinel (Level 4):**
@@ -173,7 +177,8 @@
 *Goal: Maximize single-target damage and accuracy.*
 
 * **Preferred Action:** **Attack** with Pike (Reach 10 feet). Thanks to Extra Attack, you swing twice!
-* **Preferred Bonus Action:** **Vow of Enmity** (Channel Divinity) for Advantage.
+* **Preferred Bonus Action 1:** **Vow of Enmity** (Channel Divinity) for Advantage.
+* **Preferred Bonus Action 2 (Via Move Downgrade):** **Blessing of Lathander** to deal an automatic 6 Radiant damage after hitting, and getting a free Perception check with Advantage to spot any hidden minions.
 * **Sentinel Reaction:** If the Boss attacks an ally within 5 feet of you, you get a free reaction attack. This is an excellent opportunity to trigger **Divine Smite** off-turn.
 * **Key Spells:**
     * **Hunter's Mark (Bonus Action):** Cast this immediately. *Benefit:* Adds +1d6 damage per hit. **Note:** Due to House Rules, this does *not* require Concentration, allowing you to stack it with Bless.
@@ -225,6 +230,10 @@
 * **Stealth (+0):** Move quietly or hide from view (Note: You have Disadvantage on these checks while wearing Splint Armor).
 
 ---
+
+## 📝 Change Log (Blessing of Lathander Update)
+* **Features Added:** Blessing of Lathander. Added to features list and Bonus Actions. 
+* **Tactical Guide:** Updated "Scenario A: The Boss Killer" to include using the Move action downgrade house rule to apply the Blessing of Lathander alongside other bonus actions.
 
 ## 📝 Change Log (Level 4 → 6)
 * **Level:** Increased to 6.
@@ -281,7 +290,7 @@
 
 ## 🗒️LLM TODO
 
--
+- 
 
 ## Session Notes
 
