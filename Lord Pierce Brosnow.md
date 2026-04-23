@@ -81,7 +81,6 @@
 * **Shout Instruction:** Issue 5-word instruction to allies.
 
 ### 🛡️ Actions
-* **Abjure Foes (Channel Divinity):** As a Magic Action, force creatures in 60 feet to save vs Wisdom or be Frightened for 1 minute. (Costs 1 Channel Divinity).
 * **Monster Knowledge:** Skill check (Difficulty Class 10 + ½ Challenge Rating) to recall stats.
 
 ### ↩️ Reactions
@@ -152,7 +151,6 @@
 -   **Relentless Avenger (Level 7):** Reposition half-speed after landing an Opportunity Attack.
 -   **Channel Divinity (Pool of 2 Uses):**
     -   *Vow of Enmity:* Advantage on attack rolls vs target.
-    -   *Abjure Enemy:* Wisdom Saving Throw. Frightened & Speed 0 (or Speed halved on save). Undead/Fiends have Disadvantage.
     -   *Divine Sense:* Know the location and type of Celestials, Fiends, or Undead within 60 feet for 10 minutes.
 
 ---
