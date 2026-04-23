@@ -159,9 +159,23 @@
 
 ## 🐎 Mount: Otherworldly Steed
 **Form:** Polar Bear | **Type:** Fey
-**Armor Class:** 12 | **Hit Points:** 40 | **Speed:** 60 feet (Fly 60 feet with Level 4+ spell)
 
-* **Otherworldly Slam:** Melee Attack: +6, Reach 5 feet, Damage: 1d8 + 2 **Psychic**.
+| Armor Class | Hit Points | Speed |
+|:--:|:--:|:--:|
+| 12 | 40 (Uses Paladin HP Calc) | 40 feet (Fly 60 feet via spell, Swim 40 feet) |
+
+### 🛡️ Ability Scores
+| Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 20 (+5) | 14 (+2) | 16 (+3) | 2 (-4) | 13 (+1) | 7 (-2) |
+
+### 🎭 Traits & Actions
+* **Senses:** Darkvision 60 feet, Passive Perception 15.
+* **Resistances:** Cold.
+* **Skills:** Perception +5, Stealth +4.
+* **Multiattack:** The bear makes two Rend attacks.
+* **Rend:** Melee Attack Roll: +7, Reach 5 feet, Damage: 1d8 + 5 Slashing.
+* **Otherworldly Slam (Magical):** Melee Attack: +6, Reach 5 feet, Damage: 1d8 + 2 **Psychic**.
 * **Fey Step (Bonus Action):** The steed teleports, along with its rider, up to 60 feet (1 per Long Rest).
 * **Life Bond:** When you are healed by a spell, the steed heals for the same amount if within 5 feet.
 
