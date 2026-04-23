@@ -335,7 +335,7 @@
 ---
 
 ## 🗒️LLM TODO
-- 
+- add ToC  to top of sheet below portrait
 
 ## Session Notes
 
