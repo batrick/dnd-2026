@@ -327,6 +327,15 @@
 
 ## Session Notes
 
+### 2026 Apr 22
+- used oil
+- used potion of frost resist
+- - 5 damage
+- used bear fey step
+- used shining smite
+- 11 count
+
+
 ### 2026 Apr 08
 - take 11 psychic dmg
 - take 11 psychic dmg
