@@ -68,7 +68,7 @@
 > **House Rule (Skill Crits):** Beat Difficulty Class by 10 for critical success.
 
 ### ⚡ Bonus Actions
-* **[Divine Smite](#divine-smite) (Spell):** Expend a spell slot immediately after hitting to deal 2d8 Radiant damage (+1d8 per slot level above 1st). **Note:** Always prepared; one free cast per Long Rest.
+* **[Divine Smite](#divine-smite) (Spell):** Expend a spell slot immediately after hitting to deal 2d8 Radiant damage (+1d8 per slot level above Level 1). **Note:** Always prepared; one free cast per Long Rest.
 * **Divine Sense (Channel Divinity):** Know the location and type of Celestials, Fiends, or Undead within 60 feet for 10 minutes. (Costs 1 Channel Divinity).
 * **Vow of Enmity (Channel Divinity):** Advantage on attack rolls against one creature (10 feet range) for 1 minute. (Costs 1 Channel Divinity).
 * **Blessing of Lathander:** Choose one creature you damaged this turn. It takes 6 Radiant damage (twice your Proficiency Bonus). You may simultaneously "Spot a Foe" with Advantage.
@@ -93,7 +93,7 @@
 ---
 
 ## ✨ Spells
-**Slots:** 4x 1st Level | 3x 2nd Level
+**Slots:** 4x Level 1 | 3x Level 2
 **Channel Divinity Pool:** 2 Uses (Regain 1 on Short Rest; All on Long Rest)
 
 ### Cantrips (At Will)
@@ -105,14 +105,18 @@
 -   **[Find Steed](#find-steed):** Summon an Otherworldly Steed to serve as a loyal mount. (1 free cast per Long Rest)
 
 ### Prepared Spells (7 Slots Used)
+
+#### Level 1
 -   **[Oath] [Bane](#bane):** Up to three targets must subtract 1d4 from attack rolls and saving throws.
 -   **[Oath] [Hunter's Mark](#hunters-mark):** Deal an extra 1d6 Force damage when you hit the target. (**House Rule:** No Concentration)
--   **[Oath] [Hold Person](#hold-person):** Paralyze a humanoid on a failed Wisdom saving throw. (Concentration)
--   **[Oath] [Misty Step](#misty-step):** Teleport up to 30 feet to an unoccupied space you can see as a Bonus Action.
 -   **[Bless](#bless):** Up to three creatures add 1d4 to their attack rolls and saving throws. (Concentration)
 -   **[Cure Wounds](#cure-wounds):** A creature you touch regains Hit Points equal to 2d8 plus your spellcasting ability modifier.
 -   **[Protection from Evil and Good](#protection-from-evil-and-good):** Protect a creature against Aberrations, Celestials, Elementals, Fey, Fiends, and Undead. (Concentration)
 -   **[Shield of Faith](#shield-of-faith):** Grant a creature of your choice a +2 bonus to Armor Class for the duration. (Concentration)
+
+#### Level 2
+-   **[Oath] [Hold Person](#hold-person):** Paralyze a humanoid on a failed Wisdom saving throw. (Concentration)
+-   **[Oath] [Misty Step](#misty-step):** Teleport up to 30 feet to an unoccupied space you can see as a Bonus Action.
 -   **[Aid](#aid):** Increase the Hit Point maximum and current Hit Points of three creatures by 5 for 8 hours.
 -   **[Shining Smite](#shining-smite):** Deal extra Radiant damage and cause the target to shed bright light, granting Advantage on attacks against it. (Concentration)
 -   **[Lesser Restoration](#lesser-restoration):** Touch a creature and end the Blinded, Deafened, Paralyzed, or Poisoned condition.
@@ -120,6 +124,10 @@
 ---
 
 ## 🧬 Features & Traits
+
+### Orc Species
+-   **Adrenaline Rush:** Dash action and gain 2 Temporary Hit Points. (3 uses per Long Rest).
+-   **Relentless Endurance:** When reduced to 0 Hit Points but not killed, drop to 1 Hit Point instead (1 per Long Rest).
 
 ### Paladin Class Features
 -   **Divine Health:** Immune to disease.
@@ -171,6 +179,10 @@
 -   1 Sled & 2 Sled Dogs
 
 ---
+
+## 📝 Change Log (Spell Organization & Feature Restoration)
+* **Spells:** Organized the Prepared Spells list in the main sheet by spell level (Level 1 and Level 2) as requested.
+* **Features:** Restored the 'Orc Species' section under Features & Traits that was inadvertently removed in a prior update, detailing Adrenaline Rush and Relentless Endurance.
 
 ## 📝 Change Log (Error Correction & Section Restoration)
 * **Restorations:** Restored the `Tactical Guide` and `Social & Exploration Actions` appendices that were erroneously removed in previous revisions. 
