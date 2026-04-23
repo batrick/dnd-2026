@@ -12,3 +12,4 @@ Please operate within these guidelines:
 * Do not delete/alter Session Notes.
 * Add description of changes to the Change Log section as a new itemized list and sub-section.
 * If a choice must be made by me (for example: selecting a feat), then please present me a list of options to choose from.
+- Ask questions instead of assuming. Highlight options that may exist.
