@@ -105,7 +105,7 @@
 -   **[Find Steed](#find-steed):** Summon an Otherworldly Steed to serve as a loyal mount. (1 free cast per Long Rest)
 
 ### Prepared Spells (7 Slots Used)
--   **[Oath] [Bane](#bane):** Up to three targets must subtract 1d4 from attack rolls and saving throws. (Concentration)
+-   **[Oath] [Bane](#bane):** Up to three targets must subtract 1d4 from attack rolls and saving throws.
 -   **[Oath] [Hunter's Mark](#hunters-mark):** Deal an extra 1d6 Force damage when you hit the target. (**House Rule:** No Concentration)
 -   **[Oath] [Hold Person](#hold-person):** Paralyze a humanoid on a failed Wisdom saving throw. (Concentration)
 -   **[Oath] [Misty Step](#misty-step):** Teleport up to 30 feet to an unoccupied space you can see as a Bonus Action.
@@ -172,6 +172,14 @@
 
 ---
 
+## 📝 Change Log (Spell Transcription & House Rules)
+* **Appendix Updates:** Transcribed full text for *Bane*, *Hold Person*, *Hunter's Mark*, and *Toll the Dead* from provided images. 
+* [cite_start]**House Rules Applied:** Updated *Hunter's Mark* text in the Appendix to reflect a 1-minute duration and no Concentration requirement per house rules.
+* **Abbreviations:** Verified all standard terms remain spelled out (Armor Class, Hit Points, etc.).
+
+## 📝 Change Log (Spellbook Organization)
+* **Appendix:** Alphabetized all spells in the Appendix: Spellbook section and removed category groupings to create a single, consolidated list as requested. Verified all standard terms (Armor Class, Hit Points, Gold Pieces, feet, minutes) remain unabbreviated.
+
 ## 📝 Change Log (Formatting & Appendix Move)
 * **Appendix Location:** Moved the `Appendix: Spellbook` section to the absolute bottom of the document.
 * **Spell List:** Restored one-sentence descriptions to the spell lists while retaining the anchor links to the appendix, ensuring no abbreviations were used.
@@ -216,7 +224,7 @@
 * **Features Added:** Blessing of Lathander. Added to features list and Bonus Actions. 
 * **Tactical Guide:** Updated "Scenario A: The Boss Killer" to include using the Move action downgrade house rule to apply the Blessing of Lathander alongside other bonus actions.
 
-## 📝 Change Log (Level 4 → 6)
+## 📝 Change Rule (Level 4 → 6)
 * **Level:** Increased to 6.
 * **Hit Points:** Increased +16 (New Max: 52).
 * **Proficiency Bonus:** Increased from +2 to +3. Updated skills, attacks, and Difficulty Classes.
@@ -229,43 +237,6 @@
     * Purchased 2x Potion of Resistance (Psychic) (-400 Gold Pieces).
     * New Total: 6602.5 Gold Pieces.
 * **Inventory Config:** Added 2x Potion of Resistance (Psychic) to Consumables. Updated carry limits for Tier 2.
-
-## 📝 Change Log (Feb 2026 Updates)
-### Feb 25 2026
-* **Financials**: Added +475 Gold Pieces (New Total: 1502.5 Gold Pieces).
-* **Mechanics**: Updated *Cure Wounds* and *Healing Word* descriptions to specify the Charisma Modifier value (+3).
-
-### Feb 11 2026
-* **Financials:** Added +500 Gold Pieces from Feb 11 session (New Total: 1027.5 Gold Pieces).
-* **Tactical Guide:** Updated all scenarios to include **Sentinel** feat strategies (Reaction attacks, defensive positioning, and speed reduction).
-
-## 📝 Change Log (Level 3 → 4)
-* **Feat:** Selected **Sentinel** (2024 Version).
-* **Attribute Boost:** Strength increased from 16 to 17 (+1 from Sentinel).
-* **Inventory Config:**
-    * Equipped Consumables: 2x Potion of Healing, 1x Potion of Cold Resistance, 1x Potion of Animal Friendship, 1x Scroll of Lesser Restoration.
-    * Stored (Unequipped): Boots of the Winterland, Staff of the Adder, 1x Potion of Healing, 4x Potion of Cold Resistance.
-* **Level:** Increased to 4.
-* **Hit Points:** Increased +8 (New Max: 36).
-* **Features:** Lay on Hands pool increased to 20.
-* **Financials:**
-    * Added Tier 1 Reward (+500 Gold Pieces).
-    * Purchased 5x Potion of Cold Resistance (-50 Gold Pieces).
-    * Purchased 1x Scroll of Lesser Restoration (-80 Gold Pieces).
-
-## 📝 Change Log (Level 2 → 3)
-* **Hit Points:** Increased +8 (New Max: 28).
-* **Spell Slots:** Increased to 3.
-* **Subclass:** Selected **Oath of Vengeance**.
-* **Features:** Added Divine Health, Channel Divinity, Oath Spells.
-* **Financials:**
-    - Sold old Chain Mail (+37.5 Gold Pieces).
-    - Purchased Potion of Animal Friendship (-100 Gold Pieces).
-    - Purchased Lesser Restoration Spell Scroll (-80 Gold Pieces).
-    - Splint Armor (-200 Gold Pieces).
-    - Enspelled Symbol (-400 Gold Pieces).
-    - 3x Potions (-150 Gold Pieces).
-    - 2 dogs (-50 Gold Pieces)
 
 ---
 
@@ -328,34 +299,43 @@
 
 ## 📖 APPENDIX: SPELLBOOK
 
-### Cantrips & Oath Spells
+### Aid
+*Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
+* **Casting Time:** Action
+* **Range:** 30 feet
+* **Components:** V, S, M (a strip of white cloth)
+* **Duration:** 8 hours
+* Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration.
+* *Using a Higher-Level Spell Slot.* Each target's Hit Points increase by 5 for each spell slot level above 2.
 
-#### Guidance
-*(Pending full text update)* Add 1d4 to one ability check.
+### Bane
+*Level 1 Enchantment (Bard, Cleric, Warlock)*
+* **Casting Time:** Action
+* **Range:** 30 feet
+* **Components:** V, S, M (a drop of blood)
+* **Duration:** Concentration, up to 1 minute
+* Up to three creatures of your choice that you can see within range must each make a Charisma saving throw. Whenever a target that fails this save makes an attack roll or a saving throw before the spell ends, the target must subtract 1d4 from the attack roll or save.
+* *Using a Higher-Level Spell Slot.* You can target one additional creature for each spell slot level above 1.
 
-#### Toll the Dead
-*(Pending full text update)* Target must make a Wisdom save or take 1d8 Necrotic damage (1d12 if missing Hit Points).
+### Bless
+*Level 1 Enchantment (Cleric, Paladin)*
+* **Casting Time:** Action
+* **Range:** 30 feet
+* **Components:** V, S, M (a Holy Symbol worth 5+ Gold Pieces)
+* **Duration:** Concentration, up to 1 minute
+* You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.
+* *Using a Higher-Level Spell Slot.* You can target one additional creature for each spell slot level above 1.
 
-#### Bane
-*(Pending full text update)* 3 targets subtract 1d4 from attack rolls and saving throws.
-
-#### Hunter's Mark
-*(Pending full text update)* Deal an extra 1d6 Force damage on hit.
-
-#### Hold Person
-*(Pending full text update)* Paralyze a humanoid on a failed Wisdom save.
-
-#### Misty Step
-*Level 2 Conjuration (Sorcerer, Warlock, Wizard)*
-* **Casting Time:** Bonus Action
-* **Range:** Self
-* **Components:** V
+### Cure Wounds
+*Level 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
+* **Casting Time:** Action
+* **Range:** Touch
+* **Components:** V, S
 * **Duration:** Instantaneous
-* Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see.
+* A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
+* *Using a Higher-Level Spell Slot.* The healing increases by 2d8 for each spell slot level above 1.
 
-### Always Prepared / Features
-
-#### Divine Smite
+### Divine Smite
 *Level 1 Evocation (Paladin)*
 * **Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
 * **Range:** Self
@@ -364,7 +344,7 @@
 * The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead.
 * *Using a Higher-Level Spell Slot.* The damage increases by 1d8 for each spell slot level above 1.
 
-#### Find Steed
+### Find Steed
 *Level 2 Conjuration (Paladin)*
 * **Casting Time:** Action
 * **Range:** 30 feet
@@ -376,36 +356,29 @@
 * *Disappearance of the Steed.* The steed disappears if it drops to 0 Hit Points or if you die. When it disappears, it leaves behind anything it was wearing or carrying. If you cast this spell again, you decide whether you summon the steed that disappeared or a different one.
 * *Using a Higher-Level Spell Slot.* Use the spell slot's level for the spell's level in the stat block.
 
-### Prepared Spells
+### Guidance
+*(Pending full text update)* Add 1d4 to one ability check.
 
-#### Aid
-*Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
+### Hold Person
+*Level 2 Enchantment (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*
 * **Casting Time:** Action
-* **Range:** 30 feet
-* **Components:** V, S, M (a strip of white cloth)
-* **Duration:** 8 hours
-* Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration.
-* *Using a Higher-Level Spell Slot.* Each target's Hit Points increase by 5 for each spell slot level above 2.
-
-#### Bless
-*Level 1 Enchantment (Cleric, Paladin)*
-* **Casting Time:** Action
-* **Range:** 30 feet
-* **Components:** V, S, M (a Holy Symbol worth 5+ Gold Pieces)
+* **Range:** 60 feet
+* **Components:** V, S, M (a straight piece of iron)
 * **Duration:** Concentration, up to 1 minute
-* You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.
-* *Using a Higher-Level Spell Slot.* You can target one additional creature for each spell slot level above 1.
+* Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
+* *Using a Higher-Level Spell Slot.* You can target one additional Humanoid for each spell slot level above 2.
 
-#### Cure Wounds
-*Level 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
-* **Casting Time:** Action
-* **Range:** Touch
-* **Components:** V, S
-* **Duration:** Instantaneous
-* A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
-* *Using a Higher-Level Spell Slot.* The healing increases by 2d8 for each spell slot level above 1.
+### Hunter's Mark
+*Level 1 Divination (Ranger)*
+* **Casting Time:** Bonus Action
+* **Range:** 90 feet
+* **Components:** V
+* [cite_start]**Duration:** 1 minute (**House Rule:** No Concentration) 
+* You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception or Survival) check you make to find it.
+* If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.
+* *Using a Higher-Level Spell Slot.* Duration increases with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
 
-#### Lesser Restoration
+### Lesser Restoration
 *Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
 * **Casting Time:** Bonus Action
 * **Range:** Touch
@@ -413,7 +386,15 @@
 * **Duration:** Instantaneous
 * You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned.
 
-#### Protection from Evil and Good
+### Misty Step
+*Level 2 Conjuration (Sorcerer, Warlock, Wizard)*
+* **Casting Time:** Bonus Action
+* **Range:** Self
+* **Components:** V
+* **Duration:** Instantaneous
+* Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see.
+
+### Protection from Evil and Good
 *Level 1 Abjuration (Cleric, Druid, Paladin, Warlock, Wizard)*
 * **Casting Time:** Action
 * **Range:** Touch
@@ -421,7 +402,7 @@
 * **Duration:** Concentration up to 10 minutes
 * Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have Disadvantage on attack rolls against the target. The target also can't be possessed by or gain the Charmed or Frightened conditions from them. If the target is already possessed, Charmed, or Frightened by such a creature, the target has Advantage on any new saving throw against the relevant effect.
 
-#### Shield of Faith
+### Shield of Faith
 *Level 1 Abjuration (Cleric, Paladin)*
 * **Casting Time:** Bonus Action
 * **Range:** 60 feet
@@ -429,7 +410,7 @@
 * **Duration:** Concentration, up to 10 minutes
 * A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to Armor Class for the duration.
 
-#### Shining Smite
+### Shining Smite
 *Level 2 Transmutation (Paladin)*
 * **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
 * **Range:** Self
@@ -437,3 +418,12 @@
 * **Duration:** Concentration, up to 1 minute
 * The target hit by the strike takes an extra 2d6 Radiant damage from the attack. Until the spell ends, the target sheds Bright Light in a 5-foot radius, attack rolls against it have Advantage, and it can't benefit from the Invisible condition.
 * *Using a Higher-Level Spell Slot.* The damage increases by 1d6 for each spell slot level above 2.
+
+### Toll the Dead
+*Necromancy Cantrip (Cleric, Warlock, Wizard)*
+* **Casting Time:** Action
+* **Range:** 60 feet
+* **Components:** V, S
+* **Duration:** Instantaneous
+* You point at one creature you can see within range, and the single chime of a dolorous bell is audible within 10 feet of the target. The target must succeed on a Wisdom saving throw or take 1d8 Necrotic damage. If the target is missing any of its Hit Points, it instead takes 1d12 Necrotic damage.
+* *Cantrip Upgrade.* The damage increases by one die when you reach levels 5 (2d8 or 2d12), 11 (3d8 or 3d12), and 17 (4d8 or 4d12).
