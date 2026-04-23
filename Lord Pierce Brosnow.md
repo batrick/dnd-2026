@@ -172,9 +172,14 @@
 
 ---
 
+## 📝 Change Log (Error Correction & Section Restoration)
+* **Restorations:** Restored the `Tactical Guide` and `Social & Exploration Actions` appendices that were erroneously removed in previous revisions. 
+* **Historical Data:** Restored missing historical change logs (Feb 2026, Level 3 → 4, and Level 2 → 3) to accurately reflect the character's legacy sheet changes. 
+* **Formatting:** Cleaned up stray tags from the `Hunter's Mark` notation and removed `(Concentration)` from `Bane` on the Prepared Spells list per the provided patch correction. Verified restored sections contain no abbreviations. 
+
 ## 📝 Change Log (Spell Transcription & House Rules)
 * **Appendix Updates:** Transcribed full text for *Bane*, *Hold Person*, *Hunter's Mark*, and *Toll the Dead* from provided images. 
-* [cite_start]**House Rules Applied:** Updated *Hunter's Mark* text in the Appendix to reflect a 1-minute duration and no Concentration requirement per house rules.
+* **House Rules Applied:** Updated *Hunter's Mark* text in the Appendix to reflect a 1-minute duration and no Concentration requirement per house rules.
 * **Abbreviations:** Verified all standard terms remain spelled out (Armor Class, Hit Points, etc.).
 
 ## 📝 Change Log (Spellbook Organization)
@@ -238,6 +243,43 @@
     * New Total: 6602.5 Gold Pieces.
 * **Inventory Config:** Added 2x Potion of Resistance (Psychic) to Consumables. Updated carry limits for Tier 2.
 
+## 📝 Change Log (Feb 2026 Updates)
+### Feb 25 2026
+* **Financials**: Added +475 Gold Pieces (New Total: 1502.5 Gold Pieces).
+* **Mechanics**: Updated *Cure Wounds* and *Healing Word* descriptions to specify the Charisma Modifier value (+3).
+
+### Feb 11 2026
+* **Financials:** Added +500 Gold Pieces from Feb 11 session (New Total: 1027.5 Gold Pieces).
+* **Tactical Guide:** Updated all scenarios to include **Sentinel** feat strategies (Reaction attacks, defensive positioning, and speed reduction).
+
+## 📝 Change Log (Level 3 → 4)
+* **Feat:** Selected **Sentinel** (2024 Version).
+* **Attribute Boost:** Strength increased from 16 to 17 (+1 from Sentinel).
+* **Inventory Config:**
+    * Equipped Consumables: 2x Potion of Healing, 1x Potion of Cold Resistance, 1x Potion of Animal Friendship, 1x Scroll of Lesser Restoration.
+    * Stored (Unequipped): Boots of the Winterland, Staff of the Adder, 1x Potion of Healing, 4x Potion of Cold Resistance.
+* **Level:** Increased to 4.
+* **Hit Points:** Increased +8 (New Max: 36).
+* **Features:** Lay on Hands pool increased to 20.
+* **Financials:**
+    * Added Tier 1 Reward (+500 Gold Pieces).
+    * Purchased 5x Potion of Cold Resistance (-50 Gold Pieces).
+    * Purchased 1x Scroll of Lesser Restoration (-80 Gold Pieces).
+
+## 📝 Change Log (Level 2 → 3)
+* **Hit Points:** Increased +8 (New Max: 28).
+* **Spell Slots:** Increased to 3.
+* **Subclass:** Selected **Oath of Vengeance**.
+* **Features:** Added Divine Health, Channel Divinity, Oath Spells.
+* **Financials:**
+    - Sold old Chain Mail (+37.5 Gold Pieces).
+    - Purchased Potion of Animal Friendship (-100 Gold Pieces).
+    - Purchased Lesser Restoration Spell Scroll (-80 Gold Pieces).
+    - Splint Armor (-200 Gold Pieces).
+    - Enspelled Symbol (-400 Gold Pieces).
+    - 3x Potions (-150 Gold Pieces).
+    - 2 dogs (-50 Gold Pieces)
+
 ---
 
 ## 🗒️LLM TODO
@@ -294,6 +336,65 @@
 - staff of the adder
 - +500gp
 - level 4
+
+---
+
+## 📖 APPENDIX: TACTICAL GUIDE
+
+### 🎯 Scenario A: The Boss Killer (Single Strong Enemy)
+*Goal: Maximize single-target damage and accuracy.*
+
+* **Preferred Action:** **Attack** with +1 Pike (Reach 10 feet). Thanks to Extra Attack, you swing twice! Use your **Winged Boots** to fly directly over the frontline and engage the boss (especially Mind Flayers) while avoiding ground hazards.
+* **Preferred Bonus Action 1:** **Vow of Enmity** (Channel Divinity) for Advantage.
+* **Preferred Bonus Action 2 (Via Move Downgrade):** **Blessing of Lathander** to deal an automatic 6 Radiant damage after hitting, and getting a free Perception check with Advantage to spot any hidden minions.
+* **Sentinel Reaction:** If the Boss attacks an ally within 5 feet of you, you get a free reaction attack. This is an excellent opportunity to trigger **Divine Smite** off-turn.
+* **Key Spells:**
+    * **Hunter's Mark (Bonus Action):** Cast this immediately. *Benefit:* Adds +1d6 damage per hit. **Note:** Due to House Rules, this does *not* require Concentration, allowing you to stack it with Bless.
+    * **Divine Smite (Bonus Action):** Use after you land a critical hit or when you need burst damage.
+    * **Shield of Faith (Bonus Action):** If the boss hits hard, boost your Armor Class to 20.
+
+### 🛡️ Scenario B: The Party Leader (Buff & Support)
+*Goal: Improve ally accuracy and keep them alive.*
+
+* **Preferred Action:** **Cast Bless**.
+    * *Effect:* You and 2 allies add +1d4 to Attacks and Saving Throws. This stacks with your Aura of Protection for massive defensive capabilities. Stay hovering nearby allies to ensure they remain within your Aura.
+* **Preferred Bonus Action:** **Shout Instruction** or **Lay on Hands**.
+* **Sentinel Defense:** Position yourself adjacent to squishy allies (Wizard/Rogue). If an enemy attacks them, **Sentinel** grants you a retaliatory strike, punishing the enemy for ignoring you.
+* **Key Spells:**
+    * **Bless (Action):** The best mathematically defensive and offensive buff for the group.
+    * **Cure Wounds (Action):** Use only if an ally is critical and you are next to them; heals 2d8+3. *Note: With the Enspelled Holy Symbol stored, you must rely on this action or Lay on Hands for healing.*
+
+### 🌪️ Scenario C: Crowd Control (Many Weak Enemies)
+*Goal: Debuff enemies and manage the battlefield.*
+
+* **Preferred Action:** **Cast Bane** or **Attack** twice to thin the horde.
+    * *Effect:* 3 Enemies take -1d4 penalty to Attacks and Saves. Good against mobs with low Charisma.
+* **Preferred Bonus Action:** **Abjure Enemy** (Channel Divinity).
+    * *Effect:* Frightens one enemy and reduces their speed to 0. Great for stopping a "runner" or a brute trying to reach your wizard.
+* **Sentinel Lockdown:** If an enemy tries to run past you to get to your backline, your Opportunity Attack reduces their speed to **0** for the rest of the turn, effectively rooting them in place. Use your aerial mobility to position yourself directly in choke points.
+* **Key Spells:**
+    * **Bane (Action):** Makes enemies miss more often.
+    * **Toll the Dead (Action):** Use against enemies with High Armor Class or at range. Deals 1d12 Necrotic damage if they are injured.
+
+---
+
+## 🌍 APPENDIX: SOCIAL & EXPLORATION ACTIONS
+
+### 🗣️ Social Interaction
+* **Persuade (Persuasion +6):** Influence a creature with tact, social graces, or good nature.
+* **Deceive (Deception +6):** Fast-talk a guard, wear a disguise, or maintain a straight face while lying.
+* **Threaten (Intimidation +6):** Influence someone through overt threats, hostility, or physical presence.
+* **Sense Motive (Insight +2):** Determine a creature's true intentions or detect if they are being untruthful.
+
+### 🕵️ Investigation & Knowledge
+* **Spot (Perception +2):** Use your senses to notice hidden details, hear faint noises, or detect an ambush.
+* **Historical Lore (History +7):** Recall information about noble families, ancient kingdoms, or past wars.
+* **Noble Standing (Feature):** As a **Noble**, you can secure an audience with local nobles and people assume you have the right to be where you are.
+
+### 🧗 Physicality & Utility
+* **Power Through (Athletics +6):** Climb difficult surfaces, jump long distances, or swim through rough water. With Winged Boots, you can simply bypass most physical obstacles entirely.
+* **Animal Handling (-1):** Calm a domesticated animal or intuit an animal’s intentions.
+* **Stealth (+0):** Move quietly or hide from view (Note: You have Disadvantage on these checks while wearing Plate Armor).
 
 ---
 
@@ -373,7 +474,7 @@
 * **Casting Time:** Bonus Action
 * **Range:** 90 feet
 * **Components:** V
-* [cite_start]**Duration:** 1 minute (**House Rule:** No Concentration) 
+* **Duration:** 1 minute (**House Rule:** No Concentration) 
 * You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception or Survival) check you make to find it.
 * If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.
 * *Using a Higher-Level Spell Slot.* Duration increases with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
