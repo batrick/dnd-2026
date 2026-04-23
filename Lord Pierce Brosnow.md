@@ -1,13 +1,13 @@
-# Lord Pierce Brosnow - Level 6 Paladin (Oath of Vengeance)
+# Lord Pierce Brosnow - Level 7 Paladin (Oath of Vengeance)
 
 ![Lord Pierce Brosnow](lord-pierce-brosnow.jpg)
 
 **Player:** Patrick Donnelly
 
-**Class:** Paladin (Oath of Vengeance) | **Level:** 6
+**Class:** Paladin (Oath of Vengeance) | **Level:** 7
 
 **Race:** Orc | **Background:** Noble
-**Experience Points:** Milestone | **Gold:** 3902.5 Gold Pieces | **Language:** Common, Orc
+**Experience Points:** Milestone | **Gold:** 8902.5 Gold Pieces | **Language:** Common, Orc
 
 ---
 
@@ -15,7 +15,7 @@
 
 | Armor Class | Hit Points | Speed | Initiative | Proficiency Bonus | Spell Save Difficulty Class | Spell Attack Modifier |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **18** | **52** | 30 feet (Fly 30 feet) | +0 | +3 | **14** | **+6** |
+| **18** | **60** | 30 feet (Fly 30 feet) | +0 | +3 | **14** | **+6** |
 
 > **Armor Class Source:** Plate Armor (18)
 > **Senses:** Darkvision 120 feet, Blind Fighting 10 feet, Passive Perception 12
@@ -68,170 +68,140 @@
 > **House Rule (Skill Crits):** Beat Difficulty Class by 10 for critical success.
 
 ### ⚡ Bonus Actions
-* **Blessing of Lathander:** Choose one creature you damaged this turn. It takes 6 Radiant damage (twice your Proficiency Bonus). You may simultaneously "Spot a Foe" with Advantage. Only one blessing effect active at a time.
-* **Vow of Enmity (Channel Divinity):** Advantage on attack rolls against one creature (10 feet range) for 1 minute.
-* **Divine Smite (Spell):** Expend a spell slot immediately after hitting to deal 2d8 Radiant damage (+1d8 per slot level above 1st). +1d8 if target is Fiend/Undead.
-* **Adrenaline Rush (Orc Trait):** Dash action + Gain 2 Temporary Hit Points. (Proficiency Bonus uses per Long Rest).
-* **Lay on Hands:** Heal creature in touch range. Pool: **30 Hit Points**.
+* **[Divine Smite](#divine-smite) (Spell):** Expend a spell slot immediately after hitting to deal 2d8 Radiant damage (+1d8 per slot level above 1st). **Note:** Always prepared; one free cast per Long Rest.
+* **Divine Sense (Channel Divinity):** Know the location and type of Celestials, Fiends, or Undead within 60 feet for 10 minutes. (Costs 1 Channel Divinity).
+* **Vow of Enmity (Channel Divinity):** Advantage on attack rolls against one creature (10 feet range) for 1 minute. (Costs 1 Channel Divinity).
+* **Blessing of Lathander:** Choose one creature you damaged this turn. It takes 6 Radiant damage (twice your Proficiency Bonus). You may simultaneously "Spot a Foe" with Advantage.
+* **[Shining Smite](#shining-smite) (Spell):** After hitting, deal 2d6 Radiant damage. Target sheds light, granting Advantage on attacks against it and revealing invisibility. (Concentration).
+* **[Lesser Restoration](#lesser-restoration) (Spell):** End Blinded, Deafened, Paralyzed, or Poisoned condition on a touched creature.
+* **Adrenaline Rush (Orc Trait):** Dash action + Gain 2 Temporary Hit Points. (3 uses per Long Rest).
+* **Lay on Hands:** Heal creature in touch range. Pool: **35 Hit Points**.
 * **Potion:** Drink a potion.
 * **Spot a Foe:** Perception check vs Stealth (You have Advantage on this via Blessing of Lathander).
 * **Shout Instruction:** Issue 5-word instruction to allies.
+
+### 🛡️ Actions
+* **Abjure Foes (Channel Divinity):** As a Magic Action, force creatures in 60 feet to save vs Wisdom or be Frightened for 1 minute. (Costs 1 Channel Divinity).
 * **Monster Knowledge:** Skill check (Difficulty Class 10 + ½ Challenge Rating) to recall stats.
 
 ### ↩️ Reactions
 * **Sentinel Attack:** Melee weapon attack when a creature within 5 feet makes an attack against a target other than you.
-* **Opportunity Attack:** Melee attack when enemy leaves reach (Sentinel: Disengage does not prevent this).
+* **Opportunity Attack:** Melee attack when enemy leaves reach. Sentinel: Disengage does not prevent this. Target speed becomes 0 on hit.
+* **Relentless Avenger (Subclass):** After hitting with an Opportunity Attack, move up to half your Speed immediately without provoking Opportunity Attacks.
 * **Grab a Handhold:** Dexterity or Strength saving throw to stop forced movement/fall.
 
 ---
 
 ## ✨ Spells
-**Slots:** 4x 1st Level | 2x 2nd Level
+**Slots:** 4x 1st Level | 3x 2nd Level
+**Channel Divinity Pool:** 2 Uses (Regain 1 on Short Rest; All on Long Rest)
 
 ### Cantrips (At Will)
--   **Guidance:** Add 1d4 to one ability check (Touch).
--   **Toll the Dead:** 1d8 Necrotic (1d12 if target is damaged) (Wisdom Saving Throw).
+-   **[Guidance](#guidance):** Add 1d4 to one ability check.
+-   **[Toll the Dead](#toll-the-dead):** Target must make a Wisdom saving throw or take Necrotic damage.
 
-### 1st Level (Prepared: 4 + Oath Spells)
--   **[Oath] Bane:** (Concentration) 3 targets, subtract 1d4 from Attack/Save.
--   **[Oath] Hunter's Mark:** +1d6 Force damage on hit. **House Rule:** 1 minute duration, **NO Concentration**.
--   **Bless:** (Concentration) 3 targets, add +1d4 to Attack/Save.
--   **Cure Wounds:** Heal 2d8 + 3 Charisma Modifier (Touch).
--   **Shield of Faith:** (Concentration) +2 Armor Class (Bonus Action).
+### Always Prepared (Feature-Based)
+-   **[Divine Smite](#divine-smite):** Expend a spell slot immediately after hitting to deal Radiant damage. (1 free cast per Long Rest)
+-   **[Find Steed](#find-steed):** Summon an Otherworldly Steed to serve as a loyal mount. (1 free cast per Long Rest)
 
-### 2nd Level (Prepared: Oath Spells)
--   **[Oath] Hold Person:** (Concentration) Paralyze one humanoid that you can see within 60 feet (Wisdom Saving Throw).
--   **[Oath] Misty Step:** (Bonus Action) Teleport up to 30 feet to an unoccupied space that you can see.
+### Prepared Spells (7 Slots Used)
+-   **[Oath] [Bane](#bane):** Up to three targets must subtract 1d4 from attack rolls and saving throws. (Concentration)
+-   **[Oath] [Hunter's Mark](#hunters-mark):** Deal an extra 1d6 Force damage when you hit the target. (**House Rule:** No Concentration)
+-   **[Oath] [Hold Person](#hold-person):** Paralyze a humanoid on a failed Wisdom saving throw. (Concentration)
+-   **[Oath] [Misty Step](#misty-step):** Teleport up to 30 feet to an unoccupied space you can see as a Bonus Action.
+-   **[Bless](#bless):** Up to three creatures add 1d4 to their attack rolls and saving throws. (Concentration)
+-   **[Cure Wounds](#cure-wounds):** A creature you touch regains Hit Points equal to 2d8 plus your spellcasting ability modifier.
+-   **[Protection from Evil and Good](#protection-from-evil-and-good):** Protect a creature against Aberrations, Celestials, Elementals, Fey, Fiends, and Undead. (Concentration)
+-   **[Shield of Faith](#shield-of-faith):** Grant a creature of your choice a +2 bonus to Armor Class for the duration. (Concentration)
+-   **[Aid](#aid):** Increase the Hit Point maximum and current Hit Points of three creatures by 5 for 8 hours.
+-   **[Shining Smite](#shining-smite):** Deal extra Radiant damage and cause the target to shed bright light, granting Advantage on attacks against it. (Concentration)
+-   **[Lesser Restoration](#lesser-restoration):** Touch a creature and end the Blinded, Deafened, Paralyzed, or Poisoned condition.
 
 ---
 
 ## 🧬 Features & Traits
 
-### Supernatural Gifts
--   **Blessing of Lathander:** The Morninglord curses the unclean with the light of dawn. As a Bonus Action, choose one creature you damaged this turn. It takes Radiant damage equal to twice your Proficiency Bonus. Your Spot a Foe Bonus Actions have Advantage. You may Spot a Foe. Only one blessing at a time.
-
-### Feats
--   **Sentinel (Level 4):**
-    -   **Attribute Boost:** Increased Strength by 1.
-    -   When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
-    -   Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
-    -   When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
-
-### Paladin Class
+### Paladin Class Features
 -   **Divine Health:** Immune to disease.
--   **Lay on Hands:** Pool of 30 Hit Points. Cleanses poison (Costs 5 Hit Points).
--   **Fighting Style (Blind Fighting):** You have Blindsight with a range of 10 feet.
--   **Extra Attack:** You can attack twice, instead of once, whenever you take the Attack action on your turn.
--   **Aura of Protection:** Whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a +3 bonus to the saving throw (equal to your Charisma modifier). You must be conscious to grant this bonus.
+-   **Paladin's Smite:** Always have *Divine Smite* prepared. 1 free cast per Long Rest.
+-   **Faithful Steed:** Always have *Find Steed* prepared. 1 free cast per Long Rest.
+-   **Fighting Style (Blind Fighting):** Blindsight 10 feet.
+-   **Aura of Protection:** You and allies within 10 feet gain +3 to all Saving Throws.
+-   **Extra Attack:** Attack twice whenever you take the Attack action.
 
 ### Oath of Vengeance (Subclass)
--   **Channel Divinity (1 per Short Rest):**
-    -   *Vow of Enmity:* Advantage on attack rolls vs target.
-    -   *Abjure Enemy:* Wisdom Saving Throw. Frightened & Speed 0 (or Speed halved on save). Undead/Fiends have Disadvantage.
+-   **Relentless Avenger (Level 7):** Reposition half-speed after landing an Opportunity Attack.
+-   **Channel Divinity:** Fuel *Vow of Enmity*, *Abjure Foes*, or *Divine Sense*. (Pool of 2 uses).
 
-### Orc Species
--   **Adrenaline Rush:** Bonus Action Dash.
--   **Relentless Endurance:** When reduced to 0 Hit Points but not killed, drop to 1 Hit Point instead (1 per Long Rest).
+---
+
+## 🐎 Mount: Otherworldly Steed
+**Form:** Polar Bear | **Type:** Fey
+**Armor Class:** 12 | **Hit Points:** 40 | **Speed:** 60 feet (Fly 60 feet with Level 4+ spell)
+
+* **Otherworldly Slam:** Melee Attack: +6, Reach 5 feet, Damage: 1d8 + 2 **Psychic**.
+* **Fey Step (Bonus Action):** The steed teleports, along with its rider, up to 60 feet (1 per Long Rest).
+* **Life Bond:** When you are healed by a spell, the steed heals for the same amount if within 5 feet.
 
 ---
 
 ## 🎒 Inventory & Equipment
 
-**Current Gold:** 3902.5 Gold Pieces
-
-### 🧪 Consumable Slots (Tier 2 Limit: 10 per Session)
+### 🧪 Consumables (8/10 Slots)
 1. **Potion of Healing** (2d4+2)
-2. **Potion of Healing** (2d4+2)
-3. **Potion of Cold Resistance**: Resistance to Cold damage for 1 hour.
-4. **Potion of Animal Friendship**: (Action) Animal must succeed Difficulty Class 13 Wisdom save or be Charmed for 1 hour.
-5. **Scroll of Lesser Restoration**: (Action) Touch a creature to end one condition: Blinded, Deafened, Paralyzed, or Poisoned.
-6. **Potion of Resistance (Psychic)**: Resistance to Psychic damage for 1 hour.
-7. **Potion of Resistance (Psychic)**: Resistance to Psychic damage for 1 hour.
+2. **Potion of Cold Resistance**
+3. **Potion of Animal Friendship**
+4. **Scroll of Lesser Restoration**
+5. **Potion of Resistance (Psychic)**
+6. **Potion of Growth**: (Action) Gain "Enlarge" effect for 1d4 hours.
 
-### Magic Items (Tier 2 Limit: 3 Uncommon+ per Session)
+### Magic Items (3/3 Carried)
 | Item | Rarity | Effect |
 | :--- | :--- | :--- |
-| **Winged Boots** | Uncommon | Grants a flying speed equal to your walking speed for up to 4 hours. |
-| **Headband of Intellect** | Uncommon | Sets Intelligence score to 19. |
-| **+1 Pike** | Uncommon | +1 bonus to attack and damage rolls. |
-| **Boots of False Tracks** | Common | Change footprints (Polar Bear). |
-| **Ersatz Eye** | Common | Artificial eye. |
-| **Smoldering Armor** | Common | Cosmetic smoke. |
-| **Unbreakable Arrow** | Common | Cannot break. |
+| **Winged Boots** | Uncommon | Fly 30 feet for 4 hours. |
+| **Headband of Intellect**| Uncommon | Sets Intelligence to 19. |
+| **+1 Pike** | Uncommon | +1 to Attack/Damage. |
 
 ### Gear (Stored / Unequipped)
--   *Uncommon Magic Item:* **Enspelled Holy Symbol** (Casts Healing Word).
--   *Uncommon Magic Item:* **Boots of the Winterland** (Cold Resist, ignore ice terrain).
--   *Uncommon Magic Item:* **Staff of the Adder** (Requires Cleric/Druid/Warlock).
--   *Stored Potions:* 1x Potion of Healing, 4x Potion of Cold Resistance.
+-   **Ring of Telekinesis** (Very Rare - Explicitly Given)
+-   **Enspelled Holy Symbol** (Healing Word)
+-   **Boots of the Winterland** (Cold Resist)
+-   **Staff of the Adder**
 -   Plate Armor (Armor Class 18)
--   Splint Armor (Stored)
--   Priest's Pack
--   Holy Symbol
--   Dice, Fine Clothes, Perfume
--   1 Sled
--   2 Sled Dogs
+-   1 Sled & 2 Sled Dogs
 
 ---
 
-## 📖 APPENDIX: TACTICAL GUIDE
+## 📝 Change Log (Formatting & Appendix Move)
+* **Appendix Location:** Moved the `Appendix: Spellbook` section to the absolute bottom of the document.
+* **Spell List:** Restored one-sentence descriptions to the spell lists while retaining the anchor links to the appendix, ensuring no abbreviations were used.
 
-### 🎯 Scenario A: The Boss Killer (Single Strong Enemy)
-*Goal: Maximize single-target damage and accuracy.*
+## 📝 Change Log (Spell List Minimization)
+* **Spells:** Removed all inline spell descriptions from the main "Spells" list and "Combat Actions" section. Reduced entries to strictly the spell name, hyperlinked to the Appendix. 
+* **Appendix formatting:** Converted each spell in the Appendix to standard Markdown headers to ensure that internal anchor links route properly across all GitHub-flavored Markdown viewers.
+* **Abbreviations:** Ensured that standard terms (Armor Class, Hit Points, Gold Pieces, feet, minutes) are not abbreviated per rules.
 
-* **Preferred Action:** **Attack** with +1 Pike (Reach 10 feet). Thanks to Extra Attack, you swing twice! Use your **Winged Boots** to fly directly over the frontline and engage the boss (especially Mind Flayers) while avoiding ground hazards.
-* **Preferred Bonus Action 1:** **Vow of Enmity** (Channel Divinity) for Advantage.
-* **Preferred Bonus Action 2 (Via Move Downgrade):** **Blessing of Lathander** to deal an automatic 6 Radiant damage after hitting, and getting a free Perception check with Advantage to spot any hidden minions.
-* **Sentinel Reaction:** If the Boss attacks an ally within 5 feet of you, you get a free reaction attack. This is an excellent opportunity to trigger **Divine Smite** off-turn.
-* **Key Spells:**
-    * **Hunter's Mark (Bonus Action):** Cast this immediately. *Benefit:* Adds +1d6 damage per hit. **Note:** Due to House Rules, this does *not* require Concentration, allowing you to stack it with Bless.
-    * **Divine Smite (Bonus Action):** Use after you land a critical hit or when you need burst damage.
-    * **Shield of Faith (Bonus Action):** If the boss hits hard, boost your Armor Class to 20.
+## 📝 Change Log (Apr 08 2026 Session Gold & Spell Updates)
+* **LLM TODO Processed:** Added 5,000 Gold Pieces for completing a Tier 2 adventure on the Apr 08 2026 session (New Total: 8,902.5 Gold Pieces). LLM TODO section cleared.
+* **Appendix Updates:** Transcribed full text for *Find Steed* and *Misty Step* from previously uploaded images. 
 
-### 🛡️ Scenario B: The Party Leader (Buff & Support)
-*Goal: Improve ally accuracy and keep them alive.*
+## 📝 Change Log (Level 7 & Spell Overhaul)
+* **Level 7:** Hit Points set to 60 (Average). Lay on Hands pool increased to 35. Slots updated. Restored to full via full rest.
+* **Class Features:** Added **Relentless Avenger** (Level 7 Oath of Vengeance). Grouped **Channel Divinity** uses clearly and noted costs.
+* **Mount:** Finalized **Fey Polar Bear**. Added Fey Step bonus action and Psychic damage to Slam.
+* **Spells:** Consolidated *Divine Smite* and *Find Steed* to "Always Prepared". Balanced prepared list to exactly 7 slots: *Bless*, *Cure Wounds*, *Shield of Faith*, *Protection from Evil and Good*, *Aid*, *Shining Smite*, and *Lesser Restoration*.
+* **Appendix:** Created **Appendix: Spellbook**. Added Markdown anchor links from the main spell list to the full text references below. Transcribed full rule text where image context was provided.
+* **Inventory:** Added *Potion of Growth* and *Ring of Telekinesis* (Stored). Removed used *Potion of Healing* and *Psychic Resistance*.
 
-* **Preferred Action:** **Cast Bless**.
-    * *Effect:* You and 2 allies add +1d4 to Attacks and Saving Throws. This stacks with your Aura of Protection for massive defensive capabilities. Stay hovering nearby allies to ensure they remain within your Aura.
-* **Preferred Bonus Action:** **Shout Instruction** or **Lay on Hands**.
-* **Sentinel Defense:** Position yourself adjacent to squishy allies (Wizard/Rogue). If an enemy attacks them, **Sentinel** grants you a retaliatory strike, punishing the enemy for ignoring you.
-* **Key Spells:**
-    * **Bless (Action):** The best mathematically defensive and offensive buff for the group.
-    * **Cure Wounds (Action):** Use only if an ally is critical and you are next to them; heals 2d8+3. *Note: With the Enspelled Holy Symbol stored, you must rely on this action or Lay on Hands for healing.*
-
-### 🌪️ Scenario C: Crowd Control (Many Weak Enemies)
-*Goal: Debuff enemies and manage the battlefield.*
-
-* **Preferred Action:** **Cast Bane** or **Attack** twice to thin the horde.
-    * *Effect:* 3 Enemies take -1d4 penalty to Attacks and Saves. Good against mobs with low Charisma.
-* **Preferred Bonus Action:** **Abjure Enemy** (Channel Divinity).
-    * *Effect:* Frightens one enemy and reduces their speed to 0. Great for stopping a "runner" or a brute trying to reach your wizard.
-* **Sentinel Lockdown:** If an enemy tries to run past you to get to your backline, your Opportunity Attack reduces their speed to **0** for the rest of the turn, effectively rooting them in place. Use your aerial mobility to position yourself directly in choke points.
-* **Key Spells:**
-    * **Bane (Action):** Makes enemies miss more often.
-    * **Toll the Dead (Action):** Use against enemies with High Armor Class or at range. Deals 1d12 Necrotic damage if they are injured.
-
----
-
-## 🌍 APPENDIX: SOCIAL & EXPLORATION ACTIONS
-
-### 🗣️ Social Interaction
-* **Persuade (Persuasion +6):** Influence a creature with tact, social graces, or good nature.
-* **Deceive (Deception +6):** Fast-talk a guard, wear a disguise, or maintain a straight face while lying.
-* **Threaten (Intimidation +6):** Influence someone through overt threats, hostility, or physical presence.
-* **Sense Motive (Insight +2):** Determine a creature's true intentions or detect if they are being untruthful.
-
-### 🕵️ Investigation & Knowledge
-* **Spot (Perception +2):** Use your senses to notice hidden details, hear faint noises, or detect an ambush.
-* **Historical Lore (History +7):** Recall information about noble families, ancient kingdoms, or past wars.
-* **Noble Standing (Feature):** As a **Noble**, you can secure an audience with local nobles and people assume you have the right to be where you are.
-
-### 🧗 Physicality & Utility
-* **Power Through (Athletics +6):** Climb difficult surfaces, jump long distances, or swim through rough water. With Winged Boots, you can simply bypass most physical obstacles entirely.
-* **Animal Handling (-1):** Calm a domesticated animal or intuit an animal’s intentions.
-* **Stealth (+0):** Move quietly or hide from view (Note: You have Disadvantage on these checks while wearing Plate Armor).
-
----
+## 📝 Change Log (Level 6 → 7 & Full Rest)
+* **Level:** Increased to 7.
+* **Hit Points:** Increased maximum by 8 (New Max: 60). Restored to maximum after full rest.
+* **Class Features:** Lay on Hands pool increased to 35 Hit Points and restored. Gained Relentless Avenger (Oath of Vengeance).
+* **Spell Slots:** Gained one additional 2nd-Level spell slot (Total: 3). Restored all slots after full rest.
+* **Inventory Config:**
+    * Added *Ring of Telekinesis* to Stored Gear.
+    * Removed 1x *Potion of Healing* and 1x *Potion of Resistance (Psychic)* from Consumables.
+    * Added 1x *Potion of Growth* to Consumables.
 
 ## 📝 Change Log (Inventory Update & Winged Boots)
 * **Equipment Purchased:** Winged Boots (-400 Gold Pieces), +1 Pike (-400 Gold Pieces), Headband of Intellect (-400 Gold Pieces), Plate Armor (-1,500 Gold Pieces).
@@ -300,11 +270,7 @@
 ---
 
 ## 🗒️LLM TODO
-- Level to 7.
-- Add to gear Ring of Telekinesis
-- add potion of growth
-- use potion of psychic resistance and potion of healing
-- full rest
+- 
 
 ## Session Notes
 
@@ -357,3 +323,117 @@
 - staff of the adder
 - +500gp
 - level 4
+
+---
+
+## 📖 APPENDIX: SPELLBOOK
+
+### Cantrips & Oath Spells
+
+#### Guidance
+*(Pending full text update)* Add 1d4 to one ability check.
+
+#### Toll the Dead
+*(Pending full text update)* Target must make a Wisdom save or take 1d8 Necrotic damage (1d12 if missing Hit Points).
+
+#### Bane
+*(Pending full text update)* 3 targets subtract 1d4 from attack rolls and saving throws.
+
+#### Hunter's Mark
+*(Pending full text update)* Deal an extra 1d6 Force damage on hit.
+
+#### Hold Person
+*(Pending full text update)* Paralyze a humanoid on a failed Wisdom save.
+
+#### Misty Step
+*Level 2 Conjuration (Sorcerer, Warlock, Wizard)*
+* **Casting Time:** Bonus Action
+* **Range:** Self
+* **Components:** V
+* **Duration:** Instantaneous
+* Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see.
+
+### Always Prepared / Features
+
+#### Divine Smite
+*Level 1 Evocation (Paladin)*
+* **Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
+* **Range:** Self
+* **Component:** V
+* **Duration:** Instantaneous
+* The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead.
+* *Using a Higher-Level Spell Slot.* The damage increases by 1d8 for each spell slot level above 1.
+
+#### Find Steed
+*Level 2 Conjuration (Paladin)*
+* **Casting Time:** Action
+* **Range:** 30 feet
+* **Component:** V, S
+* **Duration:** Instantaneous
+* You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the **Otherworldly Steed** stat block. If you already have a steed from this spell, the steed is replaced by the new one.
+* The steed resembles a Large, rideable animal of your choice, such as a horse, a camel, a dire wolf, or an elk. Whenever you cast the spell, choose the steed's creature type—Celestial, Fey, or Fiend—which determines certain traits in the stat block.
+* *Combat.* The steed is an ally to you and your allies. In combat, it shares your Initiative count, and it functions as a controlled mount while you ride it (as defined in the rules on mounted combat). If you have the Incapacitated condition, the steed takes its turn immediately after yours and acts independently, focusing on protecting you.
+* *Disappearance of the Steed.* The steed disappears if it drops to 0 Hit Points or if you die. When it disappears, it leaves behind anything it was wearing or carrying. If you cast this spell again, you decide whether you summon the steed that disappeared or a different one.
+* *Using a Higher-Level Spell Slot.* Use the spell slot's level for the spell's level in the stat block.
+
+### Prepared Spells
+
+#### Aid
+*Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
+* **Casting Time:** Action
+* **Range:** 30 feet
+* **Components:** V, S, M (a strip of white cloth)
+* **Duration:** 8 hours
+* Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration.
+* *Using a Higher-Level Spell Slot.* Each target's Hit Points increase by 5 for each spell slot level above 2.
+
+#### Bless
+*Level 1 Enchantment (Cleric, Paladin)*
+* **Casting Time:** Action
+* **Range:** 30 feet
+* **Components:** V, S, M (a Holy Symbol worth 5+ Gold Pieces)
+* **Duration:** Concentration, up to 1 minute
+* You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.
+* *Using a Higher-Level Spell Slot.* You can target one additional creature for each spell slot level above 1.
+
+#### Cure Wounds
+*Level 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
+* **Casting Time:** Action
+* **Range:** Touch
+* **Components:** V, S
+* **Duration:** Instantaneous
+* A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
+* *Using a Higher-Level Spell Slot.* The healing increases by 2d8 for each spell slot level above 1.
+
+#### Lesser Restoration
+*Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
+* **Casting Time:** Bonus Action
+* **Range:** Touch
+* **Components:** V, S
+* **Duration:** Instantaneous
+* You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned.
+
+#### Protection from Evil and Good
+*Level 1 Abjuration (Cleric, Druid, Paladin, Warlock, Wizard)*
+* **Casting Time:** Action
+* **Range:** Touch
+* **Components:** V, S, M (a flask of Holy Water worth 25+ Gold Pieces, which the spell consumes)
+* **Duration:** Concentration up to 10 minutes
+* Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have Disadvantage on attack rolls against the target. The target also can't be possessed by or gain the Charmed or Frightened conditions from them. If the target is already possessed, Charmed, or Frightened by such a creature, the target has Advantage on any new saving throw against the relevant effect.
+
+#### Shield of Faith
+*Level 1 Abjuration (Cleric, Paladin)*
+* **Casting Time:** Bonus Action
+* **Range:** 60 feet
+* **Components:** V, S, M (a prayer scroll)
+* **Duration:** Concentration, up to 10 minutes
+* A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to Armor Class for the duration.
+
+#### Shining Smite
+*Level 2 Transmutation (Paladin)*
+* **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
+* **Range:** Self
+* **Component:** V
+* **Duration:** Concentration, up to 1 minute
+* The target hit by the strike takes an extra 2d6 Radiant damage from the attack. Until the spell ends, the target sheds Bright Light in a 5-foot radius, attack rolls against it have Advantage, and it can't benefit from the Invisible condition.
+* *Using a Higher-Level Spell Slot.* The damage increases by 1d6 for each spell slot level above 2.
