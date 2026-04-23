@@ -71,7 +71,7 @@
 * **[Divine Smite](#divine-smite) (Spell):** Expend a spell slot immediately after hitting to deal 2d8 Radiant damage (+1d8 per slot level above Level 1). **Note:** Always prepared; one free cast per Long Rest.
 * **Divine Sense (Channel Divinity):** Know the location and type of Celestials, Fiends, or Undead within 60 feet for 10 minutes. (Costs 1 Channel Divinity).
 * **Vow of Enmity (Channel Divinity):** Advantage on attack rolls against one creature (10 feet range) for 1 minute. (Costs 1 Channel Divinity).
-* **Blessing of Lathander:** Choose one creature you damaged this turn. It takes 6 Radiant damage (twice your Proficiency Bonus). You may simultaneously "Spot a Foe" with Advantage.
+* **Blessing of Lathander:** Choose one creature you damaged this turn. It takes 6 Radiant damage (twice your Proficiency Bonus). You may simultaneously "Spot a Foe" with Advantage. Only one blessing effect active at a time.
 * **[Shining Smite](#shining-smite) (Spell):** After hitting, deal 2d6 Radiant damage. Target sheds light, granting Advantage on attacks against it and revealing invisibility. (Concentration).
 * **[Lesser Restoration](#lesser-restoration) (Spell):** End Blinded, Deafened, Paralyzed, or Poisoned condition on a touched creature.
 * **Adrenaline Rush (Orc Trait):** Dash action + Gain 2 Temporary Hit Points. (3 uses per Long Rest).
@@ -125,21 +125,35 @@
 
 ## 🧬 Features & Traits
 
+### Supernatural Gifts
+-   **Blessing of Lathander:** The Morninglord curses the unclean with the light of dawn. As a Bonus Action, choose one creature you damaged this turn. It takes Radiant damage equal to twice your Proficiency Bonus. Your Spot a Foe Bonus Actions have Advantage. You may Spot a Foe. Only one blessing at a time.
+
+### Feats
+-   **Sentinel (Level 4):**
+    -   **Attribute Boost:** Increased Strength by 1.
+    -   When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
+    -   Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
+    -   When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
+
 ### Orc Species
 -   **Adrenaline Rush:** Dash action and gain 2 Temporary Hit Points. (3 uses per Long Rest).
 -   **Relentless Endurance:** When reduced to 0 Hit Points but not killed, drop to 1 Hit Point instead (1 per Long Rest).
 
 ### Paladin Class Features
 -   **Divine Health:** Immune to disease.
+-   **Lay on Hands:** Pool of 35 Hit Points. Cleanses poison (Costs 5 Hit Points).
+-   **Fighting Style (Blind Fighting):** You have Blindsight with a range of 10 feet.
+-   **Extra Attack:** You can attack twice, instead of once, whenever you take the Attack action on your turn.
+-   **Aura of Protection:** Whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a +3 bonus to the saving throw (equal to your Charisma modifier). You must be conscious to grant this bonus.
 -   **Paladin's Smite:** Always have *Divine Smite* prepared. 1 free cast per Long Rest.
 -   **Faithful Steed:** Always have *Find Steed* prepared. 1 free cast per Long Rest.
--   **Fighting Style (Blind Fighting):** Blindsight 10 feet.
--   **Aura of Protection:** You and allies within 10 feet gain +3 to all Saving Throws.
--   **Extra Attack:** Attack twice whenever you take the Attack action.
 
 ### Oath of Vengeance (Subclass)
 -   **Relentless Avenger (Level 7):** Reposition half-speed after landing an Opportunity Attack.
--   **Channel Divinity:** Fuel *Vow of Enmity*, *Abjure Foes*, or *Divine Sense*. (Pool of 2 uses).
+-   **Channel Divinity (Pool of 2 Uses):**
+    -   *Vow of Enmity:* Advantage on attack rolls vs target.
+    -   *Abjure Enemy:* Wisdom Saving Throw. Frightened & Speed 0 (or Speed halved on save). Undead/Fiends have Disadvantage.
+    -   *Divine Sense:* Know the location and type of Celestials, Fiends, or Undead within 60 feet for 10 minutes.
 
 ---
 
@@ -155,7 +169,7 @@
 
 ## 🎒 Inventory & Equipment
 
-### 🧪 Consumables (8/10 Slots)
+### 🧪 Consumables (6/10 Slots)
 1. **Potion of Healing** (2d4+2)
 2. **Potion of Cold Resistance**
 3. **Potion of Animal Friendship**
@@ -167,18 +181,32 @@
 | Item | Rarity | Effect |
 | :--- | :--- | :--- |
 | **Winged Boots** | Uncommon | Fly 30 feet for 4 hours. |
-| **Headband of Intellect**| Uncommon | Sets Intelligence to 19. |
-| **+1 Pike** | Uncommon | +1 to Attack/Damage. |
+| **Headband of Intellect** | Uncommon | Sets Intelligence score to 19. |
+| **+1 Pike** | Uncommon | +1 bonus to attack and damage rolls. |
+| **Boots of False Tracks** | Common | Change footprints (Polar Bear). |
+| **Ersatz Eye** | Common | Artificial eye. |
+| **Smoldering Armor** | Common | Cosmetic smoke. |
+| **Unbreakable Arrow** | Common | Cannot break. |
 
 ### Gear (Stored / Unequipped)
 -   **Ring of Telekinesis** (Very Rare - Explicitly Given)
 -   **Enspelled Holy Symbol** (Healing Word)
--   **Boots of the Winterland** (Cold Resist)
--   **Staff of the Adder**
+-   **Boots of the Winterland** (Cold Resist, ignore ice terrain)
+-   **Staff of the Adder** (Requires Cleric/Druid/Warlock)
+-   *Stored Potions:* 1x Potion of Healing, 4x Potion of Cold Resistance.
 -   Plate Armor (Armor Class 18)
--   1 Sled & 2 Sled Dogs
+-   Splint Armor (Stored)
+-   Priest's Pack
+-   Holy Symbol
+-   Dice, Fine Clothes, Perfume
+-   1 Sled
+-   2 Sled Dogs
 
 ---
+
+## 📝 Change Log (Comprehensive Missing Content Restoration)
+* **Features & Traits:** Restored the `Supernatural Gifts` (Blessing of Lathander) and `Feats` (Sentinel) sections that were accidentally removed in previous revisions. Restored the full descriptive text for Paladin Class Features (Aura of Protection, Lay on Hands) and Oath of Vengeance (Channel Divinity).
+* **Inventory & Equipment:** Restored missing Common Magic Items (Boots of False Tracks, Ersatz Eye, Smoldering Armor, Unbreakable Arrow) and Stored Gear (Splint Armor, Priest's Pack, Holy Symbol, Dice/Clothes/Perfume, Stored Potions, and separated Sled/Dogs).
 
 ## 📝 Change Log (Spell Organization & Feature Restoration)
 * **Spells:** Organized the Prepared Spells list in the main sheet by spell level (Level 1 and Level 2) as requested.
