@@ -300,13 +300,33 @@
 ---
 
 ## 🗒️LLM TODO
-
-- 
+- Level to 7.
+- Add to gear Ring of Telekinesis
+- add potion of growth
+- use potion of psychic resistance and potion of healing
+- full rest
 
 ## Session Notes
 
 ### 2026 Apr 08
-- add snowflake
+- take 11 psychic dmg
+- take 11 psychic dmg
+- take 11 psychic dmg
+- take 22 psychic dmg
+- take 14
+- 55 piercing damage
+- combat ends
+- add 3+4+2 healing potion +  10 cure wounds ; minus one 1st level spell slot (11) + 11.
+- 20 -> 31 -> 51 (cleric)
+- take potion psychic resistance
+- take potion 
+-  p73 3d8 radiant 30 shot, 100ft no penalty
+- 21 kings knife dmg piercing, -3 piercing additional
+- 25 - 3
+- +30 hp loh
+- 12
+- 7
+- add potion of growth
 
 
 ### 2026 Feb 25
