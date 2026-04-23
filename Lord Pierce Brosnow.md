@@ -348,6 +348,17 @@
 - used bear fey step
 - used shining smite
 - 11 count
+- add blessing of chawinga
+- fully healed after short rest
+- 5 hp  + from Aid, cast
+- use vow of Enmity
+- use shining smite
+- add snowflake
+- 14 for abjure foes
+- 10 cold - 5 cold resist, 5 total
+- 12 blunt + 7 cold
+- 12 blunt + 7 cold
+
 
 
 ### 2026 Apr 08
