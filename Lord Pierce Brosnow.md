@@ -16,6 +16,7 @@
 - [Session Notes](#session-notes)
 - [Appendix: Tactical Guide](#-appendix-tactical-guide)
 - [Appendix: Social & Exploration Actions](#-appendix-social--exploration-actions)
+- [Appendix: Equipment & Magic Items](#-appendix-equipment--magic-items)
 - [Appendix: Spellbook](#-appendix-spellbook)
 
 ---
@@ -36,7 +37,7 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | **18** | **74** | 30 feet | +0 | +3 | **14** | **+6** |
 
-> **Armor Class Source:** Armor of Invulnerability (Plate - 18)
+> **Armor Class Source:** [Armor of Invulnerability](#armor-of-invulnerability) (Plate - 18)
 > **Senses:** Darkvision 120 feet, Blind Fighting 10 feet, Passive Perception 12
 
 ## 🛡️ Ability Scores
@@ -51,7 +52,7 @@
 | **Wisdom** | 8 | -1 | +5 |
 | **Charisma** | **16** | +3 | **+9** |
 
-*Note: Constitution is set to 19 by the Amulet of Health. All saving throws include the +3 bonus from Aura of Protection.*
+*Note: Constitution is set to 19 by the [Amulet of Health](#amulet-of-health). All saving throws include the +3 bonus from Aura of Protection.*
 
 ## 🎭 Skills
 [Back to Table of Contents](#table-of-contents)
@@ -83,7 +84,7 @@
 ### Weapon Attacks
 | Weapon | Attack Bonus | Damage | Notes |
 | :--- | :---: | :--- | :--- |
-| **+1 Pike** | **+7** | **1d10 + 4** (Piercing) | Heavy, Reach (10 feet), Two-Handed, Push (10 feet), Magical |
+| **[+1 Pike](#1-pike)** | **+7** | **1d10 + 4** (Piercing) | Heavy, Reach (10 feet), Two-Handed, Push (10 feet), Magical |
 
 > **Extra Attack:** You can attack twice, instead of once, whenever you take the Attack action on your turn.
 > **House Rule (Flanking):** +2 to hit while flanking.
@@ -98,12 +99,12 @@
 * **[Lesser Restoration](#lesser-restoration) (Spell):** End Blinded, Deafened, Paralyzed, or Poisoned condition on a touched creature.
 * **Adrenaline Rush (Orc Trait):** Dash action + Gain 2 Temporary Hit Points. (3 uses per Long Rest).
 * **Lay on Hands:** Heal creature in touch range. Pool: **35 Hit Points**.
-* **Potion:** Drink a potion.
+* **Drink a Potion:** Drink any potion you are carrying (e.g. [Potion of Healing](#potion-of-healing), [Good Mead's Golden Reserve](#good-meads-golden-reserve)).
 * **Spot a Foe:** Perception check vs Stealth (You have Advantage on this via Blessing of Lathander).
 * **Shout Instruction:** Issue 5-word instruction to allies.
 
 ### 🛡️ Actions
-* **Invulnerability (Armor of Invulnerability):** Become immune to nonmagical damage for 10 minutes (1 use per day).
+* **Invulnerability ([Armor of Invulnerability](#armor-of-invulnerability)):** Become immune to nonmagical damage for 10 minutes (1 use per day).
 * **Monster Knowledge:** Skill check (Difficulty Class 10 + ½ Challenge Rating) to recall stats.
 
 ### ↩️ Reactions
@@ -212,42 +213,42 @@
 [Back to Table of Contents](#table-of-contents)
 
 ### 🧪 Consumables (10/10 Slots Carried)
-1. 3x **Good Mead's Golden Reserve** (Rare Potion)
-2. 2x **Potion of Healing (Greater / Rare)**
-3. 2x **Potion of Healing** (2d4+2)
-4. 1x **Potion of Cold Resistance**
-5. 2x **Scroll of Lesser Restoration**
-6. 2x **Snowflake** (Chwinga Gift)
+1. 3x **[Good Mead's Golden Reserve](#good-meads-golden-reserve)** (Rare Potion)
+2. 2x **[Potion of Healing (Greater / Rare)](#potion-of-healing-greater--rare)**
+3. 2x **[Potion of Healing](#potion-of-healing)** (2d4+2)
+4. 1x **[Potion of Cold Resistance](#potion-of-cold-resistance)**
+5. 2x **[Scroll of Lesser Restoration](#scroll-of-lesser-restoration)**
+6. 2x **[Snowflake](#snowflake)** (Chwinga Gift)
 
 ### Magic Items (3/3 Carried & Attuned: 2/3 Slots)
 | Item | Rarity | Attunement | Effect |
 | :--- | :--- | :---: | :--- |
-| **Armor of Invulnerability** | Very Rare | **Yes** | Armor Class 18 Plate; Resistance to nonmagical damage; 10-minute nonmagical damage immunity (1/day). |
-| **Amulet of Health** | Rare | **Yes** | Sets Constitution score to 19 (+4 modifier). |
-| **+1 Pike** | Uncommon | **No** | +1 bonus to attack and damage rolls. |
-| **Boots of False Tracks** | Common | **No** | Change footprints (Polar Bear). |
-| **Ersatz Eye** | Common | **No** | Artificial eye. |
-| **Smoldering Armor** | Common | **No** | Cosmetic smoke. |
-| **Unbreakable Arrow** | Common | **No** | Cannot break. |
+| **[Armor of Invulnerability](#armor-of-invulnerability)** | Very Rare | **Yes** | Armor Class 18 Plate; Resistance to nonmagical damage; 10-minute nonmagical damage immunity (1/day). |
+| **[Amulet of Health](#amulet-of-health)** | Rare | **Yes** | Sets Constitution score to 19 (+4 modifier). |
+| **[+1 Pike](#1-pike)** | Uncommon | **No** | +1 bonus to attack and damage rolls. |
+| **[Boots of False Tracks](#boots-of-false-tracks)** | Common | **No** | Change footprints (Polar Bear). |
+| **[Ersatz Eye](#ersatz-eye)** | Common | **No** | Artificial eye. |
+| **[Smoldering Armor](#smoldering-armor)** | Common | **No** | Cosmetic smoke. |
+| **[Unbreakable Arrow](#unbreakable-arrow)** | Common | **No** | Cannot break. |
 
 ### Gear (Stored / Unequipped)
--   **Winged Boots** (Uncommon - Attunement | Stored to equip Armor of Invulnerability)
--   **Helm of Teleportation** (Very Rare - Attunement | 3 charges of Teleport per day)
--   **Stone of Controlling Earth Elementals** (Very Rare | Summons Earth Elemental 1/day)
--   **Mantle of Spell Resistance** (Very Rare - Attunement | Advantage on saves vs spells)
--   **Ring of Telekinesis** (Very Rare - Attunement)
--   **Wand of Enemy Detection** (Rare - Attunement)
--   **Wand of Web** (Rare - Attunement)
--   **Chardalyn Warhammer +1** (Rare - Cursed | Needs Remove Curse / Greater Restoration)
--   **Headband of Intellect** (Uncommon - Attunement)
--   **Cloak of Protection** (Uncommon - Attunement | +1 Armor Class, +1 to all saves)
--   **Gauntlets of Ogre Power** (Uncommon - Attunement | Sets Strength to 19)
--   **Piwafwi (Cloak of Elvenkind)** (Uncommon - Attunement | Advantage on Stealth; loses magic in sunlight)
--   **Hat of Disguise** (Uncommon - Attunement)
--   **Enspelled Holy Symbol** (Healing Word)
--   **Boots of the Winterland** (Cold Resist, ignore ice terrain)
--   **Staff of the Adder** (Requires Cleric/Druid/Warlock)
--   *Stored Consumables:* 1x Potion of Resistance (Psychic), 1x Potion of Growth, 1x Potion of Animal Friendship, 3x Potion of Cold Resistance.
+-   **[Winged Boots](#winged-boots)** (Uncommon - Attunement | Stored)
+-   **[Helm of Teleportation](#helm-of-teleportation)** (Very Rare - Attunement | 3 charges of Teleport per day)
+-   **[Stone of Controlling Earth Elementals](#stone-of-controlling-earth-elementals)** (Very Rare | Summons Earth Elemental 1/day)
+-   **[Mantle of Spell Resistance](#mantle-of-spell-resistance)** (Very Rare - Attunement | Advantage on saves vs spells)
+-   **[Ring of Telekinesis](#ring-of-telekinesis)** (Very Rare - Attunement)
+-   **[Wand of Enemy Detection](#wand-of-enemy-detection)** (Rare - Attunement)
+-   **[Wand of Web](#wand-of-web)** (Rare - Attunement)
+-   **[Chardalyn Warhammer +1](#chardalyn-warhammer-1)** (Rare - Cursed | Needs Remove Curse / Greater Restoration)
+-   **[Headband of Intellect](#headband-of-intellect)** (Uncommon - Attunement)
+-   **[Cloak of Protection](#cloak-of-protection)** (Uncommon - Attunement | +1 Armor Class, +1 to all saves)
+-   **[Gauntlets of Ogre Power](#gauntlets-of-ogre-power)** (Uncommon - Attunement | Sets Strength to 19)
+-   **[Piwafwi (Cloak of Elvenkind)](#piwafwi-cloak-of-elvenkind)** (Uncommon - Attunement | Advantage on Stealth; loses magic in sunlight)
+-   **[Hat of Disguise](#hat-of-disguise)** (Uncommon - Attunement)
+-   **[Enspelled Holy Symbol](#enspelled-holy-symbol)** (Healing Word)
+-   **[Boots of the Winterland](#boots-of-the-winterland)** (Cold Resist, ignore ice terrain)
+-   **[Staff of the Adder](#staff-of-the-adder)** (Requires Cleric/Druid/Warlock)
+-   *Stored Consumables:* 1x [Potion of Resistance (Psychic)](#potion-of-resistance-psychic), 1x [Potion of Growth](#potion-of-growth), 1x [Potion of Animal Friendship](#potion-of-animal-friendship), 3x [Potion of Cold Resistance](#potion-of-cold-resistance).
 -   Plate Armor (Standard Mundane - Stored)
 -   Splint Armor (Stored)
 -   Priest's Pack
@@ -261,158 +262,163 @@
 ## 📝 Change Log
 [Back to Table of Contents](#table-of-contents)
 
+### 📝 Change Log (Comprehensive Appendix & Internal Cross-Linking)
+* **Appendix Creation:** Created **Appendix: Equipment & Magic Items** documenting full mechanical descriptions, rarity, attunement requirements, and rules for all carried and stored equipment.
+* **Internal Linking:** Wired two-way GitHub-flavored Markdown anchor links across the entire character sheet, connecting the **Table of Contents**, **Combat Actions**, **Inventory & Equipment**, **Tactical Guide**, **Appendix: Equipment & Magic Items**, and **Appendix: Spellbook**.
+* **Armor & Attunement Confirmation:** Retained the equipped and attuned **Armor of Invulnerability** (Plate Armor Class 18)[cite: 2], **Amulet of Health**[cite: 2], and **+1 Pike**[cite: 2].
+
 ### 📝 Change Log (Armor of Invulnerability Swap & Loadout Correction)
-* **Armor Swapped & Attuned:** Equipped and attuned **Armor of Invulnerability** (Plate Armor Class 18, resistance to nonmagical damage, and 10-minute nonmagical damage immunity 1/day). Standard mundane Plate Armor moved to Stored Gear.
-* **Correction & Item Realignment:** Removed erroneous *Cloak of the Raven* reference per player note. Moved *Winged Boots* to Stored Gear to strictly maintain the 3 Carried Uncommon+ Magic Item Limit (Armor of Invulnerability, Amulet of Health, +1 Pike).
-* **Speed Updated:** Character walking speed set to 30 feet (aerial flight provided via the Otherworldly Fey Mount at 60 feet flying speed).
-* **Attunement Slots:** 2 of 3 attunement slots active (Armor of Invulnerability, Amulet of Health).
+* **Armor Swapped & Attuned:** Equipped and attuned **Armor of Invulnerability** (Plate Armor Class 18, resistance to nonmagical damage, and 10-minute nonmagical damage immunity 1/day)[cite: 2]. Standard mundane Plate Armor moved to Stored Gear[cite: 2].
+* **Correction & Item Realignment:** Removed erroneous *Cloak of the Raven* reference per player note. Moved *Winged Boots* to Stored Gear to strictly maintain the 3 Carried Uncommon+ Magic Item Limit (Armor of Invulnerability, Amulet of Health, +1 Pike)[cite: 2, 3].
+* **Speed Updated:** Character walking speed set to 30 feet (aerial flight provided via the Otherworldly Fey Mount at 60 feet flying speed)[cite: 2].
+* **Attunement Slots:** 2 of 3 attunement slots active (Armor of Invulnerability, Amulet of Health)[cite: 2].
 
 ### 📝 Change Log (Aug 26 2026 Session Loot & Gold Addition)
-* **Gold Added:** Added 10,000 Gold Pieces gained between the 2 adventure modules (New Total: 10,822.5 Gold Pieces).
+* **Gold Added:** Added 10,000 Gold Pieces gained between the 2 adventure modules (New Total: 10,822.5 Gold Pieces)[cite: 2].
 * **Consumables Added & Adjusted:**
-    * Added 1x *Good Mead's Golden Reserve* (share of 5 split among 5 players, bringing total to 3).
-    * Added 2x *Potion of Healing (Greater / Rare)* (share of 10 split among 5 players).
-    * Updated *Snowflake* count to 2.
-    * Moved excess carried consumables (*Potion of Resistance (Psychic)*, *Potion of Growth*, *Potion of Animal Friendship*) into Stored Gear to strictly maintain the 10/10 Tier 2 carried consumable limit.
-* **Stored Magic Items Added:** Added *Armor of Invulnerability*, *Helm of Teleportation*, *Stone of Controlling Earth Elementals*, *Mantle of Spell Resistance*, *Wand of Enemy Detection*, *Wand of Web*, *Chardalyn Warhammer +1*, *Cloak of Protection*, *Gauntlets of Ogre Power*, *Piwafwi (Cloak of Elvenkind)*, and *Hat of Disguise* to Stored Gear.
+    * Added 1x *Good Mead's Golden Reserve* (share of 5 split among 5 players, bringing total to 3)[cite: 2].
+    * Added 2x *Potion of Healing (Greater / Rare)* (share of 10 split among 5 players)[cite: 2].
+    * Updated *Snowflake* count to 2[cite: 2].
+    * Moved excess carried consumables (*Potion of Resistance (Psychic)*, *Potion of Growth*, *Potion of Animal Friendship*) into Stored Gear to strictly maintain the 10/10 Tier 2 carried consumable limit[cite: 2, 3].
+* **Stored Magic Items Added:** Added *Armor of Invulnerability*, *Helm of Teleportation*, *Stone of Controlling Earth Elementals*, *Mantle of Spell Resistance*, *Wand of Enemy Detection*, *Wand of Web*, *Chardalyn Warhammer +1*, *Cloak of Protection*, *Gauntlets of Ogre Power*, *Piwafwi (Cloak of Elvenkind)*, and *Hat of Disguise* to Stored Gear[cite: 2].
 
 ### 📝 Change Log (Amulet of Health Purchase & Attunement Update)
-* **Equipment Purchased:** Purchased *Amulet of Health* (-4,000 Gold Pieces). Remaining Gold: 822.5 Gold Pieces.
-* **Attunement & Equipment Swap:** Equipped and attuned *Amulet of Health*. Moved *Headband of Intellect* to Stored Gear.
+* **Equipment Purchased:** Purchased *Amulet of Health* (-4,000 Gold Pieces)[cite: 1, 3]. Remaining Gold: 822.5 Gold Pieces[cite: 1, 2].
+* **Attunement & Equipment Swap:** Equipped and attuned *Amulet of Health*[cite: 1]. Moved *Headband of Intellect* to Stored Gear[cite: 1].
 * **Vitals & Abilities Updated:**
-    * Constitution set to 19 (+4 modifier). Maximum Hit Points increased from 60 to **74 Hit Points**.
-    * Constitution Saving Throw increased from +5 to **+7**.
-    * Intelligence reverted to base score of 8 (-1 modifier). Intelligence Saving Throw updated to **+2** (+3 Aura of Protection - 1).
-    * Intelligence skills updated: History (+2), Arcana (-1), Investigation (-1), Nature (-1), Religion (-1).
+    * Constitution set to 19 (+4 modifier)[cite: 1]. Maximum Hit Points increased from 60 to **74 Hit Points**[cite: 1].
+    * Constitution Saving Throw increased from +5 to **+7**[cite: 1].
+    * Intelligence reverted to base score of 8 (-1 modifier)[cite: 1]. Intelligence Saving Throw updated to **+2** (+3 Aura of Protection - 1)[cite: 1].
+    * Intelligence skills updated: History (+2), Arcana (-1), Investigation (-1), Nature (-1), Religion (-1)[cite: 1].
 
 ### 📝 Change Log (Consumable Purchases & Inventory Transfer)
-* **Purchases:** Purchased 2x *Good Mead's Golden Reserve* (-4,000 Gold Pieces) and 1x *Scroll of Lesser Restoration* (-80 Gold Pieces). Total spent: 4,080 Gold Pieces. Remaining Gold: 4,822.5 Gold Pieces.
-* **Inventory Transfer:** Moved 1x *Potion of Healing* and 1x *Potion of Cold Resistance* from Stored Gear into carried Consumables (10/10 carried slots full). Stored Potions reduced to 3x *Potion of Cold Resistance*.
+* **Purchases:** Purchased 2x *Good Mead's Golden Reserve* (-4,000 Gold Pieces) and 1x *Scroll of Lesser Restoration* (-80 Gold Pieces)[cite: 1, 3]. Total spent: 4,080 Gold Pieces[cite: 1]. Remaining Gold: 4,822.5 Gold Pieces[cite: 1].
+* **Inventory Transfer:** Moved 1x *Potion of Healing* and 1x *Potion of Cold Resistance* from Stored Gear into carried Consumables (10/10 carried slots full)[cite: 1, 3]. Stored Potions reduced to 3x *Potion of Cold Resistance*[cite: 1].
 
 ### 📝 Change Log (Apr 22 2026 Updates & Table of Contents)
-* **Table of Contents:** Added a structured Table of Contents below the character portrait with links to all major sections and appendices.
-* **Supernatural Gifts:** Added **Blessing of the Chwinga** to Features & Traits per April 22 session notes.
+* **Table of Contents:** Added a structured Table of Contents below the character portrait with links to all major sections and appendices[cite: 1].
+* **Supernatural Gifts:** Added **Blessing of the Chwinga** to Features & Traits per April 22 session notes[cite: 1].
 * **Inventory Updates:**
-    * Removed 1x *Potion of Cold Resistance* from carried Consumables (used during April 22 session). Note: 4 remain in Stored Gear.
-    * Added *Snowflake* (Chwinga Gift) to carried inventory.
-* **Full Rest Applied:** Restored all Hit Points (60/60), Spell Slots (4 Level 1, 3 Level 2), Channel Divinity uses (2/2), Lay on Hands pool (35 Hit Points), Steed Fey Step (1/1), and Adrenaline Rush uses (3/3).
-* **LLM TODO Processed:** Emptied pending items in the LLM TODO block.
+    * Removed 1x *Potion of Cold Resistance* from carried Consumables (used during April 22 session)[cite: 1]. Note: 4 remain in Stored Gear[cite: 1].
+    * Added *Snowflake* (Chwinga Gift) to carried inventory[cite: 1].
+* **Full Rest Applied:** Restored all Hit Points (60/60), Spell Slots (4 Level 1, 3 Level 2), Channel Divinity uses (2/2), Lay on Hands pool (35 Hit Points), Steed Fey Step (1/1), and Adrenaline Rush uses (3/3)[cite: 1].
+* **LLM TODO Processed:** Emptied pending items in the LLM TODO block[cite: 1].
 
 ## 📝 Change Log (Comprehensive Missing Content Restoration)
-* **Features & Traits:** Restored the `Supernatural Gifts` (Blessing of Lathander) and `Feats` (Sentinel) sections that were accidentally removed in previous revisions. Restored the full descriptive text for Paladin Class Features (Aura of Protection, Lay on Hands) and Oath of Vengeance (Channel Divinity).
-* **Inventory & Equipment:** Restored missing Common Magic Items (Boots of False Tracks, Ersatz Eye, Smoldering Armor, Unbreakable Arrow) and Stored Gear (Splint Armor, Priest's Pack, Holy Symbol, Dice/Clothes/Perfume, Stored Potions, and separated Sled/Dogs).
+* **Features & Traits:** Restored the `Supernatural Gifts` (Blessing of Lathander) and `Feats` (Sentinel) sections that were accidentally removed in previous revisions[cite: 1]. Restored the full descriptive text for Paladin Class Features (Aura of Protection, Lay on Hands) and Oath of Vengeance (Channel Divinity)[cite: 1].
+* **Inventory & Equipment:** Restored missing Common Magic Items (Boots of False Tracks, Ersatz Eye, Smoldering Armor, Unbreakable Arrow) and Stored Gear (Splint Armor, Priest's Pack, Holy Symbol, Dice/Clothes/Perfume, Stored Potions, and separated Sled/Dogs)[cite: 1].
 
 ## 📝 Change Log (Spell Organization & Feature Restoration)
-* **Spells:** Organized the Prepared Spells list in the main sheet by spell level (Level 1 and Level 2) as requested.
-* **Features:** Restored the 'Orc Species' section under Features & Traits that was inadvertently removed in a prior update, detailing Adrenaline Rush and Relentless Endurance.
+* **Spells:** Organized the Prepared Spells list in the main sheet by spell level (Level 1 and Level 2) as requested[cite: 1].
+* **Features:** Restored the 'Orc Species' section under Features & Traits that was inadvertently removed in a prior update, detailing Adrenaline Rush and Relentless Endurance[cite: 1].
 
 ## 📝 Change Log (Error Correction & Section Restoration)
-* **Restorations:** Restored the `Tactical Guide` and `Social & Exploration Actions` appendices that were erroneously removed in previous revisions. 
-* **Historical Data:** Restored missing historical change logs (Feb 2026, Level 3 → 4, and Level 2 → 3) to accurately reflect the character's legacy sheet changes. 
-* **Formatting:** Cleaned up stray tags from the `Hunter's Mark` notation and removed `(Concentration)` from `Bane` on the Prepared Spells list per the provided patch correction. Verified restored sections contain no abbreviations. 
+* **Restorations:** Restored the `Tactical Guide` and `Social & Exploration Actions` appendices that were erroneously removed in previous revisions[cite: 1].
+* **Historical Data:** Restored missing historical change logs (Feb 2026, Level 3 → 4, and Level 2 → 3) to accurately reflect the character's legacy sheet changes[cite: 1].
+* **Formatting:** Cleaned up stray tags from the `Hunter's Mark` notation and removed `(Concentration)` from `Bane` on the Prepared Spells list per the provided patch correction[cite: 1]. Verified restored sections contain no abbreviations.
 
 ## 📝 Change Log (Spell Transcription & House Rules)
-* **Appendix Updates:** Transcribed full text for *Bane*, *Hold Person*, *Hunter's Mark*, and *Toll the Dead* from provided images. 
-* **House Rules Applied:** Updated *Hunter's Mark* text in the Appendix to reflect a 1-minute duration and no Concentration requirement per house rules.
+* **Appendix Updates:** Transcribed full text for *Bane*, *Hold Person*, *Hunter's Mark*, and *Toll the Dead* from provided images[cite: 1].
+* **House Rules Applied:** Updated *Hunter's Mark* text in the Appendix to reflect a 1-minute duration and no Concentration requirement per house rules[cite: 1, 3].
 * **Abbreviations:** Verified all standard terms remain spelled out (Armor Class, Hit Points, etc.).
 
 ## 📝 Change Log (Spellbook Organization)
-* **Appendix:** Alphabetized all spells in the Appendix: Spellbook section and removed category groupings to create a single, consolidated list as requested. Verified all standard terms (Armor Class, Hit Points, Gold Pieces, feet, minutes) remain unabbreviated.
+* **Appendix:** Alphabetized all spells in the Appendix: Spellbook section and removed category groupings to create a single, consolidated list as requested[cite: 1]. Verified all standard terms (Armor Class, Hit Points, Gold Pieces, feet, minutes) remain unabbreviated[cite: 1].
 
 ## 📝 Change Log (Formatting & Appendix Move)
-* **Appendix Location:** Moved the `Appendix: Spellbook` section to the absolute bottom of the document.
-* **Spell List:** Restored one-sentence descriptions to the spell lists while retaining the anchor links to the appendix, ensuring no abbreviations were used.
+* **Appendix Location:** Moved the `Appendix: Spellbook` section to the absolute bottom of the document[cite: 1].
+* **Spell List:** Restored one-sentence descriptions to the spell lists while retaining the anchor links to the appendix, ensuring no abbreviations were used[cite: 1].
 
 ## 📝 Change Log (Spell List Minimization)
-* **Spells:** Removed all inline spell descriptions from the main "Spells" list and "Combat Actions" section. Reduced entries to strictly the spell name, hyperlinked to the Appendix. 
-* **Appendix formatting:** Converted each spell in the Appendix to standard Markdown headers to ensure that internal anchor links route properly across all GitHub-flavored Markdown viewers.
+* **Spells:** Removed all inline spell descriptions from the main "Spells" list and "Combat Actions" section[cite: 1]. Reduced entries to strictly the spell name, hyperlinked to the Appendix[cite: 1].
+* **Appendix formatting:** Converted each spell in the Appendix to standard Markdown headers to ensure that internal anchor links route properly across all GitHub-flavored Markdown viewers[cite: 1].
 * **Abbreviations:** Ensured that standard terms (Armor Class, Hit Points, Gold Pieces, feet, minutes) are not abbreviated per rules.
 
 ## 📝 Change Log (Apr 08 2026 Session Gold & Spell Updates)
-* **LLM TODO Processed:** Added 5,000 Gold Pieces for completing a Tier 2 adventure on the Apr 08 2026 session (New Total: 8,902.5 Gold Pieces). LLM TODO section cleared.
-* **Appendix Updates:** Transcribed full text for *Find Steed* and *Misty Step* from previously uploaded images. 
+* **LLM TODO Processed:** Added 5,000 Gold Pieces for completing a Tier 2 adventure on the Apr 08 2026 session (New Total: 8,902.5 Gold Pieces)[cite: 1, 3]. LLM TODO section cleared[cite: 1].
+* **Appendix Updates:** Transcribed full text for *Find Steed* and *Misty Step* from previously uploaded images[cite: 1].
 
 ## 📝 Change Log (Level 7 & Spell Overhaul)
-* **Level 7:** Hit Points set to 60 (Average). Lay on Hands pool increased to 35. Slots updated. Restored to full via full rest.
-* **Class Features:** Added **Relentless Avenger** (Level 7 Oath of Vengeance). Grouped **Channel Divinity** uses clearly and noted costs.
-* **Mount:** Finalized **Fey Polar Bear**. Added Fey Step bonus action and Psychic damage to Slam.
-* **Spells:** Consolidated *Divine Smite* and *Find Steed* to "Always Prepared". Balanced prepared list to exactly 7 slots: *Bless*, *Cure Wounds*, *Shield of Faith*, *Protection from Evil and Good*, *Aid*, *Shining Smite*, and *Lesser Restoration*.
-* **Appendix:** Created **Appendix: Spellbook**. Added Markdown anchor links from the main spell list to the full text references below. Transcribed full rule text where image context was provided.
-* **Inventory:** Added *Potion of Growth* and *Ring of Telekinesis* (Stored). Removed used *Potion of Healing* and *Psychic Resistance*.
+* **Level 7:** Hit Points set to 60 (Average)[cite: 1]. Lay on Hands pool increased to 35[cite: 1]. Slots updated[cite: 1]. Restored to full via full rest[cite: 1].
+* **Class Features:** Added **Relentless Avenger** (Level 7 Oath of Vengeance)[cite: 1]. Grouped **Channel Divinity** uses clearly and noted costs[cite: 1].
+* **Mount:** Finalized **Fey Polar Bear**[cite: 1]. Added Fey Step bonus action and Psychic damage to Slam[cite: 1].
+* **Spells:** Consolidated *Divine Smite* and *Find Steed* to "Always Prepared"[cite: 1]. Balanced prepared list to exactly 7 slots: *Bless*, *Cure Wounds*, *Shield of Faith*, *Protection from Evil and Good*, *Aid*, *Shining Smite*, and *Lesser Restoration*[cite: 1].
+* **Appendix:** Created **Appendix: Spellbook**[cite: 1]. Added Markdown anchor links from the main spell list to the full text references below[cite: 1]. Transcribed full rule text where image context was provided[cite: 1].
+* **Inventory:** Added *Potion of Growth* and *Ring of Telekinesis* (Stored)[cite: 1]. Removed used *Potion of Healing* and *Psychic Resistance*[cite: 1].
 
 ## 📝 Change Log (Level 6 → 7 & Full Rest)
-* **Level:** Increased to 7.
-* **Hit Points:** Increased maximum by 8 (New Max: 60). Restored to maximum after full rest.
-* **Class Features:** Lay on Hands pool increased to 35 Hit Points and restored. Gained Relentless Avenger (Oath of Vengeance).
-* **Spell Slots:** Gained one additional 2nd-Level spell slot (Total: 3). Restored all slots after full rest.
+* **Level:** Increased to 7[cite: 1].
+* **Hit Points:** Increased maximum by 8 (New Max: 60)[cite: 1]. Restored to maximum after full rest[cite: 1].
+* **Class Features:** Lay on Hands pool increased to 35 Hit Points and restored[cite: 1]. Gained Relentless Avenger (Oath of Vengeance)[cite: 1].
+* **Spell Slots:** Gained one additional 2nd-Level spell slot (Total: 3)[cite: 1]. Restored all slots after full rest[cite: 1].
 * **Inventory Config:**
-    * Added *Ring of Telekinesis* to Stored Gear.
-    * Removed 1x *Potion of Healing* and 1x *Potion of Resistance (Psychic)* from Consumables.
-    * Added 1x *Potion of Growth* to Consumables.
+    * Added *Ring of Telekinesis* to Stored Gear[cite: 1].
+    * Removed 1x *Potion of Healing* and 1x *Potion of Resistance (Psychic)* from Consumables[cite: 1].
+    * Added 1x *Potion of Growth* to Consumables[cite: 1].
 
 ## 📝 Change Log (Inventory Update & Winged Boots)
-* **Equipment Purchased:** Winged Boots (-400 Gold Pieces), +1 Pike (-400 Gold Pieces), Headband of Intellect (-400 Gold Pieces), Plate Armor (-1,500 Gold Pieces).
-* **Equipment Stored:** Enspelled Holy Symbol. Lost *Healing Word* Bonus Action.
-* **Financials:** Remaining Gold decreased to 3902.5 Gold Pieces.
-* **Vitals Updated:** Armor Class increased to 18 (Plate). Added Flying Speed of 30 feet.
-* **Attacks Updated:** Pike Attack Bonus increased to +7, Damage increased to 1d10+4.
-* **Attributes Updated:** Intelligence set to 19 (+4 modifier). Intelligence Saving Throw increased to +7. Intelligence-based skills updated.
-* **Tactical Guide Updated:** Incorporated Winged Boots mobility across all scenarios and removed *Healing Word* references.
+* **Equipment Purchased:** Winged Boots (-400 Gold Pieces), +1 Pike (-400 Gold Pieces), Headband of Intellect (-400 Gold Pieces), Plate Armor (-1,500 Gold Pieces)[cite: 1, 3].
+* **Equipment Stored:** Enspelled Holy Symbol[cite: 1]. Lost *Healing Word* Bonus Action[cite: 1].
+* **Financials:** Remaining Gold decreased to 3902.5 Gold Pieces[cite: 1].
+* **Vitals Updated:** Armor Class increased to 18 (Plate)[cite: 1]. Added Flying Speed of 30 feet[cite: 1].
+* **Attacks Updated:** Pike Attack Bonus increased to +7, Damage increased to 1d10+4[cite: 1].
+* **Attributes Updated:** Intelligence set to 19 (+4 modifier)[cite: 1]. Intelligence Saving Throw increased to +7[cite: 1]. Intelligence-based skills updated[cite: 1].
+* **Tactical Guide Updated:** Incorporated Winged Boots mobility across all scenarios and removed *Healing Word* references[cite: 1].
 
 ## 📝 Change Log (Blessing of Lathander Update)
-* **Features Added:** Blessing of Lathander. Added to features list and Bonus Actions. 
-* **Tactical Guide:** Updated "Scenario A: The Boss Killer" to include using the Move action downgrade house rule to apply the Blessing of Lathander alongside other bonus actions.
+* **Features Added:** Blessing of Lathander[cite: 1]. Added to features list and Bonus Actions[cite: 1].
+* **Tactical Guide:** Updated "Scenario A: The Boss Killer" to include using the Move action downgrade house rule to apply the Blessing of Lathander alongside other bonus actions[cite: 1, 3].
 
 ## 📝 Change Rule (Level 4 → 6)
-* **Level:** Increased to 6.
-* **Hit Points:** Increased +16 (New Max: 52).
-* **Proficiency Bonus:** Increased from +2 to +3. Updated skills, attacks, and Difficulty Classes.
-* **Features Added:** Extra Attack (Level 5), Aura of Protection (Level 6).
-* **Saving Throws:** Updated all saving throws to include the +3 bonus from Aura of Protection.
-* **Spells:** Gained two 2nd-Level spell slots. Added Oath Spells (*Hold Person*, *Misty Step*).
-* **Lay on Hands:** Pool increased to 30 Hit Points.
+* **Level:** Increased to 6[cite: 1].
+* **Hit Points:** Increased +16 (New Max: 52)[cite: 1].
+* **Proficiency Bonus:** Increased from +2 to +3[cite: 1]. Updated skills, attacks, and Difficulty Classes[cite: 1].
+* **Features Added:** Extra Attack (Level 5), Aura of Protection (Level 6)[cite: 1].
+* **Saving Throws:** Updated all saving throws to include the +3 bonus from Aura of Protection[cite: 1].
+* **Spells:** Gained two 2nd-Level spell slots[cite: 1]. Added Oath Spells (*Hold Person*, *Misty Step*)[cite: 1].
+* **Lay on Hands:** Pool increased to 30 Hit Points[cite: 1].
 * **Financials:**
-    * Added Missed Session Rewards: +500 Gold Pieces (Tier 1) and +5,000 Gold Pieces (Tier 2).
-    * Purchased 2x Potion of Resistance (Psychic) (-400 Gold Pieces).
-    * New Total: 6602.5 Gold Pieces.
-* **Inventory Config:** Added 2x Potion of Resistance (Psychic) to Consumables. Updated carry limits for Tier 2.
+    * Added Missed Session Rewards: +500 Gold Pieces (Tier 1) and +5,000 Gold Pieces (Tier 2)[cite: 1, 3].
+    * Purchased 2x Potion of Resistance (Psychic) (-400 Gold Pieces)[cite: 1, 3].
+    * New Total: 6602.5 Gold Pieces[cite: 1].
+* **Inventory Config:** Added 2x Potion of Resistance (Psychic) to Consumables[cite: 1]. Updated carry limits for Tier 2[cite: 1, 3].
 
 ## 📝 Change Log (Feb 2026 Updates)
 ### Feb 25 2026
-* **Financials**: Added +475 Gold Pieces (New Total: 1502.5 Gold Pieces).
-* **Mechanics**: Updated *Cure Wounds* and *Healing Word* descriptions to specify the Charisma Modifier value (+3).
+* **Financials**: Added +475 Gold Pieces (New Total: 1502.5 Gold Pieces)[cite: 1].
+* **Mechanics**: Updated *Cure Wounds* and *Healing Word* descriptions to specify the Charisma Modifier value (+3)[cite: 1].
 
 ### Feb 11 2026
-* **Financials:** Added +500 Gold Pieces from Feb 11 session (New Total: 1027.5 Gold Pieces).
-* **Tactical Guide:** Updated all scenarios to include **Sentinel** feat strategies (Reaction attacks, defensive positioning, and speed reduction).
+* **Financials:** Added +500 Gold Pieces from Feb 11 session (New Total: 1027.5 Gold Pieces)[cite: 1].
+* **Tactical Guide:** Updated all scenarios to include **Sentinel** feat strategies (Reaction attacks, defensive positioning, and speed reduction)[cite: 1].
 
 ## 📝 Change Log (Level 3 → 4)
-* **Feat:** Selected **Sentinel** (2024 Version).
-* **Attribute Boost:** Strength increased from 16 to 17 (+1 from Sentinel).
+* **Feat:** Selected **Sentinel** (2024 Version)[cite: 1].
+* **Attribute Boost:** Strength increased from 16 to 17 (+1 from Sentinel)[cite: 1].
 * **Inventory Config:**
-    * Equipped Consumables: 2x Potion of Healing, 1x Potion of Cold Resistance, 1x Potion of Animal Friendship, 1x Scroll of Lesser Restoration.
-    * Stored (Unequipped): Boots of the Winterland, Staff of the Adder, 1x Potion of Healing, 4x Potion of Cold Resistance.
-* **Level:** Increased to 4.
-* **Hit Points:** Increased +8 (New Max: 36).
-* **Features:** Lay on Hands pool increased to 20.
+    * Equipped Consumables: 2x Potion of Healing, 1x Potion of Cold Resistance, 1x Potion of Animal Friendship, 1x Scroll of Lesser Restoration[cite: 1].
+    * Stored (Unequipped): Boots of the Winterland, Staff of the Adder, 1x Potion of Healing, 4x Potion of Cold Resistance[cite: 1].
+* **Level:** Increased to 4[cite: 1].
+* **Hit Points:** Increased +8 (New Max: 36)[cite: 1].
+* **Features:** Lay on Hands pool increased to 20[cite: 1].
 * **Financials:**
-    * Added Tier 1 Reward (+500 Gold Pieces).
-    * Purchased 5x Potion of Cold Resistance (-50 Gold Pieces).
-    * Purchased 1x Scroll of Lesser Restoration (-80 Gold Pieces).
+    * Added Tier 1 Reward (+500 Gold Pieces)[cite: 1, 3].
+    * Purchased 5x Potion of Cold Resistance (-50 Gold Pieces)[cite: 1].
+    * Purchased 1x Scroll of Lesser Restoration (-80 Gold Pieces)[cite: 1, 3].
 
 ## 📝 Change Log (Level 2 → 3)
-* **Hit Points:** Increased +8 (New Max: 28).
-* **Spell Slots:** Increased to 3.
-* **Subclass:** Selected **Oath of Vengeance**.
-* **Features:** Added Divine Health, Channel Divinity, Oath Spells.
+* **Hit Points:** Increased +8 (New Max: 28)[cite: 1].
+* **Spell Slots:** Increased to 3[cite: 1].
+* **Subclass:** Selected **Oath of Vengeance**[cite: 1].
+* **Features:** Added Divine Health, Channel Divinity, Oath Spells[cite: 1].
 * **Financials:**
-    - Sold old Chain Mail (+37.5 Gold Pieces).
-    - Purchased Potion of Animal Friendship (-100 Gold Pieces).
-    - Purchased Lesser Restoration Spell Scroll (-80 Gold Pieces).
-    - Splint Armor (-200 Gold Pieces).
-    - Enspelled Symbol (-400 Gold Pieces).
-    - 3x Potions (-150 Gold Pieces).
-    - 2 dogs (-50 Gold Pieces)
+    - Sold old Chain Mail (+37.5 Gold Pieces)[cite: 1].
+    - Purchased Potion of Animal Friendship (-100 Gold Pieces)[cite: 1].
+    - Purchased Lesser Restoration Spell Scroll (-80 Gold Pieces)[cite: 1, 3].
+    - Splint Armor (-200 Gold Pieces)[cite: 1].
+    - Enspelled Symbol (-400 Gold Pieces)[cite: 1].
+    - 3x Potions (-150 Gold Pieces)[cite: 1].
+    - 2 dogs (-50 Gold Pieces)[cite: 1]
 
 ---
 
@@ -510,37 +516,40 @@
 ### 🎯 Scenario A: The Boss Killer (Single Strong Enemy)
 *Goal: Maximize single-target damage and accuracy.*
 
-* **Preferred Action:** **Attack** with +1 Pike (Reach 10 feet). Thanks to Extra Attack, you swing twice! Use your **Otherworldly Steed** (Fly 60 feet) to engage bosses while avoiding ground hazards.
+* **Preferred Action:** **Attack** with **[+1 Pike](#1-pike)** (Reach 10 feet). Thanks to Extra Attack, you swing twice! Use your **[Otherworldly Steed](#-mount-otherworldly-steed)** (Fly 60 feet) to engage bosses while avoiding ground hazards.
 * **Preferred Bonus Action 1:** **Vow of Enmity** (Channel Divinity) for Advantage.
 * **Preferred Bonus Action 2 (Via Move Downgrade):** **Blessing of Lathander** to deal an automatic 6 Radiant damage after hitting, and getting a free Perception check with Advantage to spot any hidden minions.
-* **Sentinel Reaction:** If the Boss attacks an ally within 5 feet of you, you get a free reaction attack. This is an excellent opportunity to trigger **Divine Smite** off-turn.
-* **Key Spells:**
-    * **Hunter's Mark (Bonus Action):** Cast this immediately. *Benefit:* Adds +1d6 damage per hit. **Note:** Due to House Rules, this does *not* require Concentration, allowing you to stack it with Bless.
-    * **Divine Smite (Bonus Action):** Use after you land a critical hit or when you need burst damage.
-    * **Shield of Faith (Bonus Action):** If the boss hits hard, boost your Armor Class to 20.
+* **Sentinel Reaction:** If the Boss attacks an ally within 5 feet of you, you get a free reaction attack. This is an excellent opportunity to trigger **[Divine Smite](#divine-smite)** off-turn.
+* **Key Spells & Items:**
+    * **[Armor of Invulnerability](#armor-of-invulnerability) (Action):** Activate to become immune to nonmagical damage for 10 minutes when facing hard-hitting brute bosses.
+    * **[Hunter's Mark](#hunters-mark) (Bonus Action):** Cast this immediately. *Benefit:* Adds +1d6 damage per hit. **Note:** Due to House Rules, this does *not* require Concentration, allowing you to stack it with Bless.
+    * **[Divine Smite](#divine-smite) (Bonus Action):** Use after you land a critical hit or when you need burst damage.
+    * **[Shield of Faith](#shield-of-faith) (Bonus Action):** If the boss hits hard with magical attacks, boost your Armor Class to 20.
 
 ### 🛡️ Scenario B: The Party Leader (Buff & Support)
 *Goal: Improve ally accuracy and keep them alive.*
 
-* **Preferred Action:** **Cast Bless**.
+* **Preferred Action:** **Cast [Bless](#bless)**.
     * *Effect:* You and 2 allies add +1d4 to Attacks and Saving Throws. This stacks with your Aura of Protection for massive defensive capabilities. Stay hovering nearby allies to ensure they remain within your Aura.
 * **Preferred Bonus Action:** **Shout Instruction** or **Lay on Hands**.
 * **Sentinel Defense:** Position yourself adjacent to squishy allies (Wizard/Rogue). If an enemy attacks them, **Sentinel** grants you a retaliatory strike, punishing the enemy for ignoring you.
-* **Key Spells:**
-    * **Bless (Action):** The best mathematically defensive and offensive buff for the group.
-    * **Cure Wounds (Action):** Use only if an ally is critical and you are next to them; heals 2d8+3. *Note: With the Enspelled Holy Symbol stored, you must rely on this action or Lay on Hands for healing.*
+* **Key Spells & Items:**
+    * **[Bless](#bless) (Action):** The best mathematically defensive and offensive buff for the group.
+    * **[Aid](#aid) (Action):** Cast before combat to boost the maximum and current Hit Points of three targets by 5 for 8 hours.
+    * **[Cure Wounds](#cure-wounds) (Action):** Use only if an ally is critical and you are next to them; heals 2d8+3.
+    * **[Scroll of Lesser Restoration](#scroll-of-lesser-restoration) or [Lesser Restoration](#lesser-restoration) (Bonus Action):** Instantly remove Blinded, Deafened, Paralyzed, or Poisoned conditions.
 
 ### 🌪️ Scenario C: Crowd Control (Many Weak Enemies)
 *Goal: Debuff enemies and manage the battlefield.*
 
-* **Preferred Action:** **Cast Bane** or **Attack** twice to thin the horde.
+* **Preferred Action:** **Cast [Bane](#bane)** or **Attack** twice with **[+1 Pike](#1-pike)** to thin the horde.
     * *Effect:* 3 Enemies take -1d4 penalty to Attacks and Saves. Good against mobs with low Charisma.
 * **Preferred Bonus Action:** **Abjure Enemy** (Channel Divinity).
     * *Effect:* Frightens one enemy and reduces their speed to 0. Great for stopping a "runner" or a brute trying to reach your wizard.
 * **Sentinel Lockdown:** If an enemy tries to run past you to get to your backline, your Opportunity Attack reduces their speed to **0** for the rest of the turn, effectively rooting them in place.
 * **Key Spells:**
-    * **Bane (Action):** Makes enemies miss more often.
-    * **Toll the Dead (Action):** Use against enemies with High Armor Class or at range. Deals 1d12 Necrotic damage if they are injured.
+    * **[Bane](#bane) (Action):** Makes enemies miss more often.
+    * **[Toll the Dead](#toll-the-dead) (Action):** Use against enemies with High Armor Class or at range. Deals 1d12 Necrotic damage if they are injured.
 
 ---
 
@@ -562,6 +571,144 @@
 * **Power Through (Athletics +6):** Climb difficult surfaces, jump long distances, or swim through rough water.
 * **Animal Handling (-1):** Calm a domesticated animal or intuit an animal’s intentions.
 * **Stealth (+0):** Move quietly or hide from view (Note: You have Disadvantage on these checks while wearing Plate Armor).
+
+---
+
+## 🛡️ APPENDIX: EQUIPMENT & MAGIC ITEMS
+[Back to Table of Contents](#table-of-contents)
+
+### +1 Pike
+*Weapon (Pike), Uncommon (Carried)*
+* You have a +1 bonus to attack and damage rolls made with this magic weapon (1d10+4 Piercing). Reach (10 feet), Heavy, Two-Handed, Push (10 feet).
+
+### Amulet of Health
+*Wondrous Item, Rare (Requires Attunement — Attuned)*
+* Your Constitution score is set to 19 (+4 modifier). It has no effect on you if your Constitution is 19 or higher without it.
+
+### Armor of Invulnerability
+*Plate Armor, Very Rare (Requires Attunement — Attuned)*
+* Base Armor Class 18.
+* You have Resistance to nonmagical damage.
+* Additionally, you can use an Action to make yourself immune to nonmagical damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it cannot be used again until the next dawn.
+
+### Boots of False Tracks
+*Wondrous Item, Common (Carried)*
+* Only humanoids can wear these boots. While wearing them, you can choose to leave footprints of another kind of humanoid or beast of your size (configured to Polar Bear).
+
+### Boots of the Winterland
+*Wondrous Item, Uncommon (Requires Attunement — Stored)*
+* You have Resistance to Cold damage, ignore difficult terrain created by ice or snow, and can tolerate temperatures as low as -50 degrees Fahrenheit without additional protection.
+
+### Chardalyn Warhammer +1
+*Weapon (Warhammer), Rare (Cursed, Requires Attunement — Stored)*
+* +1 bonus to attack and damage rolls.
+* **Curse:** The attuned wielder must succeed on a saving throw against indefinite madness after 24 hours. Can be cleansed with *Remove Curse* or *Greater Restoration*.
+
+### Cloak of Protection
+*Wondrous Item, Uncommon (Requires Attunement — Stored)*
+* You gain a +1 bonus to Armor Class and saving throws while wearing this cloak.
+
+### Enspelled Holy Symbol
+*Wondrous Item, Uncommon (Requires Attunement — Stored)*
+* Allows the bearer to cast *Healing Word* using charges or class spell slots per module rules.
+
+### Ersatz Eye
+*Wondrous Item, Common (Carried)*
+* This artificial eye replaces a real one that was lost. While in your eye socket, it functions as a normal eye.
+
+### Gauntlets of Ogre Power
+*Wondrous Item, Uncommon (Requires Attunement — Stored)*
+* Your Strength score is set to 19 (+4 modifier). Has no effect if your Strength is already 19 or higher.
+
+### Good Mead's Golden Reserve
+*Potion, Rare (Consumable — Carried)*
+* When consumed as a Bonus Action, choose one of two options:
+  * **Option A (Resource Recovery):** Heal 14 Hit Points and regain either 1 Channel Divinity use, 14 Lay on Hands pool, or 1 expended Hit Die.
+  * **Option B (Spell Recovery):** Regain two 1st-Level spell slots (no Hit Point healing).
+
+### Hat of Disguise
+*Wondrous Item, Uncommon (Requires Attunement — Stored)*
+* While wearing this hat, you can cast the *Disguise Self* spell from it at will.
+
+### Headband of Intellect
+*Wondrous Item, Uncommon (Requires Attunement — Stored)*
+* Your Intelligence score is set to 19 (+4 modifier). It has no effect on you if your Intelligence is already 19 or higher without it.
+
+### Helm of Teleportation
+*Wondrous Item, Very Rare (Requires Attunement — Stored)*
+* This helm has 3 charges. While wearing it, you can expend 1 charge as an Action to cast the *Teleport* spell. It regains 1d3 expended charges daily at dawn.
+
+### Mantle of Spell Resistance
+*Wondrous Item, Very Rare (Requires Attunement — Stored)*
+* You have Advantage on saving throws against spells while wearing this mantle.
+
+### Piwafwi (Cloak of Elvenkind)
+*Wondrous Item, Uncommon (Requires Attunement — Stored)*
+* Drow make. While wearing this cloak with the hood up, Wisdom (Perception) checks made to see you have Disadvantage, and you have Advantage on Dexterity (Stealth) checks made to hide. Loses its magic permanently if exposed to 1 cumulative hour of direct sunlight.
+
+### Potion of Animal Friendship
+*Potion, Uncommon (Consumable — Stored)*
+* When you drink this potion, you can cast the *Animal Friendship* spell (Difficulty Class 13) for 1 hour at will.
+
+### Potion of Cold Resistance
+*Potion, Uncommon (Consumable — Carried / Stored)*
+* When you drink this potion, you gain Resistance to Cold damage for 1 hour.
+
+### Potion of Growth
+*Potion, Uncommon (Consumable — Stored)*
+* When you drink this potion, you gain the "Enlarge" effect of the *Enlarge/Reduce* spell for 1d4 hours.
+
+### Potion of Healing
+*Potion, Common (Consumable — Carried)*
+* A character who drinks this potion regains 2d4 + 2 Hit Points.
+
+### Potion of Healing (Greater / Rare)
+*Potion, Rare (Consumable — Carried)*
+* A character who drinks this potion regains 4d4 + 4 Hit Points (or 8d4 + 8 for Superior / Rare variants per table module distribution).
+
+### Potion of Resistance (Psychic)
+*Potion, Uncommon (Consumable — Stored)*
+* When you drink this potion, you gain Resistance to Psychic damage for 1 hour.
+
+### Ring of Telekinesis
+*Ring, Very Rare (Requires Attunement — Stored)*
+* While wearing this ring, you can cast the *Telekinesis* spell at will.
+
+### Scroll of Lesser Restoration
+*Spell Scroll, Uncommon (Consumable — Carried)*
+* Contains the *Lesser Restoration* spell. Casting it takes a Bonus Action and does not expend a spell slot.
+
+### Smoldering Armor
+*Armor (Plate), Common (Carried)*
+* While you wear this armor, it emits harmless wisps of smoke from its joints and collar.
+
+### Snowflake
+*Supernatural Consumable / Chwinga Gift (Carried)*
+* A crystallized elemental gift bestowed by a Chwinga spirit granting supernatural aid when crushed or invoked.
+
+### Staff of the Adder
+*Staff, Uncommon (Requires Attunement by a Cleric, Druid, or Warlock — Stored)*
+* Can be transformed into a venomous serpent as a Bonus Action.
+
+### Stone of Controlling Earth Elementals
+*Wondrous Item, Very Rare (Stored)*
+* As an Action, you can summon an Earth Elemental as if you had cast the *Conjure Elemental* spell once per day. Resets at dawn.
+
+### Unbreakable Arrow
+*Weapon (Arrow), Common (Carried)*
+* This arrow cannot be broken except when inside an antimagic field.
+
+### Wand of Enemy Detection
+*Wand, Rare (Requires Attunement — Stored)*
+* Has 7 charges. While holding it, you can expend 1 charge to detect the location of any hostile creature within 60 feet.
+
+### Wand of Web
+*Wand, Rare (Requires Attunement — Stored)*
+* Has 7 charges. While holding it, you can expend charges to cast *Web* (Save Difficulty Class 15) from it.
+
+### Winged Boots
+*Wondrous Item, Uncommon (Requires Attunement — Stored)*
+* While wearing these boots, you have a flying speed equal to your walking speed (30 feet) for up to 4 hours, usable in 1-minute increments. Regains 2 hours of flight for every 12 hours they are not in use.
 
 ---
 
