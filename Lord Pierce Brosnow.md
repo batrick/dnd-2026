@@ -400,7 +400,12 @@
 [Back to Table of Contents](#table-of-contents)
 
 ### 2026 Aug 26
-- 
+- add snowflake, now 2 
+- find 10 rare healing potions, 5 gold mead potions; divide among 5 players
+- cast bless on party
+- 18 + 9 slashing; +9 + 14; -4-7
+- add 10k gold
+- going to grimskalle to eventually fight the Frostmaiden
 
 ### 2026 Apr 22
 - used oil
