@@ -336,8 +336,12 @@
 
 ## 🗒️LLM TODO
 - add ToC  to top of sheet below portrait
+- apply changes from 2026 Apr 22 session. assume full rest
 
 ## Session Notes
+
+### 2026 Aug 26
+- 
 
 ### 2026 Apr 22
 - used oil
