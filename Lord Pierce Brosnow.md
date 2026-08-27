@@ -25,7 +25,7 @@
 **Class:** Paladin (Oath of Vengeance) | **Level:** 7
 
 **Race:** Orc | **Background:** Noble
-**Experience Points:** Milestone | **Gold:** 4822.5 Gold Pieces | **Language:** Common, Orc
+**Experience Points:** Milestone | **Gold:** 822.5 Gold Pieces | **Language:** Common, Orc
 
 ---
 
@@ -34,7 +34,7 @@
 
 | Armor Class | Hit Points | Speed | Initiative | Proficiency Bonus | Spell Save Difficulty Class | Spell Attack Modifier |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **18** | **60** | 30 feet (Fly 30 feet) | +0 | +3 | **14** | **+6** |
+| **18** | **74** | 30 feet (Fly 30 feet) | +0 | +3 | **14** | **+6** |
 
 > **Armor Class Source:** Plate Armor (18)
 > **Senses:** Darkvision 120 feet, Blind Fighting 10 feet, Passive Perception 12
@@ -46,12 +46,12 @@
 | :--- | :---: | :---: | :---: |
 | **Strength** | **17** | +3 | +6 |
 | **Dexterity** | 10 | +0 | +3 |
-| **Constitution** | 14 | +2 | +5 |
-| **Intelligence** | **19** | **+4** | **+7** |
+| **Constitution** | **19** | **+4** | **+7** |
+| **Intelligence** | 8 | -1 | +2 |
 | **Wisdom** | 8 | -1 | +5 |
 | **Charisma** | **16** | +3 | **+9** |
 
-*Note: Intelligence is set to 19 by the Headband of Intellect. All saving throws include the +3 bonus from Aura of Protection.*
+*Note: Constitution is set to 19 by the Amulet of Health. All saving throws include the +3 bonus from Aura of Protection.*
 
 ## 🎭 Skills
 [Back to Table of Contents](#table-of-contents)
@@ -60,19 +60,19 @@
 | :--- | :---: | :---: |
 | **Acrobatics (Dexterity)** | +0 | |
 | **Animal Handling (Wisdom)** | -1 | |
-| **Arcana (Intelligence)** | **+4** | |
+| **Arcana (Intelligence)** | -1 | |
 | **Athletics (Strength)** | **+6** | **✓** |
 | **Deception (Charisma)** | **+6** | **✓** |
-| **History (Intelligence)** | **+7** | **✓** |
+| **History (Intelligence)** | **+2** | **✓** |
 | **Insight (Wisdom)** | **+2** | **✓** |
 | **Intimidation (Charisma)** | **+6** | **✓** |
-| **Investigation (Intelligence)** | **+4** | |
+| **Investigation (Intelligence)** | -1 | |
 | **Medicine (Wisdom)** | -1 | |
-| **Nature (Intelligence)** | **+4** | |
+| **Nature (Intelligence)** | -1 | |
 | **Perception (Wisdom)** | **+2** | **✓** |
 | **Performance (Charisma)** | +3 | |
 | **Persuasion (Charisma)** | **+6** | **✓** |
-| **Religion (Intelligence)** | **+4** | |
+| **Religion (Intelligence)** | -1 | |
 | **Sleight of Hand (Dexterity)** | +0 | |
 | **Stealth (Dexterity)** | +0 | |
 | **Survival (Wisdom)** | -1 | |
@@ -224,7 +224,7 @@
 | Item | Rarity | Effect |
 | :--- | :--- | :--- |
 | **Winged Boots** | Uncommon | Fly 30 feet for 4 hours. |
-| **Headband of Intellect** | Uncommon | Sets Intelligence score to 19. |
+| **Amulet of Health** | Rare | Sets Constitution score to 19. |
 | **+1 Pike** | Uncommon | +1 bonus to attack and damage rolls. |
 | **Boots of False Tracks** | Common | Change footprints (Polar Bear). |
 | **Ersatz Eye** | Common | Artificial eye. |
@@ -232,6 +232,7 @@
 | **Unbreakable Arrow** | Common | Cannot break. |
 
 ### Gear (Stored / Unequipped)
+-   **Headband of Intellect** (Uncommon - Stored)
 -   **Ring of Telekinesis** (Very Rare - Explicitly Given)
 -   **Enspelled Holy Symbol** (Healing Word)
 -   **Boots of the Winterland** (Cold Resist, ignore ice terrain)
@@ -249,6 +250,15 @@
 
 ## 📝 Change Log
 [Back to Table of Contents](#table-of-contents)
+
+### 📝 Change Log (Amulet of Health Purchase & Attunement Update)
+* **Equipment Purchased:** Purchased *Amulet of Health* (-4,000 Gold Pieces). Remaining Gold: 822.5 Gold Pieces.
+* **Attunement & Equipment Swap:** Equipped and attuned *Amulet of Health*. Moved *Headband of Intellect* to Stored Gear.
+* **Vitals & Abilities Updated:**
+    * Constitution set to 19 (+4 modifier). Maximum Hit Points increased from 60 to **74 Hit Points**.
+    * Constitution Saving Throw increased from +5 to **+7**.
+    * Intelligence reverted to base score of 8 (-1 modifier). Intelligence Saving Throw updated to **+2** (+3 Aura of Protection - 1).
+    * Intelligence skills updated: History (+2), Arcana (-1), Investigation (-1), Nature (-1), Religion (-1).
 
 ### 📝 Change Log (Consumable Purchases & Inventory Transfer)
 * **Purchases:** Purchased 2x *Good Mead's Golden Reserve* (-4,000 Gold Pieces) and 1x *Scroll of Lesser Restoration* (-80 Gold Pieces). Total spent: 4,080 Gold Pieces. Remaining Gold: 4,822.5 Gold Pieces.
