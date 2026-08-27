@@ -2,6 +2,24 @@
 
 ![Lord Pierce Brosnow](lord-pierce-brosnow.jpg)
 
+### Table of Contents
+- [Core Vitals](#-core-vitals)
+- [Ability Scores](#️-ability-scores)
+- [Skills](#-skills)
+- [Combat Actions](#-combat-actions)
+- [Spells](#-spells)
+- [Features & Traits](#-features--traits)
+- [Mount: Otherworldly Steed](#-mount-otherworldly-steed)
+- [Inventory & Equipment](#-inventory--equipment)
+- [Change Log](#-change-log)
+- [LLM TODO](#️llm-todo)
+- [Session Notes](#session-notes)
+- [Appendix: Tactical Guide](#-appendix-tactical-guide)
+- [Appendix: Social & Exploration Actions](#-appendix-social--exploration-actions)
+- [Appendix: Spellbook](#-appendix-spellbook)
+
+---
+
 **Player:** Patrick Donnelly
 
 **Class:** Paladin (Oath of Vengeance) | **Level:** 7
@@ -126,6 +144,7 @@
 
 ### Supernatural Gifts
 -   **Blessing of Lathander:** The Morninglord curses the unclean with the light of dawn. As a Bonus Action, choose one creature you damaged this turn. It takes Radiant damage equal to twice your Proficiency Bonus. Your Spot a Foe Bonus Actions have Advantage. You may Spot a Foe. Only one blessing at a time.
+-   **Blessing of the Chwinga:** Bestowed by an elemental Chwinga spirit encountered during the Icewind Dale expedition.
 
 ### Feats
 -   **Sentinel (Level 4):**
@@ -160,7 +179,7 @@
 
 | Armor Class | Hit Points | Speed |
 |:--:|:--:|:--:|
-| 12 | 40 (Uses Paladin HP Calc) | 40 feet (Fly 60 feet via spell, Swim 40 feet) |
+| 12 | 40 (Uses Paladin Hit Points Calculation) | 40 feet (Fly 60 feet via spell, Swim 40 feet) |
 
 ### 🛡️ Ability Scores
 | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
@@ -181,13 +200,13 @@
 
 ## 🎒 Inventory & Equipment
 
-### 🧪 Consumables (6/10 Slots)
+### 🧪 Consumables (5/10 Slots)
 1. **Potion of Healing** (2d4+2)
-2. **Potion of Cold Resistance**
-3. **Potion of Animal Friendship**
-4. **Scroll of Lesser Restoration**
-5. **Potion of Resistance (Psychic)**
-6. **Potion of Growth**: (Action) Gain "Enlarge" effect for 1d4 hours.
+2. **Potion of Animal Friendship**
+3. **Scroll of Lesser Restoration**
+4. **Potion of Resistance (Psychic)**
+5. **Potion of Growth**: (Action) Gain "Enlarge" effect for 1d4 hours.
+6. **Snowflake** (Chwinga Gift)
 
 ### Magic Items (3/3 Carried)
 | Item | Rarity | Effect |
@@ -215,6 +234,15 @@
 -   2 Sled Dogs
 
 ---
+
+## 📝 Change Log (Apr 22 2026 Updates & Table of Contents)
+* **Table of Contents:** Added a structured Table of Contents below the character portrait with links to all major sections and appendices.
+* **Supernatural Gifts:** Added **Blessing of the Chwinga** to Features & Traits per April 22 session notes.
+* **Inventory Updates:**
+    * Removed 1x *Potion of Cold Resistance* from carried Consumables (used during April 22 session). Note: 4 remain in Stored Gear.
+    * Added *Snowflake* (Chwinga Gift) to carried inventory.
+* **Full Rest Applied:** Restored all Hit Points (60/60), Spell Slots (4 Level 1, 3 Level 2), Channel Divinity uses (2/2), Lay on Hands pool (35 Hit Points), Steed Fey Step (1/1), and Adrenaline Rush uses (3/3).
+* **LLM TODO Processed:** Emptied pending items in the LLM TODO block.
 
 ## 📝 Change Log (Comprehensive Missing Content Restoration)
 * **Features & Traits:** Restored the `Supernatural Gifts` (Blessing of Lathander) and `Feats` (Sentinel) sections that were accidentally removed in previous revisions. Restored the full descriptive text for Paladin Class Features (Aura of Protection, Lay on Hands) and Oath of Vengeance (Channel Divinity).
@@ -335,8 +363,8 @@
 ---
 
 ## 🗒️LLM TODO
-- add ToC  to top of sheet below portrait
-- apply changes from 2026 Apr 22 session. assume full rest
+
+---
 
 ## Session Notes
 
