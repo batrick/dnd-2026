@@ -34,9 +34,9 @@
 
 | Armor Class | Hit Points | Speed | Initiative | Proficiency Bonus | Spell Save Difficulty Class | Spell Attack Modifier |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **18** | **74** | 30 feet (Fly 30 feet) | +0 | +3 | **14** | **+6** |
+| **18** | **74** | 30 feet | +0 | +3 | **14** | **+6** |
 
-> **Armor Class Source:** Plate Armor (18)
+> **Armor Class Source:** Armor of Invulnerability (Plate - 18)
 > **Senses:** Darkvision 120 feet, Blind Fighting 10 feet, Passive Perception 12
 
 ## 🛡️ Ability Scores
@@ -103,6 +103,7 @@
 * **Shout Instruction:** Issue 5-word instruction to allies.
 
 ### 🛡️ Actions
+* **Invulnerability (Armor of Invulnerability):** Become immune to nonmagical damage for 10 minutes (1 use per day).
 * **Monster Knowledge:** Skill check (Difficulty Class 10 + ½ Challenge Rating) to recall stats.
 
 ### ↩️ Reactions
@@ -218,19 +219,19 @@
 5. 2x **Scroll of Lesser Restoration**
 6. 2x **Snowflake** (Chwinga Gift)
 
-### Magic Items (3/3 Carried)
-| Item | Rarity | Effect |
-| :--- | :--- | :--- |
-| **Winged Boots** | Uncommon | Fly 30 feet for 4 hours. |
-| **Amulet of Health** | Rare | Sets Constitution score to 19. |
-| **+1 Pike** | Uncommon | +1 bonus to attack and damage rolls. |
-| **Boots of False Tracks** | Common | Change footprints (Polar Bear). |
-| **Ersatz Eye** | Common | Artificial eye. |
-| **Smoldering Armor** | Common | Cosmetic smoke. |
-| **Unbreakable Arrow** | Common | Cannot break. |
+### Magic Items (3/3 Carried & Attuned: 2/3 Slots)
+| Item | Rarity | Attunement | Effect |
+| :--- | :--- | :---: | :--- |
+| **Armor of Invulnerability** | Very Rare | **Yes** | Armor Class 18 Plate; Resistance to nonmagical damage; 10-minute nonmagical damage immunity (1/day). |
+| **Amulet of Health** | Rare | **Yes** | Sets Constitution score to 19 (+4 modifier). |
+| **+1 Pike** | Uncommon | **No** | +1 bonus to attack and damage rolls. |
+| **Boots of False Tracks** | Common | **No** | Change footprints (Polar Bear). |
+| **Ersatz Eye** | Common | **No** | Artificial eye. |
+| **Smoldering Armor** | Common | **No** | Cosmetic smoke. |
+| **Unbreakable Arrow** | Common | **No** | Cannot break. |
 
 ### Gear (Stored / Unequipped)
--   **Armor of Invulnerability** (Very Rare - Attunement | Resistance/Immunity to nonmagical damage)
+-   **Winged Boots** (Uncommon - Attunement | Stored to equip Armor of Invulnerability)
 -   **Helm of Teleportation** (Very Rare - Attunement | 3 charges of Teleport per day)
 -   **Stone of Controlling Earth Elementals** (Very Rare | Summons Earth Elemental 1/day)
 -   **Mantle of Spell Resistance** (Very Rare - Attunement | Advantage on saves vs spells)
@@ -242,13 +243,12 @@
 -   **Cloak of Protection** (Uncommon - Attunement | +1 Armor Class, +1 to all saves)
 -   **Gauntlets of Ogre Power** (Uncommon - Attunement | Sets Strength to 19)
 -   **Piwafwi (Cloak of Elvenkind)** (Uncommon - Attunement | Advantage on Stealth; loses magic in sunlight)
--   **Cloak of the Raven** (Uncommon | Advantage on Perception, Fly 30 feet in dim light/sunlight, casts *Daylight*)
 -   **Hat of Disguise** (Uncommon - Attunement)
 -   **Enspelled Holy Symbol** (Healing Word)
 -   **Boots of the Winterland** (Cold Resist, ignore ice terrain)
 -   **Staff of the Adder** (Requires Cleric/Druid/Warlock)
 -   *Stored Consumables:* 1x Potion of Resistance (Psychic), 1x Potion of Growth, 1x Potion of Animal Friendship, 3x Potion of Cold Resistance.
--   Plate Armor (Armor Class 18)
+-   Plate Armor (Standard Mundane - Stored)
 -   Splint Armor (Stored)
 -   Priest's Pack
 -   Holy Symbol
@@ -261,6 +261,12 @@
 ## 📝 Change Log
 [Back to Table of Contents](#table-of-contents)
 
+### 📝 Change Log (Armor of Invulnerability Swap & Loadout Correction)
+* **Armor Swapped & Attuned:** Equipped and attuned **Armor of Invulnerability** (Plate Armor Class 18, resistance to nonmagical damage, and 10-minute nonmagical damage immunity 1/day). Standard mundane Plate Armor moved to Stored Gear.
+* **Correction & Item Realignment:** Removed erroneous *Cloak of the Raven* reference per player note. Moved *Winged Boots* to Stored Gear to strictly maintain the 3 Carried Uncommon+ Magic Item Limit (Armor of Invulnerability, Amulet of Health, +1 Pike).
+* **Speed Updated:** Character walking speed set to 30 feet (aerial flight provided via the Otherworldly Fey Mount at 60 feet flying speed).
+* **Attunement Slots:** 2 of 3 attunement slots active (Armor of Invulnerability, Amulet of Health).
+
 ### 📝 Change Log (Aug 26 2026 Session Loot & Gold Addition)
 * **Gold Added:** Added 10,000 Gold Pieces gained between the 2 adventure modules (New Total: 10,822.5 Gold Pieces).
 * **Consumables Added & Adjusted:**
@@ -268,7 +274,7 @@
     * Added 2x *Potion of Healing (Greater / Rare)* (share of 10 split among 5 players).
     * Updated *Snowflake* count to 2.
     * Moved excess carried consumables (*Potion of Resistance (Psychic)*, *Potion of Growth*, *Potion of Animal Friendship*) into Stored Gear to strictly maintain the 10/10 Tier 2 carried consumable limit.
-* **Stored Magic Items Added:** Added *Armor of Invulnerability*, *Helm of Teleportation*, *Stone of Controlling Earth Elementals*, *Mantle of Spell Resistance*, *Wand of Enemy Detection*, *Wand of Web*, *Chardalyn Warhammer +1*, *Cloak of Protection*, *Gauntlets of Ogre Power*, *Piwafwi (Cloak of Elvenkind)*, *Hat of Disguise*, and *Cloak of the Raven* to Stored Gear.
+* **Stored Magic Items Added:** Added *Armor of Invulnerability*, *Helm of Teleportation*, *Stone of Controlling Earth Elementals*, *Mantle of Spell Resistance*, *Wand of Enemy Detection*, *Wand of Web*, *Chardalyn Warhammer +1*, *Cloak of Protection*, *Gauntlets of Ogre Power*, *Piwafwi (Cloak of Elvenkind)*, and *Hat of Disguise* to Stored Gear.
 
 ### 📝 Change Log (Amulet of Health Purchase & Attunement Update)
 * **Equipment Purchased:** Purchased *Amulet of Health* (-4,000 Gold Pieces). Remaining Gold: 822.5 Gold Pieces.
@@ -504,7 +510,7 @@
 ### 🎯 Scenario A: The Boss Killer (Single Strong Enemy)
 *Goal: Maximize single-target damage and accuracy.*
 
-* **Preferred Action:** **Attack** with +1 Pike (Reach 10 feet). Thanks to Extra Attack, you swing twice! Use your **Winged Boots** to fly directly over the frontline and engage the boss (especially Mind Flayers) while avoiding ground hazards.
+* **Preferred Action:** **Attack** with +1 Pike (Reach 10 feet). Thanks to Extra Attack, you swing twice! Use your **Otherworldly Steed** (Fly 60 feet) to engage bosses while avoiding ground hazards.
 * **Preferred Bonus Action 1:** **Vow of Enmity** (Channel Divinity) for Advantage.
 * **Preferred Bonus Action 2 (Via Move Downgrade):** **Blessing of Lathander** to deal an automatic 6 Radiant damage after hitting, and getting a free Perception check with Advantage to spot any hidden minions.
 * **Sentinel Reaction:** If the Boss attacks an ally within 5 feet of you, you get a free reaction attack. This is an excellent opportunity to trigger **Divine Smite** off-turn.
@@ -531,7 +537,7 @@
     * *Effect:* 3 Enemies take -1d4 penalty to Attacks and Saves. Good against mobs with low Charisma.
 * **Preferred Bonus Action:** **Abjure Enemy** (Channel Divinity).
     * *Effect:* Frightens one enemy and reduces their speed to 0. Great for stopping a "runner" or a brute trying to reach your wizard.
-* **Sentinel Lockdown:** If an enemy tries to run past you to get to your backline, your Opportunity Attack reduces their speed to **0** for the rest of the turn, effectively rooting them in place. Use your aerial mobility to position yourself directly in choke points.
+* **Sentinel Lockdown:** If an enemy tries to run past you to get to your backline, your Opportunity Attack reduces their speed to **0** for the rest of the turn, effectively rooting them in place.
 * **Key Spells:**
     * **Bane (Action):** Makes enemies miss more often.
     * **Toll the Dead (Action):** Use against enemies with High Armor Class or at range. Deals 1d12 Necrotic damage if they are injured.
@@ -549,11 +555,11 @@
 
 ### 🕵️ Investigation & Knowledge
 * **Spot (Perception +2):** Use your senses to notice hidden details, hear faint noises, or detect an ambush.
-* **Historical Lore (History +7):** Recall information about noble families, ancient kingdoms, or past wars.
+* **Historical Lore (History +2):** Recall information about noble families, ancient kingdoms, or past wars.
 * **Noble Standing (Feature):** As a **Noble**, you can secure an audience with local nobles and people assume you have the right to be where you are.
 
 ### 🧗 Physicality & Utility
-* **Power Through (Athletics +6):** Climb difficult surfaces, jump long distances, or swim through rough water. With Winged Boots, you can simply bypass most physical obstacles entirely.
+* **Power Through (Athletics +6):** Climb difficult surfaces, jump long distances, or swim through rough water.
 * **Animal Handling (-1):** Calm a domesticated animal or intuit an animal’s intentions.
 * **Stealth (+0):** Move quietly or hide from view (Note: You have Disadvantage on these checks while wearing Plate Armor).
 
