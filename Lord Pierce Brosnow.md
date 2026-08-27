@@ -25,7 +25,7 @@
 **Class:** Paladin (Oath of Vengeance) | **Level:** 7
 
 **Race:** Orc | **Background:** Noble
-**Experience Points:** Milestone | **Gold:** 822.5 Gold Pieces | **Language:** Common, Orc
+**Experience Points:** Milestone | **Gold:** 10,822.5 Gold Pieces | **Language:** Common, Orc
 
 ---
 
@@ -210,15 +210,13 @@
 ## 🎒 Inventory & Equipment
 [Back to Table of Contents](#table-of-contents)
 
-### 🧪 Consumables (10/10 Slots)
-1. 2x **Good Mead's Golden Reserve** (Rare Potion)
-2. 2x **Potion of Healing** (2d4+2)
-3. 1x **Potion of Cold Resistance**
-4. 2x **Scroll of Lesser Restoration**
-5. 1x **Potion of Resistance (Psychic)**
-6. 1x **Potion of Growth**: (Action) Gain "Enlarge" effect for 1d4 hours.
-7. 1x **Potion of Animal Friendship**
-8. **Snowflake** (Chwinga Gift)
+### 🧪 Consumables (10/10 Slots Carried)
+1. 3x **Good Mead's Golden Reserve** (Rare Potion)
+2. 2x **Potion of Healing (Greater / Rare)**
+3. 2x **Potion of Healing** (2d4+2)
+4. 1x **Potion of Cold Resistance**
+5. 2x **Scroll of Lesser Restoration**
+6. 2x **Snowflake** (Chwinga Gift)
 
 ### Magic Items (3/3 Carried)
 | Item | Rarity | Effect |
@@ -232,12 +230,24 @@
 | **Unbreakable Arrow** | Common | Cannot break. |
 
 ### Gear (Stored / Unequipped)
--   **Headband of Intellect** (Uncommon - Stored)
--   **Ring of Telekinesis** (Very Rare - Explicitly Given)
+-   **Armor of Invulnerability** (Very Rare - Attunement | Resistance/Immunity to nonmagical damage)
+-   **Helm of Teleportation** (Very Rare - Attunement | 3 charges of Teleport per day)
+-   **Stone of Controlling Earth Elementals** (Very Rare | Summons Earth Elemental 1/day)
+-   **Mantle of Spell Resistance** (Very Rare - Attunement | Advantage on saves vs spells)
+-   **Ring of Telekinesis** (Very Rare - Attunement)
+-   **Wand of Enemy Detection** (Rare - Attunement)
+-   **Wand of Web** (Rare - Attunement)
+-   **Chardalyn Warhammer +1** (Rare - Cursed | Needs Remove Curse / Greater Restoration)
+-   **Headband of Intellect** (Uncommon - Attunement)
+-   **Cloak of Protection** (Uncommon - Attunement | +1 Armor Class, +1 to all saves)
+-   **Gauntlets of Ogre Power** (Uncommon - Attunement | Sets Strength to 19)
+-   **Piwafwi (Cloak of Elvenkind)** (Uncommon - Attunement | Advantage on Stealth; loses magic in sunlight)
+-   **Cloak of the Raven** (Uncommon | Advantage on Perception, Fly 30 feet in dim light/sunlight, casts *Daylight*)
+-   **Hat of Disguise** (Uncommon - Attunement)
 -   **Enspelled Holy Symbol** (Healing Word)
 -   **Boots of the Winterland** (Cold Resist, ignore ice terrain)
 -   **Staff of the Adder** (Requires Cleric/Druid/Warlock)
--   *Stored Potions:* 3x Potion of Cold Resistance.
+-   *Stored Consumables:* 1x Potion of Resistance (Psychic), 1x Potion of Growth, 1x Potion of Animal Friendship, 3x Potion of Cold Resistance.
 -   Plate Armor (Armor Class 18)
 -   Splint Armor (Stored)
 -   Priest's Pack
@@ -250,6 +260,15 @@
 
 ## 📝 Change Log
 [Back to Table of Contents](#table-of-contents)
+
+### 📝 Change Log (Aug 26 2026 Session Loot & Gold Addition)
+* **Gold Added:** Added 10,000 Gold Pieces gained between the 2 adventure modules (New Total: 10,822.5 Gold Pieces).
+* **Consumables Added & Adjusted:**
+    * Added 1x *Good Mead's Golden Reserve* (share of 5 split among 5 players, bringing total to 3).
+    * Added 2x *Potion of Healing (Greater / Rare)* (share of 10 split among 5 players).
+    * Updated *Snowflake* count to 2.
+    * Moved excess carried consumables (*Potion of Resistance (Psychic)*, *Potion of Growth*, *Potion of Animal Friendship*) into Stored Gear to strictly maintain the 10/10 Tier 2 carried consumable limit.
+* **Stored Magic Items Added:** Added *Armor of Invulnerability*, *Helm of Teleportation*, *Stone of Controlling Earth Elementals*, *Mantle of Spell Resistance*, *Wand of Enemy Detection*, *Wand of Web*, *Chardalyn Warhammer +1*, *Cloak of Protection*, *Gauntlets of Ogre Power*, *Piwafwi (Cloak of Elvenkind)*, *Hat of Disguise*, and *Cloak of the Raven* to Stored Gear.
 
 ### 📝 Change Log (Amulet of Health Purchase & Attunement Update)
 * **Equipment Purchased:** Purchased *Amulet of Health* (-4,000 Gold Pieces). Remaining Gold: 822.5 Gold Pieces.
