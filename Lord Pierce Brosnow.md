@@ -11,9 +11,9 @@
 - [Features & Traits](#-features--traits)
 - [Mount: Otherworldly Steed](#-mount-otherworldly-steed)
 - [Inventory & Equipment](#-inventory--equipment)
-- [Change Log](#-change-log)
 - [LLM TODO](#️llm-todo)
 - [Session Notes](#session-notes)
+- [Change Log](#-change-log)
 - [Appendix: Tactical Guide](#-appendix-tactical-guide)
 - [Appendix: Social & Exploration Actions](#-appendix-social--exploration-actions)
 - [Appendix: Equipment & Magic Items](#-appendix-equipment--magic-items)
@@ -259,6 +259,94 @@
 
 ---
 
+## 🗒️LLM TODO
+[Back to Table of Contents](#table-of-contents)
+
+---
+
+## Session Notes
+[Back to Table of Contents](#table-of-contents)
+
+### 2026 Aug 26
+- add snowflake, now 2 
+- find 10 rare healing potions, 5 gold mead potions; divide among 5 players
+- cast bless on party
+- 18 + 9 slashing; +9 + 14; -4-7
+- add 10k gold
+- going to grimskalle to eventually fight the Frostmaiden
+
+### 2026 Apr 22
+- used oil
+- used potion of frost resist
+- - 5 damage
+- used bear fey step
+- used shining smite
+- 11 count
+- add blessing of chawinga
+- fully healed after short rest
+- 5 hp  + from Aid, cast
+- use vow of Enmity
+- use shining smite
+- add snowflake
+- 14 for abjure foes
+- 10 cold - 5 cold resist, 5 total
+- 12 blunt + 7 cold
+- 12 blunt + 7 cold
+
+
+
+### 2026 Apr 08
+- take 11 psychic dmg
+- take 11 psychic dmg
+- take 11 psychic dmg
+- take 22 psychic dmg
+- take 14
+- 55 piercing damage
+- combat ends
+- add 3+4+2 healing potion +  10 cure wounds ; minus one 1st level spell slot (11) + 11.
+- 20 -> 31 -> 51 (cleric)
+- take potion psychic resistance
+- take potion 
+-  p73 3d8 radiant 30 shot, 100ft no penalty
+- 21 kings knife dmg piercing, -3 piercing additional
+- 25 - 3
+- +30 hp loh
+- 12
+- 7
+- add potion of growth
+
+
+### 2026 Feb 25
+- Start session with Heroic Inspiration.
+- Red Wizard Dazann burned. 
+- Fireball scroll or bag of tricks from Captain Imdra Arlagath.
+- Wet trout inn. N'metra dragonborn. Cython tiefling ferryman coiling rope. 
+  + song over the lake, cython heariing it
+- level of exhaustion (-2 to all rolls)
+- use potion of frost resistance at ice giant cave
+- add 475g
+
+### 2026 Feb 11
+- Hunters Mark; d20 -> 18 + 5 ; +5 dmg + 3 + 2 (hunters mark)
+- 11 dmg
+- used 20 lay-on hands
+- 5 piercing
+- +500 gp
+
+
+### 2026 Jan 29
+- Used Lay on Hands
+- Used Scroll of Lesser Restoration
+- Used Healing Word
+- take 7 dmg, 14 dmg, +10 heal
+- used divine smite
+- add boots of the winterland
+- staff of the adder
+- +500gp
+- level 4
+
+--
+
 ## 📝 Change Log
 [Back to Table of Contents](#table-of-contents)
 
@@ -419,94 +507,6 @@
     - Enspelled Symbol (-400 Gold Pieces)[cite: 1].
     - 3x Potions (-150 Gold Pieces)[cite: 1].
     - 2 dogs (-50 Gold Pieces)[cite: 1]
-
----
-
-## 🗒️LLM TODO
-[Back to Table of Contents](#table-of-contents)
-
----
-
-## Session Notes
-[Back to Table of Contents](#table-of-contents)
-
-### 2026 Aug 26
-- add snowflake, now 2 
-- find 10 rare healing potions, 5 gold mead potions; divide among 5 players
-- cast bless on party
-- 18 + 9 slashing; +9 + 14; -4-7
-- add 10k gold
-- going to grimskalle to eventually fight the Frostmaiden
-
-### 2026 Apr 22
-- used oil
-- used potion of frost resist
-- - 5 damage
-- used bear fey step
-- used shining smite
-- 11 count
-- add blessing of chawinga
-- fully healed after short rest
-- 5 hp  + from Aid, cast
-- use vow of Enmity
-- use shining smite
-- add snowflake
-- 14 for abjure foes
-- 10 cold - 5 cold resist, 5 total
-- 12 blunt + 7 cold
-- 12 blunt + 7 cold
-
-
-
-### 2026 Apr 08
-- take 11 psychic dmg
-- take 11 psychic dmg
-- take 11 psychic dmg
-- take 22 psychic dmg
-- take 14
-- 55 piercing damage
-- combat ends
-- add 3+4+2 healing potion +  10 cure wounds ; minus one 1st level spell slot (11) + 11.
-- 20 -> 31 -> 51 (cleric)
-- take potion psychic resistance
-- take potion 
--  p73 3d8 radiant 30 shot, 100ft no penalty
-- 21 kings knife dmg piercing, -3 piercing additional
-- 25 - 3
-- +30 hp loh
-- 12
-- 7
-- add potion of growth
-
-
-### 2026 Feb 25
-- Start session with Heroic Inspiration.
-- Red Wizard Dazann burned. 
-- Fireball scroll or bag of tricks from Captain Imdra Arlagath.
-- Wet trout inn. N'metra dragonborn. Cython tiefling ferryman coiling rope. 
-  + song over the lake, cython heariing it
-- level of exhaustion (-2 to all rolls)
-- use potion of frost resistance at ice giant cave
-- add 475g
-
-### 2026 Feb 11
-- Hunters Mark; d20 -> 18 + 5 ; +5 dmg + 3 + 2 (hunters mark)
-- 11 dmg
-- used 20 lay-on hands
-- 5 piercing
-- +500 gp
-
-
-### 2026 Jan 29
-- Used Lay on Hands
-- Used Scroll of Lesser Restoration
-- Used Healing Word
-- take 7 dmg, 14 dmg, +10 heal
-- used divine smite
-- add boots of the winterland
-- staff of the adder
-- +500gp
-- level 4
 
 ---
 
