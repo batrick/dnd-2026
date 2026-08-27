@@ -25,7 +25,7 @@
 **Class:** Paladin (Oath of Vengeance) | **Level:** 7
 
 **Race:** Orc | **Background:** Noble
-**Experience Points:** Milestone | **Gold:** 8902.5 Gold Pieces | **Language:** Common, Orc
+**Experience Points:** Milestone | **Gold:** 4822.5 Gold Pieces | **Language:** Common, Orc
 
 ---
 
@@ -210,13 +210,15 @@
 ## 🎒 Inventory & Equipment
 [Back to Table of Contents](#table-of-contents)
 
-### 🧪 Consumables (5/10 Slots)
-1. **Potion of Healing** (2d4+2)
-2. **Potion of Animal Friendship**
-3. **Scroll of Lesser Restoration**
-4. **Potion of Resistance (Psychic)**
-5. **Potion of Growth**: (Action) Gain "Enlarge" effect for 1d4 hours.
-6. **Snowflake** (Chwinga Gift)
+### 🧪 Consumables (10/10 Slots)
+1. 2x **Good Mead's Golden Reserve** (Rare Potion)
+2. 2x **Potion of Healing** (2d4+2)
+3. 1x **Potion of Cold Resistance**
+4. 2x **Scroll of Lesser Restoration**
+5. 1x **Potion of Resistance (Psychic)**
+6. 1x **Potion of Growth**: (Action) Gain "Enlarge" effect for 1d4 hours.
+7. 1x **Potion of Animal Friendship**
+8. **Snowflake** (Chwinga Gift)
 
 ### Magic Items (3/3 Carried)
 | Item | Rarity | Effect |
@@ -234,7 +236,7 @@
 -   **Enspelled Holy Symbol** (Healing Word)
 -   **Boots of the Winterland** (Cold Resist, ignore ice terrain)
 -   **Staff of the Adder** (Requires Cleric/Druid/Warlock)
--   *Stored Potions:* 1x Potion of Healing, 4x Potion of Cold Resistance.
+-   *Stored Potions:* 3x Potion of Cold Resistance.
 -   Plate Armor (Armor Class 18)
 -   Splint Armor (Stored)
 -   Priest's Pack
@@ -247,6 +249,10 @@
 
 ## 📝 Change Log
 [Back to Table of Contents](#table-of-contents)
+
+### 📝 Change Log (Consumable Purchases & Inventory Transfer)
+* **Purchases:** Purchased 2x *Good Mead's Golden Reserve* (-4,000 Gold Pieces) and 1x *Scroll of Lesser Restoration* (-80 Gold Pieces). Total spent: 4,080 Gold Pieces. Remaining Gold: 4,822.5 Gold Pieces.
+* **Inventory Transfer:** Moved 1x *Potion of Healing* and 1x *Potion of Cold Resistance* from Stored Gear into carried Consumables (10/10 carried slots full). Stored Potions reduced to 3x *Potion of Cold Resistance*.
 
 ### 📝 Change Log (Apr 22 2026 Updates & Table of Contents)
 * **Table of Contents:** Added a structured Table of Contents below the character portrait with links to all major sections and appendices.
