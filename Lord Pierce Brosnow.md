@@ -30,6 +30,7 @@
 ---
 
 ## 📊 Core Vitals
+[Back to Table of Contents](#table-of-contents)
 
 | Armor Class | Hit Points | Speed | Initiative | Proficiency Bonus | Spell Save Difficulty Class | Spell Attack Modifier |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -39,6 +40,7 @@
 > **Senses:** Darkvision 120 feet, Blind Fighting 10 feet, Passive Perception 12
 
 ## 🛡️ Ability Scores
+[Back to Table of Contents](#table-of-contents)
 
 | Ability | Score | Modifier | Save Modifier |
 | :--- | :---: | :---: | :---: |
@@ -52,6 +54,7 @@
 *Note: Intelligence is set to 19 by the Headband of Intellect. All saving throws include the +3 bonus from Aura of Protection.*
 
 ## 🎭 Skills
+[Back to Table of Contents](#table-of-contents)
 
 | Skill | Modifier | Proficiency |
 | :--- | :---: | :---: |
@@ -75,6 +78,7 @@
 | **Survival (Wisdom)** | -1 | |
 
 ## ⚔️ Combat Actions
+[Back to Table of Contents](#table-of-contents)
 
 ### Weapon Attacks
 | Weapon | Attack Bonus | Damage | Notes |
@@ -110,6 +114,8 @@
 ---
 
 ## ✨ Spells
+[Back to Table of Contents](#table-of-contents)
+
 **Slots:** 4x Level 1 | 3x Level 2
 **Channel Divinity Pool:** 2 Uses (Regain 1 on Short Rest; All on Long Rest)
 
@@ -141,6 +147,7 @@
 ---
 
 ## 🧬 Features & Traits
+[Back to Table of Contents](#table-of-contents)
 
 ### Supernatural Gifts
 -   **Blessing of Lathander:** The Morninglord curses the unclean with the light of dawn. As a Bonus Action, choose one creature you damaged this turn. It takes Radiant damage equal to twice your Proficiency Bonus. Your Spot a Foe Bonus Actions have Advantage. You may Spot a Foe. Only one blessing at a time.
@@ -175,6 +182,8 @@
 ---
 
 ## 🐎 Mount: Otherworldly Steed
+[Back to Table of Contents](#table-of-contents)
+
 **Form:** Polar Bear | **Type:** Fey
 
 | Armor Class | Hit Points | Speed |
@@ -199,6 +208,7 @@
 ---
 
 ## 🎒 Inventory & Equipment
+[Back to Table of Contents](#table-of-contents)
 
 ### 🧪 Consumables (5/10 Slots)
 1. **Potion of Healing** (2d4+2)
@@ -235,7 +245,10 @@
 
 ---
 
-## 📝 Change Log (Apr 22 2026 Updates & Table of Contents)
+## 📝 Change Log
+[Back to Table of Contents](#table-of-contents)
+
+### 📝 Change Log (Apr 22 2026 Updates & Table of Contents)
 * **Table of Contents:** Added a structured Table of Contents below the character portrait with links to all major sections and appendices.
 * **Supernatural Gifts:** Added **Blessing of the Chwinga** to Features & Traits per April 22 session notes.
 * **Inventory Updates:**
@@ -363,10 +376,12 @@
 ---
 
 ## 🗒️LLM TODO
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
 ## Session Notes
+[Back to Table of Contents](#table-of-contents)
 
 ### 2026 Aug 26
 - 
@@ -444,6 +459,7 @@
 ---
 
 ## 📖 APPENDIX: TACTICAL GUIDE
+[Back to Table of Contents](#table-of-contents)
 
 ### 🎯 Scenario A: The Boss Killer (Single Strong Enemy)
 *Goal: Maximize single-target damage and accuracy.*
@@ -483,6 +499,7 @@
 ---
 
 ## 🌍 APPENDIX: SOCIAL & EXPLORATION ACTIONS
+[Back to Table of Contents](#table-of-contents)
 
 ### 🗣️ Social Interaction
 * **Persuade (Persuasion +6):** Influence a creature with tact, social graces, or good nature.
@@ -503,6 +520,7 @@
 ---
 
 ## 📖 APPENDIX: SPELLBOOK
+[Back to Table of Contents](#table-of-contents)
 
 ### Aid
 *Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
