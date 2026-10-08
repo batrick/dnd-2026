@@ -267,6 +267,22 @@
 ## Session Notes
 [Back to Table of Contents](#table-of-contents)
 
+### 2026 Oct 07
+- arctic fog, 30ft visibility, half healing in lair
+- found, equipped, and attuned legendary ring Auril's Bane (continuous invisibility)
+- vow of enmity on Auril
+- take 10 psychic dmg from banshee
+- banshees attempt to flank; used fey polar bear steed Fey Step to teleport to allies
+- take 36 fire dmg
+- used level 2 slot for divine smite
+- take 3 cold dmg
+- blinded condition incurred; fought with 10ft blindsight
+- attack Auril form 3: did 22 weapon dmg + 10 radiant dmg from shining smite (concentrating)
+- cast lesser restoration to cleanse rogue
+- lay on hands 35 health on self (heals 17 in half-healing lair)
+- +5000 gold
+- level to 8
+
 ### 2026 Aug 26
 - add snowflake, now 2 
 - find 10 rare healing potions, 5 gold mead potions; divide among 5 players
