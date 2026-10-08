@@ -225,6 +225,7 @@
 | :--- | :--- | :---: | :--- |
 | **[Armor of Invulnerability](#armor-of-invulnerability)** | Very Rare | **Yes** | Armor Class 18 Plate; Resistance to nonmagical damage; 10-minute nonmagical damage immunity (1/day). |
 | **[Amulet of Health](#amulet-of-health)** | Rare | **Yes** | Sets Constitution score to 19 (+4 modifier). |
+| **[Auril's Bane](#aurils-bane)** | Legendary | **Yes** | Continuous Invisibility while worn; Ethereal Beacon. |
 | **[+1 Pike](#1-pike)** | Uncommon | **No** | +1 bonus to attack and damage rolls. |
 | **[Boots of False Tracks](#boots-of-false-tracks)** | Common | **No** | Change footprints (Polar Bear). |
 | **[Ersatz Eye](#ersatz-eye)** | Common | **No** | Artificial eye. |
@@ -606,6 +607,22 @@
 * Base Armor Class 18.
 * You have Resistance to nonmagical damage.
 * Additionally, you can use an Action to make yourself immune to nonmagical damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it cannot be used again until the next dawn.
+
+### Auril's Bane
+*Ring, Legendary (Requires Attunement — Attuned)*
+* You must take an Action to put on this ring. While wearing it, you have the Invisible condition. The ring functions continuously while worn. You can take a Bonus Action to remove the ring and become visible. You cannot suppress its invisibility while continuing to wear it.
+* Attacking or casting a spell does not end this invisibility.
+* **Unseen, Not Undetected:** Being Invisible does not automatically conceal your location. Unless you have successfully hidden, creatures able to hear you or otherwise detect your presence know your location, including the space you occupy, even though they cannot see you. Knowing your location does not allow a creature to see you, end the ring's invisibility, or remove the benefits of being Invisible against that creature.
+* **Hiding and Detection:** Resolve attempts to conceal or discover your location as follows:
+  * **Hide:** Take the Hide action and make a Dexterity (Stealth) check, following the normal requirements for that action. You have Advantage on this check against creatures that cannot see you while you are Invisible. Record your check total.
+  * **Passive Detection:** A creature able to detect your presence knows your location if its Passive Perception equals or exceeds your Stealth check total.
+  * **Active Detection:** A creature can take the Search action and make a Wisdom (Perception) check. If its result equals or exceeds your Stealth check total, it knows your location.
+  * **Revealing Your Location:** Attacking, making a sound louder than a whisper, or casting a spell with a Verbal component reveals your location to creatures able to perceive that activity. You must successfully hide again to conceal your location, but you remain Invisible.
+* **Ethereal Beacon:** While you are Invisible through this ring, creatures currently on the Ethereal Plane gain the following benefits against you:
+  * **Ethereal Sight:** They can see you as though you were visible, including across the boundary between the Material Plane and its Border Ethereal. This does not allow them to see through opaque barriers.
+  * **Predator's Advantage:** Their attack rolls against you have Advantage. Your Invisible condition imposes no Disadvantage on these attacks and grants you no Advantage on attacks against them.
+  * **Unerring Direction:** Within 5 miles of you, they automatically sense the direction to you, including across that planar boundary. This sense functions through barriers and regardless of your Stealth check, but does not reveal your distance or exact space.
+  * A creature loses these benefits immediately upon leaving the Ethereal Plane. These benefits do not themselves allow a creature to attack or otherwise affect a target on another plane.
 
 ### Boots of False Tracks
 *Wondrous Item, Common (Carried)*
