@@ -1,4 +1,4 @@
-# Lord Pierce Brosnow - Level 7 Paladin (Oath of Vengeance)
+# Lord Pierce Brosnow - Level 8 Paladin (Oath of Vengeance)
 
 ![Lord Pierce Brosnow](lord-pierce-brosnow.jpg)
 
@@ -23,10 +23,10 @@
 
 **Player:** Patrick Donnelly
 
-**Class:** Paladin (Oath of Vengeance) | **Level:** 7
+**Class:** Paladin (Oath of Vengeance) | **Level:** 8
 
 **Race:** Orc | **Background:** Noble
-**Experience Points:** Milestone | **Gold:** 10,822.5 Gold Pieces | **Language:** Common, Orc
+**Experience Points:** Milestone | **Gold:** 15,822.5 Gold Pieces | **Language:** Common, Orc
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Armor Class | Hit Points | Speed | Initiative | Proficiency Bonus | Spell Save Difficulty Class | Spell Attack Modifier |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **18** | **74** | 30 feet | +0 | +3 | **14** | **+6** |
+| **18** | **84** | 30 feet | +0 | +3 | **14** | **+6** |
 
 > **Armor Class Source:** [Armor of Invulnerability](#armor-of-invulnerability) (Plate - 18)
 > **Senses:** Darkvision 120 feet, Blind Fighting 10 feet, Passive Perception 12
@@ -45,14 +45,14 @@
 
 | Ability | Score | Modifier | Save Modifier |
 | :--- | :---: | :---: | :---: |
-| **Strength** | **17** | +3 | +6 |
+| **Strength** | **18** | **+4** | **+7** |
 | **Dexterity** | 10 | +0 | +3 |
 | **Constitution** | **19** | **+4** | **+7** |
 | **Intelligence** | 8 | -1 | +2 |
 | **Wisdom** | 8 | -1 | +5 |
 | **Charisma** | **16** | +3 | **+9** |
 
-*Note: Constitution is set to 19 by the [Amulet of Health](#amulet-of-health). All saving throws include the +3 bonus from Aura of Protection.*
+*Note: Constitution is set to 19 by the [Amulet of Health](#amulet-of-health). Strength increased to 18 via Polearm Master (+1 Strength). All saving throws include the +3 bonus from Aura of Protection.*
 
 ## 🎭 Skills
 [Back to Table of Contents](#table-of-contents)
@@ -62,7 +62,7 @@
 | **Acrobatics (Dexterity)** | +0 | |
 | **Animal Handling (Wisdom)** | -1 | |
 | **Arcana (Intelligence)** | -1 | |
-| **Athletics (Strength)** | **+6** | **✓** |
+| **Athletics (Strength)** | **+7** | **✓** |
 | **Deception (Charisma)** | **+6** | **✓** |
 | **History (Intelligence)** | **+2** | **✓** |
 | **Insight (Wisdom)** | **+2** | **✓** |
@@ -84,13 +84,15 @@
 ### Weapon Attacks
 | Weapon | Attack Bonus | Damage | Notes |
 | :--- | :---: | :--- | :--- |
-| **[+1 Pike](#1-pike)** | **+7** | **1d10 + 4** (Piercing) | Heavy, Reach (10 feet), Two-Handed, Push (10 feet), Magical |
+| **[+1 Pike](#1-pike)** | **+8** | **1d10 + 5** (Piercing) | Heavy, Reach (10 feet), Two-Handed, Push (10 feet), Magical |
+| **[+1 Pike](#1-pike) (Pole Strike)** | **+8** | **1d4 + 5** (Bludgeoning) | Bonus Action immediately after taking Attack action with Pike |
 
 > **Extra Attack:** You can attack twice, instead of once, whenever you take the Attack action on your turn.
 > **House Rule (Flanking):** +2 to hit while flanking.
 > **House Rule (Skill Crits):** Beat Difficulty Class by 10 for critical success.
 
 ### ⚡ Bonus Actions
+* **Pole Strike (Polearm Master):** Immediately after taking the Attack action and attacking with your **[+1 Pike](#1-pike)**, make a melee attack with the opposite end of the weapon (+8 to hit, 1d4 + 5 Bludgeoning damage).
 * **[Divine Smite](#divine-smite) (Spell):** Expend a spell slot immediately after hitting to deal 2d8 Radiant damage (+1d8 per slot level above Level 1). **Note:** Always prepared; one free cast per Long Rest.
 * **Divine Sense (Channel Divinity):** Know the location and type of Celestials, Fiends, or Undead within 60 feet for 10 minutes. (Costs 1 Channel Divinity).
 * **Vow of Enmity (Channel Divinity):** Advantage on attack rolls against one creature (10 feet range) for 1 minute. (Costs 1 Channel Divinity).
@@ -98,7 +100,7 @@
 * **[Shining Smite](#shining-smite) (Spell):** After hitting, deal 2d6 Radiant damage. Target sheds light, granting Advantage on attacks against it and revealing invisibility. (Concentration).
 * **[Lesser Restoration](#lesser-restoration) (Spell):** End Blinded, Deafened, Paralyzed, or Poisoned condition on a touched creature.
 * **Adrenaline Rush (Orc Trait):** Dash action + Gain 2 Temporary Hit Points. (3 uses per Long Rest).
-* **Lay on Hands:** Heal creature in touch range. Pool: **35 Hit Points**.
+* **Lay on Hands:** Heal creature in touch range. Pool: **40 Hit Points**.
 * **Drink a Potion:** Drink any potion you are carrying (e.g. [Potion of Healing](#potion-of-healing), [Good Mead's Golden Reserve](#good-meads-golden-reserve)).
 * **Spot a Foe:** Perception check vs Stealth (You have Advantage on this via Blessing of Lathander).
 * **Shout Instruction:** Issue 5-word instruction to allies.
@@ -108,6 +110,7 @@
 * **Monster Knowledge:** Skill check (Difficulty Class 10 + ½ Challenge Rating) to recall stats.
 
 ### ↩️ Reactions
+* **Reactive Strike (Polearm Master):** While holding your **[+1 Pike](#1-pike)**, make one melee attack against a creature that enters the reach you have with that weapon (10 feet).
 * **Sentinel Attack:** Melee weapon attack when a creature within 5 feet makes an attack against a target other than you.
 * **Opportunity Attack:** Melee attack when enemy leaves reach. Sentinel: Disengage does not prevent this. Target speed becomes 0 on hit.
 * **Relentless Avenger (Subclass):** After hitting with an Opportunity Attack, move up to half your Speed immediately without provoking Opportunity Attacks.
@@ -156,6 +159,10 @@
 -   **Blessing of the Chwinga:** Bestowed by an elemental Chwinga spirit encountered during the Icewind Dale expedition.
 
 ### Feats
+-   **Polearm Master (Level 8):**
+    -   **Attribute Boost:** Increased Strength by 1 (from 17 to 18).
+    -   **Pole Strike:** Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties (such as your **[+1 Pike](#1-pike)**), you can use a Bonus Action to make a melee attack with the opposite end of the weapon. The weapon deals Bludgeoning damage, and the weapon's damage die for this attack is a d4.
+    -   **Reactive Strike:** While you are holding a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can take a Reaction to make one melee attack against a creature that enters the reach you have with that weapon.
 -   **Sentinel (Level 4):**
     -   **Attribute Boost:** Increased Strength by 1.
     -   When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
@@ -168,7 +175,7 @@
 
 ### Paladin Class Features
 -   **Divine Health:** Immune to disease.
--   **Lay on Hands:** Pool of 35 Hit Points. Cleanses poison (Costs 5 Hit Points).
+-   **Lay on Hands:** Pool of 40 Hit Points. Cleanses poison (Costs 5 Hit Points).
 -   **Fighting Style (Blind Fighting):** You have Blindsight with a range of 10 feet.
 -   **Extra Attack:** You can attack twice, instead of once, whenever you take the Attack action on your turn.
 -   **Aura of Protection:** Whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a +3 bonus to the saving throw (equal to your Charisma modifier). You must be conscious to grant this bonus.
@@ -220,7 +227,7 @@
 5. 2x **[Scroll of Lesser Restoration](#scroll-of-lesser-restoration)**
 6. 2x **[Snowflake](#snowflake)** (Chwinga Gift)
 
-### Magic Items (3/3 Carried & Attuned: 2/3 Slots)
+### Magic Items (3/3 Carried & Attuned: 3/3 Slots)
 | Item | Rarity | Attunement | Effect |
 | :--- | :--- | :---: | :--- |
 | **[Armor of Invulnerability](#armor-of-invulnerability)** | Very Rare | **Yes** | Armor Class 18 Plate; Resistance to nonmagical damage; 10-minute nonmagical damage immunity (1/day). |
@@ -366,6 +373,23 @@
 
 ## 📝 Change Log
 [Back to Table of Contents](#table-of-contents)
+
+### 📝 Change Log (Level 7 → 8, Polearm Master Feat & Oct 07 Session Rewards)
+* **Level:** Advanced from Level 7 to **Level 8**.
+* **Feat Selected (Level 8):** Selected **Polearm Master** (2024 Version).
+    * **Attribute Boost:** Increased Strength by 1 (from 17 to **18**, upgrading modifier from +3 to **+4**).
+    * **Pole Strike (Bonus Action):** Added 1d4 + 5 Bludgeoning bonus action attack immediately after taking the Attack action with the **[+1 Pike](#1-pike)**.
+    * **Reactive Strike (Reaction):** Added Reaction melee attack when a creature enters your 10-foot reach with the **[+1 Pike](#1-pike)**.
+* **Vitals & Class Pools:**
+    * **Hit Points:** Increased maximum by 10 (6 average + 4 Constitution modifier) from 74 to **84 Hit Points**. Restored to full following Long Rest.
+    * **Lay on Hands:** Pool increased from 35 to **40 Hit Points** (Paladin Level 8 × 5).
+* **Combat & Skill Modifiers Updated:**
+    * **[+1 Pike](#1-pike):** Attack bonus increased from +7 to **+8**, damage increased from 1d10 + 4 to **1d10 + 5 Piercing**.
+    * **Strength Saving Throw:** Increased from +6 to **+7**.
+    * **Athletics:** Increased from +6 to **+7**.
+* **Financials & Attunement:**
+    * Added **+5,000 Gold Pieces** from the October 7, 2026 session (New Total: **15,822.5 Gold Pieces**).
+    * Updated Magic Items header to reflect **3/3 Attunement Slots** active (*Armor of Invulnerability*, *Amulet of Health*, *Auril's Bane*).
 
 ### 📝 Change Log (Comprehensive Appendix & Internal Cross-Linking)
 * **Appendix Creation:** Created **Appendix: Equipment & Magic Items** documenting full mechanical descriptions, rarity, attunement requirements, and rules for all carried and stored equipment.
@@ -534,9 +558,9 @@
 *Goal: Maximize single-target damage and accuracy.*
 
 * **Preferred Action:** **Attack** with **[+1 Pike](#1-pike)** (Reach 10 feet). Thanks to Extra Attack, you swing twice! Use your **[Otherworldly Steed](#-mount-otherworldly-steed)** (Fly 60 feet) to engage bosses while avoiding ground hazards.
-* **Preferred Bonus Action 1:** **Vow of Enmity** (Channel Divinity) for Advantage.
+* **Preferred Bonus Action 1:** **Pole Strike (Polearm Master)** for a third attack (+8 to hit, 1d4 + 5 Bludgeoning) or **Vow of Enmity** (Channel Divinity) on Round 1 for Advantage.
 * **Preferred Bonus Action 2 (Via Move Downgrade):** **Blessing of Lathander** to deal an automatic 6 Radiant damage after hitting, and getting a free Perception check with Advantage to spot any hidden minions.
-* **Sentinel Reaction:** If the Boss attacks an ally within 5 feet of you, you get a free reaction attack. This is an excellent opportunity to trigger **[Divine Smite](#divine-smite)** off-turn.
+* **Sentinel / Polearm Master Reaction:** If the Boss enters your 10-foot reach (**Reactive Strike**) or attacks an ally within 5 feet of you (**Sentinel**), you get a free reaction attack. This is an excellent opportunity to trigger **[Divine Smite](#divine-smite)** or **Push** (10 feet) off-turn.
 * **Key Spells & Items:**
     * **[Armor of Invulnerability](#armor-of-invulnerability) (Action):** Activate to become immune to nonmagical damage for 10 minutes when facing hard-hitting brute bosses.
     * **[Hunter's Mark](#hunters-mark) (Bonus Action):** Cast this immediately. *Benefit:* Adds +1d6 damage per hit. **Note:** Due to House Rules, this does *not* require Concentration, allowing you to stack it with Bless.
@@ -563,7 +587,7 @@
     * *Effect:* 3 Enemies take -1d4 penalty to Attacks and Saves. Good against mobs with low Charisma.
 * **Preferred Bonus Action:** **Abjure Enemy** (Channel Divinity).
     * *Effect:* Frightens one enemy and reduces their speed to 0. Great for stopping a "runner" or a brute trying to reach your wizard.
-* **Sentinel Lockdown:** If an enemy tries to run past you to get to your backline, your Opportunity Attack reduces their speed to **0** for the rest of the turn, effectively rooting them in place.
+* **Sentinel & Polearm Master Lockdown:** If an enemy enters your 10-foot reach, use **Reactive Strike** combined with your Pike's **Push** mastery to shove them 10 feet back. If an enemy tries to leave your reach to get to your backline, your **Sentinel** Opportunity Attack reduces their speed to **0** for the rest of the turn, effectively rooting them in place.
 * **Key Spells:**
     * **[Bane](#bane) (Action):** Makes enemies miss more often.
     * **[Toll the Dead](#toll-the-dead) (Action):** Use against enemies with High Armor Class or at range. Deals 1d12 Necrotic damage if they are injured.
@@ -585,7 +609,7 @@
 * **Noble Standing (Feature):** As a **Noble**, you can secure an audience with local nobles and people assume you have the right to be where you are.
 
 ### 🧗 Physicality & Utility
-* **Power Through (Athletics +6):** Climb difficult surfaces, jump long distances, or swim through rough water.
+* **Power Through (Athletics +7):** Climb difficult surfaces, jump long distances, or swim through rough water.
 * **Animal Handling (-1):** Calm a domesticated animal or intuit an animal’s intentions.
 * **Stealth (+0):** Move quietly or hide from view (Note: You have Disadvantage on these checks while wearing Plate Armor).
 
@@ -596,7 +620,7 @@
 
 ### +1 Pike
 *Weapon (Pike), Uncommon (Carried)*
-* You have a +1 bonus to attack and damage rolls made with this magic weapon (1d10+4 Piercing). Reach (10 feet), Heavy, Two-Handed, Push (10 feet).
+* You have a +1 bonus to attack and damage rolls made with this magic weapon (1d10+5 Piercing; 1d4+5 Bludgeoning with Pole Strike). Reach (10 feet), Heavy, Two-Handed, Push (10 feet).
 
 ### Amulet of Health
 *Wondrous Item, Rare (Requires Attunement — Attuned)*
