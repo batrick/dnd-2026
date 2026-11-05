@@ -269,11 +269,19 @@
 
 ## 🗒️LLM TODO
 [Back to Table of Contents](#table-of-contents)
+- consider refilling potions appropriate for my level
+- reconsider all magic items in use, especially weapon
 
 ---
 
 ## Session Notes
 [Back to Table of Contents](#table-of-contents)
+
+### 2026 Oct 21
+- Add snowflake.
+- went through one combat.
+- add 10k gold
+
 
 ### 2026 Oct 07
 - arctic fog, 30ft visibility, half healing in lair
