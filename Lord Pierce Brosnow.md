@@ -589,42 +589,47 @@
 [Back to Table of Contents](#table-of-contents)
 
 ### 🎯 Scenario A: The Boss Killer (Single Strong Enemy)
-*Goal: Maximize single-target damage and accuracy.*
+*Goal: Maximize single-target damage, leverage permanent Advantage, and maintain frontline invulnerability.*
 
-* **Preferred Action:** **Attack** with **[+1 Pike](#1-pike)** (Reach 10 feet). Thanks to Extra Attack, you swing twice! Use your **[Otherworldly Steed](#-mount-otherworldly-steed)** (Fly 60 feet) to engage bosses while avoiding ground hazards.
-* **Preferred Bonus Action 1:** **Pole Strike (Polearm Master)** for a third attack (+8 to hit, 1d4 + 5 Bludgeoning) or **Vow of Enmity** (Channel Divinity) on Round 1 for Advantage.
-* **Preferred Bonus Action 2 (Via Move Downgrade):** **Blessing of Lathander** to deal an automatic 6 Radiant damage after hitting, and getting a free Perception check with Advantage to spot any hidden minions.
-* **Sentinel / Polearm Master Reaction:** If the Boss enters your 10-foot reach (**Reactive Strike**) or attacks an ally within 5 feet of you (**Sentinel**), you get a free reaction attack. This is an excellent opportunity to trigger **[Divine Smite](#divine-smite)** or **Push** (10 feet) off-turn.
-* **Key Spells & Items:**
-    * **[Armor of Invulnerability](#armor-of-invulnerability) (Action):** Activate to become immune to nonmagical damage for 10 minutes when facing hard-hitting brute bosses.
-    * **[Hunter's Mark](#hunters-mark) (Bonus Action):** Cast this immediately. *Benefit:* Adds +1d6 damage per hit. **Note:** Due to House Rules, this does *not* require Concentration, allowing you to stack it with Bless.
-    * **[Divine Smite](#divine-smite) (Bonus Action):** Use after you land a critical hit or when you need burst damage.
-    * **[Shield of Faith](#shield-of-faith) (Bonus Action):** If the boss hits hard with magical attacks, boost your Armor Class to 20.
+* **Passive Baseline (Auril's Bane):** You are continuously **Invisible**. You enter combat with **Advantage on all melee attack rolls** and enemies have **Disadvantage on attack rolls against you**[cite: 5]. You do not need to spend an action or Channel Divinity to acquire Advantage[cite: 5]. Foes cannot make Opportunity Attacks against you when you move unless they have Truesight or Blindsight[cite: 5].
+* **Preferred Action:** **Attack** with **[+2 Halberd](#2-halberd)** (Reach 10 feet)[cite: 3]. With Extra Attack, you attack twice (+9 to hit with permanent Advantage, dealing 1d10 + 6 Slashing per hit)[cite: 2, 3]. Use your **[Otherworldly Steed](#-mount-otherworldly-steed)** (Fly 60 feet) to engage aerial or elevated foes and hover above ground hazards.
+* **Preferred Bonus Action 1:** **Pole Strike (Polearm Master)** for your third attack roll (+9 to hit with Advantage, dealing 1d4 + 6 Bludgeoning damage). Reserve **Vow of Enmity** only if facing an enemy that can see through invisibility[cite: 5].
+* **Preferred Bonus Action 2 (Via Move Downgrade):** If mounted (or standing ground), convert your personal Movement into a second Bonus Action under house rules to trigger **Blessing of Lathander** (inflicting 6 flat Radiant damage after hitting) or to cast **[Hunter's Mark](#hunters-mark)** (+1d6 Force damage per hit without Concentration).
+* **Reaction Lockdown & Punish:**
+    * **Reactive Strike (Polearm Master):** When the boss enters your 10-foot reach, strike immediately off-turn (+9 to hit with Advantage, 1d10 + 6 Slashing damage).
+    * **Sentinel:** If the boss strikes an ally within 5 feet of you, make a reaction melee attack[cite: 3].
+    * **Smite Fish:** Because permanent Advantage nearly doubles your critical hit rate, save your Level 2 spell slots to drop **[Divine Smite](#divine-smite)** (4d8 Radiant, or 8d8 on a critical hit) on your highest-impact strikes[cite: 3].
+* **Key Spells & Defenses:**
+    * **[Armor of Invulnerability](#armor-of-invulnerability) (Action):** Activate immediately against hard-hitting martial monsters for 10 minutes of complete immunity to nonmagical damage (in addition to passive Resistance)[cite: 3].
+    * **[Amulet of Health](#amulet-of-health):** Stabilizes your Constitution saving throw at +7 to preserve *Bless* or *Shining Smite*[cite: 3].
+    * **Heroic Inspiration (Fortune Rule):** Save for critical hits to turn all weapon and Divine Smite dice into flat maximum damage[cite: 4].
 
 ### 🛡️ Scenario B: The Party Leader (Buff & Support)
-*Goal: Improve ally accuracy and keep them alive.*
+*Goal: Bolster party saving throws, protect squishy allies, and sustain team Hit Points.*
 
-* **Preferred Action:** **Cast [Bless](#bless)**.
-    * *Effect:* You and 2 allies add +1d4 to Attacks and Saving Throws. This stacks with your Aura of Protection for massive defensive capabilities. Stay hovering nearby allies to ensure they remain within your Aura.
-* **Preferred Bonus Action:** **Shout Instruction** or **Lay on Hands**.
-* **Sentinel Defense:** Position yourself adjacent to squishy allies (Wizard/Rogue). If an enemy attacks them, **Sentinel** grants you a retaliatory strike, punishing the enemy for ignoring you.
+* **Preferred Action:** **Cast [Bless](#bless)**[cite: 3].
+    * *Effect:* You and two allies add +1d4 to attack rolls and saving throws (stacking with your +3 Aura of Protection)[cite: 3]. Because **[Auril's Bane](#aurils-bane)** imposes Disadvantage on enemy strikes and your Constitution save modifier is +7, breaking your Concentration is exceptionally difficult[cite: 3].
+* **Preferred Bonus Action:** **Lay on Hands** (Pool: 40 Hit Points) or **Drink a Potion** (such as **[Potion of Healing (Superior)](#potion-of-healing-superior)** to restore up to 40 Hit Points)[cite: 3, 4].
+* **Sentinel Bodyguard Stance:** Hover adjacent to vulnerable casters or ranged allies[cite: 3]. Enemies cannot see you without special senses[cite: 5]. If an enemy attacks your ally, **Sentinel** triggers an immediate reaction attack[cite: 3]. Hitting an enemy with an Opportunity Attack sets its speed to 0, completely halting charges toward your backline[cite: 3].
+* **Steed Synergy:** Mount can use the **Disengage** or **Dash** action to transport you across the battlefield without drawing opportunity attacks, allowing you to reposition your 10-foot Aura of Protection wherever needed[cite: 2, 3].
 * **Key Spells & Items:**
-    * **[Bless](#bless) (Action):** The best mathematically defensive and offensive buff for the group.
-    * **[Aid](#aid) (Action):** Cast before combat to boost the maximum and current Hit Points of three targets by 5 for 8 hours.
-    * **[Cure Wounds](#cure-wounds) (Action):** Use only if an ally is critical and you are next to them; heals 2d8+3.
-    * **[Scroll of Lesser Restoration](#scroll-of-lesser-restoration) or [Lesser Restoration](#lesser-restoration) (Bonus Action):** Instantly remove Blinded, Deafened, Paralyzed, or Poisoned conditions.
+    * **[Aid](#aid) (Action):** Cast at dawn or before a dungeon crawl to grant three party members +5 maximum and current Hit Points for 8 hours[cite: 3].
+    * **[Scroll of Lesser Restoration](#scroll-of-lesser-restoration) or [Lesser Restoration](#lesser-restoration) (Bonus Action):** Remove Blinded, Deafened, Paralyzed, or Poisoned conditions from yourself or an ally[cite: 3].
+    * **[Good Mead's Golden Reserve](#good-meads-golden-reserve) (Bonus Action):** Use Option B to instantly recover two 1st-Level spell slots when party smite or spell reserves run low[cite: 3].
 
-### 🌪️ Scenario C: Crowd Control (Many Weak Enemies)
-*Goal: Debuff enemies and manage the battlefield.*
+### 🌪️ Scenario C: Crowd Control & Minion Clearing (Many Enemies)
+*Goal: Cleave through mob clusters, root fleeing runners, and manage horde positioning.*
 
-* **Preferred Action:** **Cast [Bane](#bane)** or **Attack** twice with **[+1 Pike](#1-pike)** to thin the horde.
-    * *Effect:* 3 Enemies take -1d4 penalty to Attacks and Saves. Good against mobs with low Charisma.
-* **Preferred Bonus Action:** **Abjure Enemy** (Channel Divinity).
-    * *Effect:* Frightens one enemy and reduces their speed to 0. Great for stopping a "runner" or a brute trying to reach your wizard.
-* **Sentinel & Polearm Master Lockdown:** If an enemy enters your 10-foot reach, use **Reactive Strike** combined with your Pike's **Push** mastery to shove them 10 feet back. If an enemy tries to leave your reach to get to your backline, your **Sentinel** Opportunity Attack reduces their speed to **0** for the rest of the turn, effectively rooting them in place.
-* **Key Spells:**
-    * **[Bane](#bane) (Action):** Makes enemies miss more often.
-    * **[Toll the Dead](#toll-the-dead) (Action):** Use against enemies with High Armor Class or at range. Deals 1d12 Necrotic damage if they are injured.
+* **Preferred Action:** **Attack** with **[+2 Halberd](#2-halberd)** using **Cleave**[cite: 3].
+    * *Strike 1:* Attack primary enemy (+9 to hit with Advantage, dealing 1d10 + 6 Slashing damage)[cite: 2, 3].
+    * *Cleave Strike (Free):* On hit, make a free extra attack against a second enemy within 5 feet of the first and within your 10-foot reach (+9 to hit with Advantage, dealing 1d10 + 2 Slashing damage)[cite: 2, 3].
+    * *Strike 2 (Extra Attack):* Direct your second swing (+9 to hit with Advantage, 1d10 + 6 Slashing damage) to finish off weakened targets[cite: 2, 3].
+* **Preferred Bonus Action:** **Pole Strike (Polearm Master)** against any surviving adjacent foe (+9 to hit with Advantage, dealing 1d4 + 6 Bludgeoning damage) for a potential 4th weapon strike in a single turn[cite: 2, 3].
+* **Choke-Point Lockdown:** Position yourself in 10-foot corridors or choke points[cite: 3]. With 10-foot reach and **Sentinel**, any enemy trying to push past you triggers an Opportunity Attack that roots their speed to 0 on a hit[cite: 3]. If an enemy steps into your 10-foot reach, trigger **Reactive Strike** to hit them before they can even reach you or your allies[cite: 3].
+* **Steed Dismount Tactic (Optional Swarm Clear):** In wide-open horde fights, dismount to free your Otherworldly Steed to fight as an independent creature[cite: 2, 3]. It can execute its own **Multiattack** (two Rend strikes at +7 to hit, 1d8 + 5 Slashing each) while you stand adjacent, doubling your frontline board presence[cite: 3].
+* **Key Spells & Items:**
+    * **[Bane](#bane) (Action):** Subtracted 1d4 from the attack rolls and saving throws of three targets[cite: 3].
+    * **[Toll the Dead](#toll-the-dead) (Cantrip):** Target injured high-Armor-Class monsters at range for 2d12 Necrotic damage[cite: 3].
 
 ---
 
