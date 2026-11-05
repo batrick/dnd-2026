@@ -26,7 +26,7 @@
 **Class:** Paladin (Oath of Vengeance) | **Level:** 8
 
 **Race:** Orc | **Background:** Noble
-**Experience Points:** Milestone | **Gold:** 15,822.5 Gold Pieces | **Language:** Common, Orc
+**Experience Points:** Milestone | **Gold:** 21,872.5 Gold Pieces | **Language:** Common, Orc
 
 ---
 
@@ -221,11 +221,9 @@
 
 ### 🧪 Consumables (10/10 Slots Carried)
 1. 3x **[Good Mead's Golden Reserve](#good-meads-golden-reserve)** (Rare Potion)
-2. 2x **[Potion of Healing (Greater / Rare)](#potion-of-healing-greater--rare)**
-3. 2x **[Potion of Healing](#potion-of-healing)** (2d4+2)
-4. 1x **[Potion of Cold Resistance](#potion-of-cold-resistance)**
-5. 2x **[Scroll of Lesser Restoration](#scroll-of-lesser-restoration)**
-6. 2x **[Snowflake](#snowflake)** (Chwinga Gift)
+2. 2x **[Potion of Healing (Superior)](#potion-of-healing-superior)** (8d4+8)
+3. 2x **[Scroll of Lesser Restoration](#scroll-of-lesser-restoration)**
+4. 3x **[Snowflake](#snowflake)** (Chwinga Gift)
 
 ### Magic Items (3/3 Carried & Attuned: 3/3 Slots)
 | Item | Rarity | Attunement | Effect |
@@ -256,7 +254,7 @@
 -   **[Enspelled Holy Symbol](#enspelled-holy-symbol)** (Healing Word)
 -   **[Boots of the Winterland](#boots-of-the-winterland)** (Cold Resist, ignore ice terrain)
 -   **[Staff of the Adder](#staff-of-the-adder)** (Requires Cleric/Druid/Warlock)
--   *Stored Consumables:* 1x [Potion of Resistance (Psychic)](#potion-of-resistance-psychic), 1x [Potion of Growth](#potion-of-growth), 1x [Potion of Animal Friendship](#potion-of-animal-friendship), 3x [Potion of Cold Resistance](#potion-of-cold-resistance).
+-   *Stored Consumables:* 2x [Potion of Healing (Greater / Rare)](#potion-of-healing-greater--rare), 4x [Potion of Cold Resistance](#potion-of-cold-resistance), 1x [Potion of Resistance (Psychic)](#potion-of-resistance-psychic), 1x [Potion of Growth](#potion-of-growth), 1x [Potion of Animal Friendship](#potion-of-animal-friendship).
 -   Plate Armor (Standard Mundane - Stored)
 -   Splint Armor (Stored)
 -   Priest's Pack
@@ -269,8 +267,7 @@
 
 ## 🗒️LLM TODO
 [Back to Table of Contents](#table-of-contents)
-- consider refilling potions appropriate for my level
-- reconsider all magic items in use, especially weapon
+
 
 ---
 
@@ -281,9 +278,12 @@
 - add snowflake
 
 ### 2026 Oct 21
-- Add snowflake.
-- went through one combat.
-- add 10k gold
+- Add snowflake (now carrying 3).
+- Went through one combat.
+- +10,000 Gold Pieces (reward).
+- Sold 2x Potion of Healing (+50 GP).
+- Purchased 2x Potion of Healing (Superior) (-4,000 GP).
+- Stored 2x Potion of Healing (Greater) and 1x Potion of Cold Resistance to maintain strict 10/10 carried consumable limit.
 
 
 ### 2026 Oct 07
@@ -384,6 +384,17 @@
 
 ## 📝 Change Log
 [Back to Table of Contents](#table-of-contents)
+
+### 📝 Change Log (Oct 21 2026 Session Updates, Potion Upgrades & Inventory Balance)
+* **Financials:**
+    * Added **+10,000 Gold Pieces** from the October 21 session rewards.
+    * Sold 2x *Potion of Healing* (+50 Gold Pieces total, at 25 GP each).
+    * Purchased 2x *Potion of Healing (Superior)* (-4,000 Gold Pieces total, at 2,000 GP each).
+    * Updated balance to **21,872.5 Gold Pieces**.
+* **Consumables & Carry Limit Alignment:**
+    * Replaced basic healing potions with 2x **[Potion of Healing (Superior)](#potion-of-healing-superior)**.
+    * Tracked 1x *Snowflake* (Chwinga Gift), bringing carried total to 3x *Snowflake*.
+    * Moved 2x *Potion of Healing (Greater)* and 1x *Potion of Cold Resistance* to Stored Gear, keeping active carried consumables strictly at the Tier 2 cap of **10/10 slots**.
 
 ### 📝 Change Log (Level 7 → 8, Polearm Master Feat & Oct 07 Session Rewards)
 * **Level:** Advanced from Level 7 to **Level 8**.
@@ -726,9 +737,9 @@
 *Potion, Uncommon (Consumable — Stored)*
 * When you drink this potion, you gain the "Enlarge" effect of the *Enlarge/Reduce* spell for 1d4 hours.
 
-### Potion of Healing
-*Potion, Common (Consumable — Carried)*
-* A character who drinks this potion regains 2d4 + 2 Hit Points.
+### Potion of Healing (Superior)
+*Potion, Rare (Consumable — Carried)*
+* A character who drinks this potion regains 8d4 + 8 Hit Points. When maximized with Heroic Inspiration, this restores a flat 40 Hit Points.
 
 ### Potion of Healing (Greater / Rare)
 *Potion, Rare (Consumable — Carried)*
