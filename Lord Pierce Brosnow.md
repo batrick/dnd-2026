@@ -26,7 +26,7 @@
 **Class:** Paladin (Oath of Vengeance) | **Level:** 8
 
 **Race:** Orc | **Background:** Noble
-**Experience Points:** Milestone | **Gold:** 22,022.5 Gold Pieces | **Language:** Common, Orc
+**Experience Points:** Milestone | **Gold:** 28,022.5 Gold Pieces | **Language:** Common, Orc
 
 ---
 
@@ -220,11 +220,11 @@
 ## 🎒 Inventory & Equipment
 [Back to Table of Contents](#table-of-contents)
 
-### 🧪 Consumables (10/10 Slots Carried)
+### 🧪 Consumables (11/10 Slots Carried)
 1. 3x **[Good Mead's Golden Reserve](#good-meads-golden-reserve)** (Rare Potion)
 2. 2x **[Potion of Healing (Superior)](#potion-of-healing-superior)** (8d4+8)
 3. 2x **[Scroll of Lesser Restoration](#scroll-of-lesser-restoration)**
-4. 3x **[Snowflake](#snowflake)** (Chwinga Gift)
+4. 4x **[Snowflake](#snowflake)** (Chwinga Gift)
 
 ### Magic Items (3/3 Carried & Attuned: 3/3 Slots)
 | Item | Rarity | Attunement | Effect |
@@ -256,6 +256,7 @@
 -   **[Boots of the Winterland](#boots-of-the-winterland)** (Cold Resist, ignore ice terrain)
 -   **[Staff of the Adder](#staff-of-the-adder)** (Requires Cleric/Druid/Warlock)
 -   *Stored Consumables:* 2x [Potion of Healing (Greater / Rare)](#potion-of-healing-greater--rare), 4x [Potion of Cold Resistance](#potion-of-cold-resistance), 1x [Potion of Resistance (Psychic)](#potion-of-resistance-psychic), 1x [Potion of Growth](#potion-of-growth), 1x [Potion of Animal Friendship](#potion-of-animal-friendship).
+-   **Cloak of Arachnida** (Very Rare - Attunement | Spider Climb, Web immunity, Poison resistance/advantage, 40-ft Web 1/day)
 -   Plate Armor (Standard Mundane - Stored)
 -   Splint Armor (Stored)
 -   Priest's Pack
@@ -276,7 +277,30 @@
 [Back to Table of Contents](#table-of-contents)
 
 ### 2026 Nov 04
-- add snowflake
+- Started session with Heroic Inspiration; continued without a Long Rest (entered combat at 41 Hit Points, Relentless Endurance expended, 1x Level 1 spell slot expended).
+- Mounted on Fey Polar Bear Otherworldly Steed (Fly 60 feet); continuously Invisible via Auril's Bane.
+- Purchased 2x Potion of Healing (Superior) (-4,000 Gold Pieces); carried limit waived at table to 13/10.
+- Combat Round 1: Took 5 Necrotic damage and incurred -2 Strength drain (Strength temporarily 16, modifier +3; Halberd attack rolls at +8, primary damage at 1d10+5).
+  - Swing 1 vs Target A (Vampire Spawn): Rolled 18 to hit for 7 Slashing damage; triggered Cleave.
+  - Cleave vs Target B: Rolled 12+8=20 to hit for 8 Slashing damage.
+  - Swing 2 vs Target A: Rolled 17 to hit for 9 Slashing damage.
+  - Bonus Action (Divine Smite): Expended 1x Level 2 spell slot for 16 Radiant damage on Target A (32 total damage dealt; suppressed its Regeneration trait).
+  - Bonus Action 2 (Move Downgrade): Activated Divine Sense (expended 1x Channel Divinity; 60 feet detection active).
+- Incoming Enemy Attack: Hit by crossbow for 8 Piercing damage (halved to 4 Piercing damage via Armor of Invulnerability resistance; Hit Points at 32/84).
+- Combat Round 2: Mounted flight closed 30 diagonal feet to engage next pair of adjacent foes at 10-foot reach.
+  - Attack 1 vs Primary Target: Rolled 27 to hit for 9 Slashing damage; triggered Cleave.
+  - Cleave vs Adjacent Target: Rolled 16+8=24 to hit for 11 Slashing damage.
+  - Attack 2 vs Primary Target: Rolled 14 to hit for 7 Slashing damage (2+5).
+  - Bonus Action (Divine Smite): Expended 1x Level 2 spell slot for 17 Radiant damage on Primary Target (33 total damage dealt).
+- Incoming Enemy Attacks: Crossbow hit for 2 Piercing (halved to 1 Piercing via Armor of Invulnerability) + 4 Necrotic damage (5 total damage taken; Hit Points dropped to 27/84).
+- Combat Round 3: Executed Halberd sequence on remaining two foes; both opponents defeated and killed.
+- Post-Combat: Looted Cloak of Arachnida (Very Rare, Attunement; placed into Stored Gear).
+- Recovery: Drank 2x Potion of Healing (Superior) using average healing (28 + 28 = 56 Hit Points restored, bringing Hit Points from 27 to 83/84; 2 Superior Potions remaining).
+- Added 1x Snowflake (Chwinga Gift), bringing total carried to 4x Snowflake (11/10 consumables carried).
+- Stone Golem Engagement (Solo):
+  - Incoming Damage 1: Took 5 Bludgeoning (halved to 2 via Armor of Invulnerability) + 11 Cold damage (13 total damage; Hit Points dropped to 70/84).
+  - Incoming Damage 2: Took 13 Bludgeoning (halved to 6 via Armor of Invulnerability; Hit Points at 64/84).
+- Left session early to sleep (3 time zones ahead of group). Gained +10,000 Gold Pieces module reward. Net gold: 22,022.5 - 4,000 (potions) + 10,000 = 28,022.5 Gold Pieces.
 
 ### 2026 Oct 21
 - Add snowflake (now carrying 3).
@@ -387,6 +411,17 @@
 
 ## 📝 Change Log
 [Back to Table of Contents](#table-of-contents)
+
+### 📝 Change Log (Nov 04 2026 Session Rewards, Combat Resolution & Stored Loot)
+* **Financials:** Added +10,000 Gold Pieces from the November 04 session reward and deducted 4,000 Gold Pieces for the pre-combat purchase of 2x *Potion of Healing (Superior)* (Net change: +6,000 Gold Pieces; New Total: **28,022.5 Gold Pieces**).
+* **Consumables & Inventory Synchronization:**
+    * Purchased 2x *Potion of Healing (Superior)* and later consumed both post-combat for average healing (+56 Hit Points), leaving carried count unchanged at 2x *Potion of Healing (Superior)*.
+    * Added 1x *Snowflake* (Chwinga Gift), updating carried total to 4x *Snowflake* (Carried Consumables at 11/10 slots per table ruling).
+* **Stored Magic Items:** Added looted **Cloak of Arachnida** (Very Rare — Requires Attunement) to Stored Gear.
+* **Combat & Resource Tracking (No Long Rest):**
+    * Character ended session at **64 / 84 Hit Points** following Stone Golem nonmagical bludgeoning resistance calculation.
+    * Strength temporarily at 16 (-2 drain).
+    * Expended resources: Relentless Endurance (0/1), Level 2 Spell Slots (1/3 remaining; 2 expended on Smites), Channel Divinity (1/2 remaining; Divine Sense used). Lay on Hands pool remains untouched at 40/40 Hit Points.
 
 ### 📝 Change Log (Oct 21 2026 Weapon Upgrade: +2 Halberd & Potion Sync)
 * **Weapon Sold & Commissioned:** Sold the *+1 Pike* (+200 Gold Pieces, half cost) and purchased a **[+2 Halberd](#2-halberd)** (-4,000 Gold Pieces). Net gold reduction: 3,800 Gold Pieces (New Balance: **22,022.5 Gold Pieces**).
