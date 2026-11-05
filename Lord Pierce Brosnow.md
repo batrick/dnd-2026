@@ -277,6 +277,9 @@
 ## Session Notes
 [Back to Table of Contents](#table-of-contents)
 
+### 2026 Nov 04
+- add snowflake
+
 ### 2026 Oct 21
 - Add snowflake.
 - went through one combat.
