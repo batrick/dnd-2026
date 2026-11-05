@@ -84,15 +84,16 @@
 ### Weapon Attacks
 | Weapon | Attack Bonus | Damage | Notes |
 | :--- | :---: | :--- | :--- |
-| **[+1 Pike](#1-pike)** | **+8** | **1d10 + 5** (Piercing) | Heavy, Reach (10 feet), Two-Handed, Push (10 feet), Magical |
-| **[+1 Pike](#1-pike) (Pole Strike)** | **+8** | **1d4 + 5** (Bludgeoning) | Bonus Action immediately after taking Attack action with Pike |
+| **[+2 Halberd](#2-halberd)** | **+9** | **1d10 + 6** (Slashing) | Heavy, Reach (10 feet), Two-Handed, Cleave, Magical |
+| **[+2 Halberd](#2-halberd) (Pole Strike)** | **+9** | **1d4 + 6** (Bludgeoning) | Bonus Action immediately after taking Attack action with Halberd |
+| **[+2 Halberd](#2-halberd) (Cleave Attack)** | **+9** | **1d10 + 2** (Slashing) | Free extra attack vs adjacent foe within 10 ft on hit (1/turn) |
 
 > **Extra Attack:** You can attack twice, instead of once, whenever you take the Attack action on your turn.
 > **House Rule (Flanking):** +2 to hit while flanking.
 > **House Rule (Skill Crits):** Beat Difficulty Class by 10 for critical success.
 
 ### ⚡ Bonus Actions
-* **Pole Strike (Polearm Master):** Immediately after taking the Attack action and attacking with your **[+1 Pike](#1-pike)**, make a melee attack with the opposite end of the weapon (+8 to hit, 1d4 + 5 Bludgeoning damage).
+* **Pole Strike (Polearm Master):** Immediately after taking the Attack action and attacking with your **[+2 Halberd](#2-halberd)**, make a melee attack with the opposite end of the weapon (+9 to hit, 1d4 + 6 Bludgeoning damage).
 * **[Divine Smite](#divine-smite) (Spell):** Expend a spell slot immediately after hitting to deal 2d8 Radiant damage (+1d8 per slot level above Level 1). **Note:** Always prepared; one free cast per Long Rest.
 * **Divine Sense (Channel Divinity):** Know the location and type of Celestials, Fiends, or Undead within 60 feet for 10 minutes. (Costs 1 Channel Divinity).
 * **Vow of Enmity (Channel Divinity):** Advantage on attack rolls against one creature (10 feet range) for 1 minute. (Costs 1 Channel Divinity).
@@ -110,7 +111,7 @@
 * **Monster Knowledge:** Skill check (Difficulty Class 10 + ½ Challenge Rating) to recall stats.
 
 ### ↩️ Reactions
-* **Reactive Strike (Polearm Master):** While holding your **[+1 Pike](#1-pike)**, make one melee attack against a creature that enters the reach you have with that weapon (10 feet).
+* **Reactive Strike (Polearm Master):** While holding your **[+2 Halberd](#2-halberd)**, make one melee attack against a creature that enters the reach you have with that weapon (10 feet).
 * **Sentinel Attack:** Melee weapon attack when a creature within 5 feet makes an attack against a target other than you.
 * **Opportunity Attack:** Melee attack when enemy leaves reach. Sentinel: Disengage does not prevent this. Target speed becomes 0 on hit.
 * **Relentless Avenger (Subclass):** After hitting with an Opportunity Attack, move up to half your Speed immediately without provoking Opportunity Attacks.
@@ -161,7 +162,7 @@
 ### Feats
 -   **Polearm Master (Level 8):**
     -   **Attribute Boost:** Increased Strength by 1 (from 17 to 18).
-    -   **Pole Strike:** Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties (such as your **[+1 Pike](#1-pike)**), you can use a Bonus Action to make a melee attack with the opposite end of the weapon. The weapon deals Bludgeoning damage, and the weapon's damage die for this attack is a d4.
+    -   **Pole Strike:** Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties (such as your **[+2 Halberd](#2-halberd)**), you can use a Bonus Action to make a melee attack with the opposite end of the weapon. The weapon deals Bludgeoning damage, and the weapon's damage die for this attack is a d4.
     -   **Reactive Strike:** While you are holding a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can take a Reaction to make one melee attack against a creature that enters the reach you have with that weapon.
 -   **Sentinel (Level 4):**
     -   **Attribute Boost:** Increased Strength by 1.
@@ -231,7 +232,7 @@
 | **[Armor of Invulnerability](#armor-of-invulnerability)** | Very Rare | **Yes** | Armor Class 18 Plate; Resistance to nonmagical damage; 10-minute nonmagical damage immunity (1/day). |
 | **[Amulet of Health](#amulet-of-health)** | Rare | **Yes** | Sets Constitution score to 19 (+4 modifier). |
 | **[Auril's Bane](#aurils-bane)** | Legendary | **Yes** | Continuous Invisibility while worn; Ethereal Beacon. |
-| **[+1 Pike](#1-pike)** | Uncommon | **No** | +1 bonus to attack and damage rolls. |
+| **[+2 Halberd](#2-halberd)** | Rare | **No** | +2 bonus to attack and damage rolls. |
 | **[Boots of False Tracks](#boots-of-false-tracks)** | Common | **No** | Change footprints (Polar Bear). |
 | **[Ersatz Eye](#ersatz-eye)** | Common | **No** | Artificial eye. |
 | **[Smoldering Armor](#smoldering-armor)** | Common | **No** | Cosmetic smoke. |
@@ -284,6 +285,8 @@
 - Sold 2x Potion of Healing (+50 GP).
 - Purchased 2x Potion of Healing (Superior) (-4,000 GP).
 - Stored 2x Potion of Healing (Greater) and 1x Potion of Cold Resistance to maintain strict 10/10 carried consumable limit.
+- Sold +1 Pike (+200 GP).
+- Purchased +2 Halberd (-4,000 GP). Net gold change: -3,800 GP.
 
 
 ### 2026 Oct 07
@@ -640,9 +643,10 @@
 ## 🛡️ APPENDIX: EQUIPMENT & MAGIC ITEMS
 [Back to Table of Contents](#table-of-contents)
 
-### +1 Pike
-*Weapon (Pike), Uncommon (Carried)*
-* You have a +1 bonus to attack and damage rolls made with this magic weapon (1d10+5 Piercing; 1d4+5 Bludgeoning with Pole Strike). Reach (10 feet), Heavy, Two-Handed, Push (10 feet).
+### +2 Halberd
+*Weapon (Halberd), Rare (Carried)*
+* You have a +2 bonus to attack and damage rolls made with this magic weapon (1d10+6 Slashing; 1d4+6 Bludgeoning with Pole Strike). Reach (10 feet), Heavy, Two-Handed, Cleave.
+* **Weapon Mastery (Cleave):** If you hit a creature with a melee attack roll using this weapon, you can make a melee attack roll with the halberd against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's base damage (1d10) plus the weapon's enhancement bonus (+2 Slashing), but not your ability score modifier. You can make this extra attack only once per turn.
 
 ### Amulet of Health
 *Wondrous Item, Rare (Requires Attunement — Attuned)*
