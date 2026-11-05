@@ -6,7 +6,7 @@
 - [Core Vitals](#-core-vitals)
 - [Ability Scores](#️-ability-scores)
 - [Skills](#-skills)
-- [Combat Actions](#-combat-actions)
+- [Combat Actions](#️-combat-actions)
 - [Spells](#-spells)
 - [Features & Traits](#-features--traits)
 - [Mount: Otherworldly Steed](#-mount-otherworldly-steed)
@@ -16,7 +16,7 @@
 - [Change Log](#-change-log)
 - [Appendix: Tactical Guide](#-appendix-tactical-guide)
 - [Appendix: Social & Exploration Actions](#-appendix-social--exploration-actions)
-- [Appendix: Equipment & Magic Items](#-appendix-equipment--magic-items)
+- [Appendix: Equipment & Magic Items](#️-appendix-equipment--magic-items)
 - [Appendix: Spellbook](#-appendix-spellbook)
 
 ---
@@ -102,7 +102,7 @@
 * **[Lesser Restoration](#lesser-restoration) (Spell):** End Blinded, Deafened, Paralyzed, or Poisoned condition on a touched creature.
 * **Adrenaline Rush (Orc Trait):** Dash action + Gain 2 Temporary Hit Points. (3 uses per Long Rest).
 * **Lay on Hands:** Heal creature in touch range. Pool: **40 Hit Points**.
-* **Drink a Potion:** Drink any potion you are carrying (e.g. [Potion of Healing](#potion-of-healing), [Good Mead's Golden Reserve](#good-meads-golden-reserve)).
+* **Drink a Potion:** Drink any potion you are carrying (e.g. [Potion of Healing (Superior)](#potion-of-healing-superior), [Good Mead's Golden Reserve](#good-meads-golden-reserve)).
 * **Spot a Foe:** Perception check vs Stealth (You have Advantage on this via Blessing of Lathander).
 * **Shout Instruction:** Issue 5-word instruction to allies.
 
@@ -256,7 +256,7 @@
 -   **[Boots of the Winterland](#boots-of-the-winterland)** (Cold Resist, ignore ice terrain)
 -   **[Staff of the Adder](#staff-of-the-adder)** (Requires Cleric/Druid/Warlock)
 -   *Stored Consumables:* 2x [Potion of Healing (Greater / Rare)](#potion-of-healing-greater--rare), 4x [Potion of Cold Resistance](#potion-of-cold-resistance), 1x [Potion of Resistance (Psychic)](#potion-of-resistance-psychic), 1x [Potion of Growth](#potion-of-growth), 1x [Potion of Animal Friendship](#potion-of-animal-friendship).
--   **Cloak of Arachnida** (Very Rare - Attunement | Spider Climb, Web immunity, Poison resistance/advantage, 40-ft Web 1/day)
+-   **[Cloak of Arachnida](#cloak-of-arachnida)** (Very Rare - Attunement | Spider Climb, Web immunity, Poison resistance/advantage, 40-ft Web 1/day)
 -   Plate Armor (Standard Mundane - Stored)
 -   Splint Armor (Stored)
 -   Priest's Pack
@@ -411,6 +411,10 @@
 
 ## 📝 Change Log
 [Back to Table of Contents](#table-of-contents)
+
+### 📝 Change Log (Markdown Link Repair & Appendix Audit)
+* **Table of Contents Navigation:** Corrected the Table of Contents anchor for `[Appendix: Equipment & Magic Items](#️-appendix-equipment--magic-items)` to align with the shield emoji slug, restoring working navigation.
+* **Appendix Descriptions Added:** Added stubbed description for `Potion of Healing` in Appendix: Equipment & Magic Items and updated potion consumption examples to link to `Potion of Healing (Superior)`.
 
 ### 📝 Change Log (Nov 04 2026 Session Rewards, Combat Resolution & Stored Loot)
 * **Financials:** Added +10,000 Gold Pieces from the November 04 session reward and deducted 4,000 Gold Pieces for the pre-combat purchase of 2x *Potion of Healing (Superior)* (Net change: +6,000 Gold Pieces; New Total: **28,022.5 Gold Pieces**).
@@ -736,6 +740,15 @@
 * +1 bonus to attack and damage rolls.
 * **Curse:** The attuned wielder must succeed on a saving throw against indefinite madness after 24 hours. Can be cleansed with *Remove Curse* or *Greater Restoration*.
 
+### Cloak of Arachnida
+*Wondrous Item, Very Rare (Requires Attunement — Stored)*
+* While wearing this cloak, you gain the following benefits:
+  * You have Resistance to Poison damage and Advantage on saving throws against poison.
+  * You gain a climbing speed equal to your walking speed, and you can move up, down, and across vertical surfaces and upside down along ceilings while leaving your hands free (Spider Climb).
+  * You ignore movement restrictions caused by webbing of any kind and can walk through webs as if they were difficult terrain.
+  * While touching a web, you know the exact location of any other creature in contact with the same web.
+  * As an Action, you can cast the *Web* spell from the cloak (Save Difficulty Class 15) once per day, creating a 40-foot cube of sticky webbing instead of the standard 20-foot cube. This property regains its charge daily at dawn.
+
 ### Cloak of Protection
 *Wondrous Item, Uncommon (Requires Attunement — Stored)*
 * You gain a +1 bonus to Armor Class and saving throws while wearing this cloak.
@@ -789,6 +802,10 @@
 ### Potion of Growth
 *Potion, Uncommon (Consumable — Stored)*
 * When you drink this potion, you gain the "Enlarge" effect of the *Enlarge/Reduce* spell for 1d4 hours.
+
+### Potion of Healing
+*Potion, Common (Consumable — Stored)*
+* A character who drinks this potion regains 2d4 + 2 Hit Points.
 
 ### Potion of Healing (Superior)
 *Potion, Rare (Consumable — Carried)*
