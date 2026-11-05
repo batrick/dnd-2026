@@ -26,7 +26,7 @@
 **Class:** Paladin (Oath of Vengeance) | **Level:** 8
 
 **Race:** Orc | **Background:** Noble
-**Experience Points:** Milestone | **Gold:** 21,872.5 Gold Pieces | **Language:** Common, Orc
+**Experience Points:** Milestone | **Gold:** 22,022.5 Gold Pieces | **Language:** Common, Orc
 
 ---
 
@@ -387,6 +387,15 @@
 
 ## 📝 Change Log
 [Back to Table of Contents](#table-of-contents)
+
+### 📝 Change Log (Oct 21 2026 Weapon Upgrade: +2 Halberd & Potion Sync)
+* **Weapon Sold & Commissioned:** Sold the *+1 Pike* (+200 Gold Pieces, half cost) and purchased a **[+2 Halberd](#2-halberd)** (-4,000 Gold Pieces). Net gold reduction: 3,800 Gold Pieces (New Balance: **22,022.5 Gold Pieces**).
+* **Combat Stats Updated:**
+    * Attack bonus increased to **+9 to hit** (from +8).
+    * Primary strike damage increased to **1d10 + 6 Slashing** (from 1d10 + 5 Piercing).
+    * Pole Strike (Bonus Action) increased to **1d4 + 6 Bludgeoning** (from 1d4 + 5).
+    * Weapon Mastery changed from *Push* to **Cleave** (allows a free 1d10 + 2 Slashing attack once per turn against an adjacent secondary creature within 10 feet on a hit).
+* **Feat Synergies Retained:** *Polearm Master* and *Sentinel* remain fully intact without retraining because the Halberd is Heavy and Reach.
 
 ### 📝 Change Log (Oct 21 2026 Session Updates, Potion Upgrades & Inventory Balance)
 * **Financials:**
