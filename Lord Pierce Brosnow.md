@@ -1,6 +1,6 @@
 # Lord Pierce Brosnow - Level 8 Paladin (Oath of Vengeance)
 
-![Lord Pierce Brosnow](lord-pierce-brosnow.jpg)
+![Lord Pierce Brosnow](lord-pierce-brosnow-mounted.jpg)
 
 ### Table of Contents
 - [Core Vitals](#-core-vitals)
